@@ -20,7 +20,7 @@
 		- Area Between Two Curves
 		- Substitution Rule
 		- Integration by Parts
-		- Trigonometric Subsitution
+		- Trigonometric Substitution
 		- Partial Fractions
 	- Exponential Functions
 		- Derivative
@@ -40,7 +40,7 @@
 	- Scalars
 	- Vectors
 	- Properties of Vectors
-	- Coordinate System and Vecotor Components
+	- Coordinate System and Vector Components
 	- Vector Algebra
 	- Dot Product
 	- Cross Product
@@ -48,7 +48,7 @@
 - Kinematics(1D)
 	- Motion Diagrams
 	- Position
-	- Displacment
+	- Displacement
 	- Speed
 	- Velocity
 		- Average
@@ -61,7 +61,7 @@
 	- Free Fall
 		
 - Kinematics(2D and 3D)
-	- Displacment Vector
+	- Displacement Vector
 	- Velocity Vector
 	- Acceleration Vector
 	- Projectile Motion
@@ -86,7 +86,7 @@
 	- Springs
 		- Hooke's Law
 	-Dynamics of Circular Motion
-		- Centripital Force
+		- Centripetal Force
 		- Uniform
 		- Non-Uniform
 
@@ -99,7 +99,7 @@
 		- Elastic
 		- Inelastic
 		- Explosions
-	- Concervation of Momentum
+	- Conservation of Momentum
 		- Linear
 		- Angular
 	- 2D Collisions
@@ -166,4 +166,4 @@
 	- Stress 
 	- Strain
 	- Elastic Modulus
-	- Placticity
+	- Plasticity
