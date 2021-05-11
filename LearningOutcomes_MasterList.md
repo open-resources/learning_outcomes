@@ -125,7 +125,7 @@
 	- Rolling Motion
 		- Without Slipping
 		- With Slipping
-	- Center of 
+	- Center of Mass
 	- Rotational Energy
 		- Moment of Inertia
 		- Parallel-Axis Theorem
