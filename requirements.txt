@@ -1,4 +1,4 @@
 docopt
 pathlib
-yaml
+PyYAML
 pandas
