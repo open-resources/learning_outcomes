@@ -124,17 +124,17 @@ Unit 1. Mechanics
 
 ### 4.1 Displacement and Velocity Vectors
 
-  1. Calculate position vectors in a multidimensional displacement problem.
-  2. Solve for the displacement in two or three dimensions.
-  3. Calculate the velocity vector given the position vector as a function of time.
-  4. Calculate the average velocity in multiple dimensions.
+1. Calculate position vectors in a multidimensional displacement problem.
+2. Solve for the displacement in two or three dimensions.
+3. Calculate the velocity vector given the position vector as a function of time.
+4. Calculate the average velocity in multiple dimensions.
 
 ### 4.2 Acceleration Vector
 
-  1. Calculate the acceleration vector given the velocity function in unit vector notation.
-  2. Describe the motion of a particle with a constant acceleration in three dimensions.
-  3. Use the one-dimensional motion equations along perpendicular axes to solve a problem in two or three dimensions with a constant acceleration.
-  4. Express the acceleration in unit vector notation.
+1. Calculate the acceleration vector given the velocity function in unit vector notation.
+2. Describe the motion of a particle with a constant acceleration in three dimensions.
+3. Use the one-dimensional motion equations along perpendicular axes to solve a problem in two or three dimensions with a constant acceleration.
+4. Express the acceleration in unit vector notation.
 
 ### 4.3 Projectile Motion
 
@@ -145,179 +145,179 @@ Unit 1. Mechanics
 
 ### 4.4 Uniform Circular Motion
 
-  1. Solve for the centripetal acceleration of an object moving on a circular path.
-  2. Use the equations of circular motion to find the position, velocity, and acceleration of a particle executing circular motion.
-  3. Explain the differences between centripetal acceleration and tangential acceleration resulting from nonuniform circular motion.
-  4. Evaluate centripetal and tangential acceleration in nonuniform circular motion, and find the total acceleration vector.
+1. Solve for the centripetal acceleration of an object moving on a circular path.
+2. Use the equations of circular motion to find the position, velocity, and acceleration of a particle executing circular motion.
+3. Explain the differences between centripetal acceleration and tangential acceleration resulting from nonuniform circular motion.
+4. Evaluate centripetal and tangential acceleration in nonuniform circular motion, and find the total acceleration vector.
 
 ### 4.5 Relative Motion in One and Two Dimensions
 
-  1. Explain the concept of reference frames.
-  2. Write the position and velocity vector equations for relative motion.
-  3. Draw the position and velocity vectors for relative motion.
-  4. Analyze one-dimensional and two-dimensional relative motion problems using the position and velocity vector equations.
+1. Explain the concept of reference frames.
+2. Write the position and velocity vector equations for relative motion.
+3. Draw the position and velocity vectors for relative motion.
+4. Analyze one-dimensional and two-dimensional relative motion problems using the position and velocity vector equations.
 
 ## Chapter 5: Newton's Laws of Motion
 
 ### 5.1 Forces
 
-  1. Distinguish between kinematics and dynamics
-  2. Understand the definition of force
-  3. Identify simple free-body diagrams
-  4. Define the SI unit of force, the newton
-  5. Describe force as a vector
+1. Distinguish between kinematics and dynamics
+2. Understand the definition of force
+3. Identify simple free-body diagrams
+4. Define the SI unit of force, the newton
+5. Describe force as a vector
 
 ### 5.2 Newton's First Law
 
-  1. Describe Newton's first law of motion
-  2. Recognize friction as an external force
-  3. Define inertia
-  4. Identify inertial reference frames
-  5. Calculate equilibrium for a system
+1. Describe Newton's first law of motion
+2. Recognize friction as an external force
+3. Define inertia
+4. Identify inertial reference frames
+5. Calculate equilibrium for a system
 
 ### 5.3 Newton's Second Law
 
-  1. Distinguish between external and internal forces
-  2. Describe Newton's second law of motion
-  3. Explain the dependence of acceleration on net force and mass
+1. Distinguish between external and internal forces
+2. Describe Newton's second law of motion
+3. Explain the dependence of acceleration on net force and mass
 
 ### 5.4 Mass and Weight
 
-  1. Explain the difference between mass and weight
-  2. Explain why falling objects on Earth are never truly in free fall
-  3. Describe the concept of weightlessness
+1. Explain the difference between mass and weight
+2. Explain why falling objects on Earth are never truly in free fall
+3. Describe the concept of weightlessness
 
 ### 5.5 Newton's Third Law
 
-  1. State Newton's third law of motion
-  2. Identify the action and reaction forces in different situations
-  3. Apply Newton's third law to define systems and solve problems of motion
+1. State Newton's third law of motion
+2. Identify the action and reaction forces in different situations
+3. Apply Newton's third law to define systems and solve problems of motion
 
 ### 5.6 Common Forces
 
-  1. Define normal and tension forces
-  2. Distinguish between real and fictitious forces
-  3. Apply Newton's laws of motion to solve problems involving a variety of forces
+1. Define normal and tension forces
+2. Distinguish between real and fictitious forces
+3. Apply Newton's laws of motion to solve problems involving a variety of forces
 
 ### 5.7 Drawing Free-Body Diagrams
 
-  1. Explain the rules for drawing a free-body diagram
-  2. Construct free-body diagrams for different situations
+1. Explain the rules for drawing a free-body diagram
+2. Construct free-body diagrams for different situations
 
 ## Chapter 6: Applications of Newton's Laws
 
 ### 6.1 Solving Problems with Newton's Laws
 
-  1. Apply problem-solving techniques to solve for quantities in more complex systems of forces
-  2. Use concepts from kinematics to solve problems using Newton's laws of motion
-  3. Solve more complex equilibrium problems
-  4. Solve more complex acceleration problems
-  5. Apply calculus to more advanced dynamics problems
+1. Apply problem-solving techniques to solve for quantities in more complex systems of forces
+2. Use concepts from kinematics to solve problems using Newton's laws of motion
+3. Solve more complex equilibrium problems
+4. Solve more complex acceleration problems
+5. Apply calculus to more advanced dynamics problems
 
 ### 6.2 Friction
 
-  1. Describe the general characteristics of friction
-  2. List the various types of friction
-  3. Calculate the magnitude of static and kinetic friction, and use these in problems involving Newton's laws of motion
+1. Describe the general characteristics of friction
+2. List the various types of friction
+3. Calculate the magnitude of static and kinetic friction, and use these in problems involving Newton's laws of motion
 
 ### 6.3 Centripetal Force
 
-  1. Explain the equation for centripetal acceleration
-  2. Apply Newton's second law to develop the equation for centripetal force
-  3. Use circular motion concepts in solving problems involving Newton's laws of motion
+1. Explain the equation for centripetal acceleration
+2. Apply Newton's second law to develop the equation for centripetal force
+3. Use circular motion concepts in solving problems involving Newton's laws of motion
 
 ### 6.4 Drag Force and Terminal Speed
 
-  1. Express the drag force mathematically
-  2. Describe applications of the drag force
-  3. Define terminal velocity
-  4. Determine an object's terminal velocity given its mass
+1. Express the drag force mathematically
+2. Describe applications of the drag force
+3. Define terminal velocity
+4. Determine an object's terminal velocity given its mass
 
 ## Chapter 7: Work and Kinetic Energy
 
 ### 7.1 Work
 
-  1. Represent the work done by any force
-  2. Evaluate the work done for various forces
+1. Represent the work done by any force
+2. Evaluate the work done for various forces
 
 ### 7.2 Kinetic Energy
 
-  1. Calculate the kinetic energy of a particle given its mass and its velocity or momentum
-  2. Evaluate the kinetic energy of a body, relative to different frames of reference
+1. Calculate the kinetic energy of a particle given its mass and its velocity or momentum
+2. Evaluate the kinetic energy of a body, relative to different frames of reference
 
 ### 7.3 Work-Energy Theorem
 
-  1. Apply the work-energy theorem to find information about the motion of a particle, given the forces acting on it
-  2. Use the work-energy theorem to find information about the forces acting on a particle, given information about its motion
+1. Apply the work-energy theorem to find information about the motion of a particle, given the forces acting on it
+2. Use the work-energy theorem to find information about the forces acting on a particle, given information about its motion
 
 ### 7.4 Power
 
-  1. Relate the work done during a time interval to the power delivered
-  2. Find the power expended by a force acting on a moving body
+1. Relate the work done during a time interval to the power delivered
+2. Find the power expended by a force acting on a moving body
 
 ## Chapter 8: Potential Energy and Conservation of Energy
 
 ### 8.1 Potential Energy of a System
 
-  1. Relate the difference of potential energy to work done on a particle for a system without friction or air drag
-  2. Explain the meaning of the zero of the potential energy function for a system
-  3. Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system
+1. Relate the difference of potential energy to work done on a particle for a system without friction or air drag
+2. Explain the meaning of the zero of the potential energy function for a system
+3. Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system
 
 ### 8.2 Conservative and Non-Conservative Forces
 
-  1. Characterize a conservative force in several different ways
-  2. Specify mathematical conditions that must be satisfied by a conservative force and its components
-  3. Relate the conservative force between particles of a system to the potential energy of the system
-  4. Calculate the components of a conservative force in various cases
+1. Characterize a conservative force in several different ways
+2. Specify mathematical conditions that must be satisfied by a conservative force and its components
+3. Relate the conservative force between particles of a system to the potential energy of the system
+4. Calculate the components of a conservative force in various cases
 
 ### 8.3 Conservation of Energy
 
-  1. Formulate the principle of conservation of mechanical energy, with or without the presence of non-conservative forces
-  2. Use the conservation of mechanical energy to calculate various properties of simple systems
+1. Formulate the principle of conservation of mechanical energy, with or without the presence of non-conservative forces
+2. Use the conservation of mechanical energy to calculate various properties of simple systems
 
 ### 8.4 Potential Energy Diagrams and Stability
 
-  1. Create and interpret graphs of potential energy
-  2. Explain the connection between stability and potential energy
+1. Create and interpret graphs of potential energy
+2. Explain the connection between stability and potential energy
 
 ### 8.5 Sources of Energy
 
-  1. Describe energy transformations and conversions in general terms
-  2. Explain what it means for an energy source to be renewable or nonrenewable
+1. Describe energy transformations and conversions in general terms
+2. Explain what it means for an energy source to be renewable or nonrenewable
 
 ## Chapter 9: Linear Momentum and Collisions
 
 ### 9.1 Linear Momentum
 
-  1. Explain what momentum is, physically
-  2. Calculate the momentum of a moving object
+1. Explain what momentum is, physically
+2. Calculate the momentum of a moving object
 
 ### 9.2 Impulse and Collisions
 
-  1. Explain what an impulse is, physically
-  2. Describe what an impulse does
-  3. Relate impulses to collisions
-  4. Apply the impulse-momentum theorem to solve problems
+1. Explain what an impulse is, physically
+2. Describe what an impulse does
+3. Relate impulses to collisions
+4. Apply the impulse-momentum theorem to solve problems
 
 ### 9.3 Conservation of Linear Momentum
 
-  1. Explain the meaning of "conservation of momentum"
-  2. Correctly identify if a system is, or is not, closed
-  3. Define a system whose momentum is conserved
-  4. Mathematically express conservation of momentum for a given system
-  5. Calculate an unknown quantity using conservation of momentum
+1. Explain the meaning of "conservation of momentum"
+2. Correctly identify if a system is, or is not, closed
+3. Define a system whose momentum is conserved
+4. Mathematically express conservation of momentum for a given system
+5. Calculate an unknown quantity using conservation of momentum
 
 ### 9.4 Types of Collisions
 
-  1. Identify the type of collision
-  2. Correctly label a collision as elastic or inelastic
-  3. Use kinetic energy along with momentum and impulse to analyze a collision
+1. Identify the type of collision
+2. Correctly label a collision as elastic or inelastic
+3. Use kinetic energy along with momentum and impulse to analyze a collision
 
 ### 9.5 Collisions in Multiple Dimensions
 
-  1. Express momentum as a two-dimensional vector
-  2. Write equations for momentum conservation in component form
-  3. Calculate momentum in two dimensions, as a vector quantity
+1. Express momentum as a two-dimensional vector
+2. Write equations for momentum conservation in component form
+3. Calculate momentum in two dimensions, as a vector quantity
 
 ### 9.6 Center of Mass
 
