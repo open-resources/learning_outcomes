@@ -5,6 +5,9 @@ Math,Graphs,,Calculate the total displacement given the position as a function o
 Math,Graphs,,Determine the total distance traveled.{85},1.2.1.1
 Math,Graphs,,Determine the total distance traveled.{85},1.2.1.2
 Math,Graphs,,Calculate the average velocity given the displacement and elapsed time.{86},1.2.1.3
+Math,Graphs,,Calculate the average acceleration between two points in time.{97},1.2.1.4
+Math,Graphs,,Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101},1.2.1.5
+Math,Graphs,,Create and interpret graphs of potential energy.{279},1.2.1.6
 Math,Significant Figures,,Determine the correct number of significant figures for the result of a computation.{33},1.3.1.0
 Math,Significant Figures,,"Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34}",1.3.1.1
 Math,Significant Figures,,"Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}",1.3.1.2
@@ -21,7 +24,11 @@ Math,Limits,,Paste un-numbered outcome here,1.6.1.1
 Math,Derivatives,Subtopic Outcome,Paste un-numbered outcome here,1.7.1.0
 Math,Derivatives,Subtopic Outcome,Paste un-numbered outcome here,1.7.1.1
 Math,Derivatives,Slope,Calculate the average velocity given the displacement and elapsed time.{86},1.7.2.0
-Math,Derivatives,Slope,Paste un-numbered outcome here,1.7.2.1
+Math,Derivatives,Slope,Calculate the average acceleration between two points in time.{97},1.7.2.1
+Math,Derivatives,Slope,Calculate the instantaneous acceleration given the functional form of velocity.{98},1.7.2.2
+Math,Derivatives,Slope,Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101},1.7.2.3
+Math,Derivatives,Slope,Calculate the velocity vector given the position vector as a function of time.{128},1.7.2.4
+Math,Derivatives,Slope,Calculate the average velocity in multiple dimensions.{129},1.7.2.5
 Math,Derivatives,Product rule,Paste un-numbered outcome here,1.7.3.0
 Math,Derivatives,Product rule,Paste un-numbered outcome here,1.7.3.1
 Math,Derivatives,Quotient Rule,Paste un-numbered outcome here,1.7.4.0
@@ -38,10 +45,11 @@ Math,Derivatives,First Derivative Test,Paste un-numbered outcome here,1.7.9.0
 Math,Derivatives,First Derivative Test,Paste un-numbered outcome here,1.7.9.1
 Math,Derivatives,Second Derivative Test,Paste un-numbered outcome here,1.7.10.0
 Math,Derivatives,Second Derivative Test,Paste un-numbered outcome here,1.7.10.1
-Math,Integrals,Subtopic Outcome,Paste un-numbered outcome here,1.8.1.0
-Math,Integrals,Subtopic Outcome,Paste un-numbered outcome here,1.8.1.1
+Math,Integrals,Subtopic Outcome,Derive the kinematic equations for constant acceleration using integral calculus.{117},1.8.1.0
+Math,Integrals,Subtopic Outcome,Find the functional form of velocity versus time given the acceleration function.{119},1.8.1.1
+Math,Integrals,Subtopic Outcome,Find the functional form of position versus time given the velocity function.{120},1.8.1.2
 Math,Integrals,Area Under Curve,Determine the total distance traveled.{85},1.8.2.0
-Math,Integrals,Area Under Curve,Paste un-numbered outcome here,1.8.2.1
+Math,Integrals,Area Under Curve,Relate the work done during a time interval to the power delivered.{254},1.8.2.1
 Math,Integrals,Area Between Two Curves,Paste un-numbered outcome here,1.8.3.0
 Math,Integrals,Area Between Two Curves,Paste un-numbered outcome here,1.8.3.1
 Math,Integrals,Substitution Rule,Paste un-numbered outcome here,1.8.4.0
@@ -105,10 +113,10 @@ Vectors,Dot Product,,Paste un-numbered outcome here,2.8.1.1
 Vectors,Cross Product,,Determine the vector product of two vectors.{76},2.9.1.0
 Vectors,Cross Product,,Paste un-numbered outcome here,2.9.1.1
 Kinematics(1D),Topic Outcome,,"Define position, displacement, and distance traveled.{83}",3.1.1.0
-Kinematics(1D),Topic Outcome,,Paste un-numbered outcome here,3.1.1.1
+Kinematics(1D),Topic Outcome,,Identify which equations of motion are to be used to solve for unknowns.{105},3.1.1.1
 Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,3.2.1.0
 Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,3.2.1.1
-Kinematics(1D),Position,,Paste un-numbered outcome here,3.3.1.0
+Kinematics(1D),Position,,Find the functional form of position versus time given the velocity function.{120},3.3.1.0
 Kinematics(1D),Position,,Paste un-numbered outcome here,3.3.1.1
 Kinematics(1D),Displacement,,Calculate the total displacement given the position as a function of time.{84},3.4.1.0
 Kinematics(1D),Displacement,,Paste un-numbered outcome here,3.4.1.1
@@ -116,75 +124,103 @@ Kinematics(1D),Speed,,Calculate the speed given the instantaneous velocity.{93},
 Kinematics(1D),Speed,,Paste un-numbered outcome here,3.5.1.1
 Kinematics(1D),Velocity,Subtopic Outcome,Explain the difference between average velocity and instantaneous velocity.{90},3.6.1.0
 Kinematics(1D),Velocity,Subtopic Outcome,Describe the difference between velocity and speed.{91},3.6.1.1
+Kinematics(1D),Velocity,Subtopic Outcome,Explain the vector nature of instantaneous acceleration and velocity.{99},3.6.1.2
+Kinematics(1D),Velocity,Subtopic Outcome,Find the functional form of velocity versus time given the acceleration function.{119},3.6.1.3
 Kinematics(1D),Velocity,Average,Calculate the average velocity given the displacement and elapsed time.{86},3.6.2.0
 Kinematics(1D),Velocity,Average,Paste un-numbered outcome here,3.6.2.1
 Kinematics(1D),Velocity,Instantaneous,Calculate the instantaneous velocity given the mathematical equation for the velocity.{92},3.6.3.0
 Kinematics(1D),Velocity,Instantaneous,Paste un-numbered outcome here,3.6.3.1
-Kinematics(1D),Acceleration,Subtopic Outcome,Paste un-numbered outcome here,3.7.1.0
-Kinematics(1D),Acceleration,Subtopic Outcome,Paste un-numbered outcome here,3.7.1.1
-Kinematics(1D),Acceleration,Average,Paste un-numbered outcome here,3.7.2.0
+Kinematics(1D),Acceleration,Subtopic Outcome,Explain the difference between average acceleration and instantaneous acceleration.{100},3.7.1.0
+Kinematics(1D),Acceleration,Subtopic Outcome,Explain the vector nature of instantaneous acceleration and velocity.{99},3.7.1.1
+Kinematics(1D),Acceleration,Average,Calculate the average acceleration between two points in time.{97},3.7.2.0
 Kinematics(1D),Acceleration,Average,Paste un-numbered outcome here,3.7.2.1
-Kinematics(1D),Acceleration,Instantaneous,Paste un-numbered outcome here,3.7.3.0
-Kinematics(1D),Acceleration,Instantaneous,Paste un-numbered outcome here,3.7.3.1
+Kinematics(1D),Acceleration,Instantaneous,Calculate the instantaneous acceleration given the functional form of velocity.{98},3.7.3.0
+Kinematics(1D),Acceleration,Instantaneous,Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101},3.7.3.1
 Kinematics(1D),Uniform Motion,,Paste un-numbered outcome here,3.8.1.0
 Kinematics(1D),Uniform Motion,,Paste un-numbered outcome here,3.8.1.1
-Kinematics(1D),Non-Uniform Motion (Constant Acceleration),,Paste un-numbered outcome here,3.9.1.0
-Kinematics(1D),Non-Uniform Motion (Constant Acceleration),,Paste un-numbered outcome here,3.9.1.1
-Kinematics(1D),Free Fall,,Paste un-numbered outcome here,3.10.1.0
-Kinematics(1D),Free Fall,,Paste un-numbered outcome here,3.10.1.1
-Kinematics(2D and 3D),Topic Outcome,,Paste un-numbered outcome here,4.1.1.0
+Kinematics(1D),Non-Uniform Motion (Constant Acceleration),,Use appropriate equations of motion to solve a two-body pursuit problem.{106},3.9.1.0
+Kinematics(1D),Non-Uniform Motion (Constant Acceleration),,Derive the kinematic equations for constant acceleration using integral calculus.{117},3.9.1.1
+Kinematics(1D),Non-Uniform Motion (Constant Acceleration),,Use the integral formulation of the kinematic equations in analyzing motion.{118},3.9.1.2
+Kinematics(1D),Free Fall,,Use the kinematic equations with the variables y and g to analyze free-fall motion.{110},3.10.1.0
+Kinematics(1D),Free Fall,,"Describe how the values of the position, velocity, and acceleration change during a free fall.{111}",3.10.1.1
+Kinematics(1D),Free Fall,,"Solve for the position, velocity, and acceleration as functions of time when an object is in a free fall.{112}",3.10.1.2
+Kinematics(2D and 3D),Topic Outcome,,Use the one-dimensional motion equations along perpendicular axes to solve a problem in two or three dimensions with a constant acceleration.{135},4.1.1.0
 Kinematics(2D and 3D),Topic Outcome,,Paste un-numbered outcome here,4.1.1.1
-Kinematics(2D and 3D),Displacement Vector,,Paste un-numbered outcome here,4.2.1.0
-Kinematics(2D and 3D),Displacement Vector,,Paste un-numbered outcome here,4.2.1.1
-Kinematics(2D and 3D),Velocity Vector,,Paste un-numbered outcome here,4.3.1.0
-Kinematics(2D and 3D),Velocity Vector,,Paste un-numbered outcome here,4.3.1.1
-Kinematics(2D and 3D),Acceleration Vector,,Paste un-numbered outcome here,4.4.1.0
-Kinematics(2D and 3D),Acceleration Vector,,Paste un-numbered outcome here,4.4.1.1
-Kinematics(2D and 3D),Projectile Motion,,Paste un-numbered outcome here,4.5.1.0
-Kinematics(2D and 3D),Projectile Motion,,Paste un-numbered outcome here,4.5.1.1
-Kinematics(2D and 3D),Uniform Circular Motion,Subtopic Outcome,Paste un-numbered outcome here,4.6.1.0
+Kinematics(2D and 3D),Displacement Vector,,Calculate position vectors in a multidimensional displacement problem.{126},4.2.1.0
+Kinematics(2D and 3D),Displacement Vector,,Solve for the displacement in two or three dimensions.{127},4.2.1.1
+Kinematics(2D and 3D),Velocity Vector,,Calculate the velocity vector given the position vector as a function of time.{128},4.3.1.0
+Kinematics(2D and 3D),Velocity Vector,,Calculate the average velocity in multiple dimensions.{129},4.3.1.1
+Kinematics(2D and 3D),Acceleration Vector,,Calculate the acceleration vector given the velocity function in unit vector notation.{133},4.4.1.0
+Kinematics(2D and 3D),Acceleration Vector,,Describe the motion of a particle with a constant acceleration in three dimensions.{134},4.4.1.1
+Kinematics(2D and 3D),Acceleration Vector,,Express the acceleration in unit vector notation.{136},4.4.1.2
+Kinematics(2D and 3D),Projectile Motion,,Use one-dimensional motion in perpendicular directions to analyze projectile motion.{140},4.5.1.0
+Kinematics(2D and 3D),Projectile Motion,,"Calculate the range, time of flight, and maximum height of a projectile that is launched and impacts a flat, horizontal surface.{141}",4.5.1.1
+Kinematics(2D and 3D),Projectile Motion,,Find the time of flight and impact velocity of a projectile that lands at a different height from that of launch.{142},4.5.1.2
+Kinematics(2D and 3D),Projectile Motion,,Calculate the trajectory of a projectile.{143},4.5.1.3
+Kinematics(2D and 3D),Uniform Circular Motion,Subtopic Outcome,"Use the equations of circular motion to find the position, velocity, and acceleration of a particle executing circular motion.{148}",4.6.1.0
 Kinematics(2D and 3D),Uniform Circular Motion,Subtopic Outcome,Paste un-numbered outcome here,4.6.1.1
 Kinematics(2D and 3D),Uniform Circular Motion,Velocity,Paste un-numbered outcome here,4.6.2.0
 Kinematics(2D and 3D),Uniform Circular Motion,Velocity,Paste un-numbered outcome here,4.6.2.1
-Kinematics(2D and 3D),Uniform Circular Motion,Acceleration,Paste un-numbered outcome here,4.6.3.0
+Kinematics(2D and 3D),Uniform Circular Motion,Acceleration,Solve for the centripetal acceleration of an object moving on a circular path.{147},4.6.3.0
 Kinematics(2D and 3D),Uniform Circular Motion,Acceleration,Paste un-numbered outcome here,4.6.3.1
-Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,Paste un-numbered outcome here,4.7.1.0
-Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,Paste un-numbered outcome here,4.7.1.1
+Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,Explain the differences between centripetal acceleration and tangential acceleration resulting from nonuniform circular motion.{149},4.7.1.0
+Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,"Evaluate centripetal and tangential acceleration in nonuniform circular motion, and find the total acceleration vector.{150}",4.7.1.1
 Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Paste un-numbered outcome here,4.7.2.0
 Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Paste un-numbered outcome here,4.7.2.1
-Force,Topic Outcome,,Paste un-numbered outcome here,5.1.1.0
-Force,Topic Outcome,,Paste un-numbered outcome here,5.1.1.1
-Force,Types of Forces,,Paste un-numbered outcome here,5.2.1.0
-Force,Types of Forces,,Paste un-numbered outcome here,5.2.1.1
-Force,Free Body Diagrams,,Paste un-numbered outcome here,5.3.1.0
-Force,Free Body Diagrams,,Paste un-numbered outcome here,5.3.1.1
-Force,Newton's First Law,,Paste un-numbered outcome here,5.4.1.0
-Force,Newton's First Law,,Paste un-numbered outcome here,5.4.1.1
-Force,Newton's Second Law,,Paste un-numbered outcome here,5.5.1.0
-Force,Newton's Second Law,,Paste un-numbered outcome here,5.5.1.1
-Force,Newton's Third Law,Subtopic Outcome,Paste un-numbered outcome here,5.6.1.0
-Force,Newton's Third Law,Subtopic Outcome,Paste un-numbered outcome here,5.6.1.1
+Force,Topic Outcome,,Distinguish between kinematics and dynamics.{163},5.1.1.0
+Force,Topic Outcome,,Understand the definition of force.{164},5.1.1.1
+Force,Topic Outcome,,Identify simple free-body diagrams.{165},5.1.1.2
+Force,Topic Outcome,,"Define the SI unit of force, the newton.{166}",5.1.1.3
+Force,Topic Outcome,,Describe force as a vector.{167},5.1.1.4
+Force,Topic Outcome,,Apply Newton's laws of motion to solve problems involving a variety of forces.{199},5.1.1.5
+Force,Topic Outcome,,Apply problem-solving techniques to solve for quantities in more complex systems of forces.{210},5.1.1.6
+Force,Topic Outcome,,Use concepts from kinematics to solve problems using Newton's laws of motion.{211},5.1.1.7
+Force,Topic Outcome,,Solve more complex equilibrium problems.{212},5.1.1.8
+Force,Topic Outcome,,Solve more complex acceleration problems.{213},5.1.1.9
+Force,Topic Outcome,,Apply calculus to more advanced dynamics problems.{214},5.1.1.10
+Force,Types of Forces,,Distinguish between external and internal forces.{179},5.2.1.0
+Force,Types of Forces,,Identify the action and reaction forces in different situations.{192},5.2.1.1
+Force,Types of Forces,,Define normal and tension forces.{197},5.2.1.2
+Force,Types of Forces,,Distinguish between real and fictitious forces.{198},5.2.1.3
+Force,Free Body Diagrams,,Identify simple free-body diagrams.{165},5.3.1.0
+Force,Free Body Diagrams,,Explain the rules for drawing a free-body diagram.{203},5.3.1.1
+Force,Free Body Diagrams,,Construct free-body diagrams for different situations.{204},5.3.1.2
+Force,Newton's First Law,,Describe Newton's first law of motion.{171},5.4.1.0
+Force,Newton's First Law,,Recognize friction as an external force.{172},5.4.1.1
+Force,Newton's First Law,,Define inertia.{173},5.4.1.2
+Force,Newton's First Law,,Identify inertial reference frames.{174},5.4.1.3
+Force,Newton's First Law,,Calculate equilibrium for a system.{175},5.4.1.4
+Force,Newton's Second Law,,Distinguish between external and internal forces.{179},5.5.1.0
+Force,Newton's Second Law,,Describe Newton's second law of motion.{180},5.5.1.1
+Force,Newton's Second Law,,Explain the dependence of acceleration on net force and mass.{181},5.5.1.2
+Force,Newton's Second Law,,Apply Newton's second law to develop the equation for centripetal force.{225},5.5.1.3
+Force,Newton's Third Law,Subtopic Outcome,State Newton's third law of motion.{191},5.6.1.0
+Force,Newton's Third Law,Subtopic Outcome,Identify the action and reaction forces in different situations.{192},5.6.1.1
+Force,Newton's Third Law,Subtopic Outcome,Apply Newton's third law to define systems and solve problems of motion.{193},5.6.1.2
 Force,Newton's Third Law,Ropes and Pulleys,Paste un-numbered outcome here,5.6.2.0
 Force,Newton's Third Law,Ropes and Pulleys,Paste un-numbered outcome here,5.6.2.1
-Force,Equilibrium,,Paste un-numbered outcome here,5.7.1.0
-Force,Equilibrium,,Paste un-numbered outcome here,5.7.1.1
-Force,"Mass, Weight and Gravity",,Paste un-numbered outcome here,5.8.1.0
-Force,"Mass, Weight and Gravity",,Paste un-numbered outcome here,5.8.1.1
-Force,Friction,,Paste un-numbered outcome here,5.9.1.0
-Force,Friction,,Paste un-numbered outcome here,5.9.1.1
-Force,Drag,Subtopic Outcome,Paste un-numbered outcome here,5.10.1.0
-Force,Drag,Subtopic Outcome,Paste un-numbered outcome here,5.10.1.1
-Force,Drag,Terminal Velocity,Paste un-numbered outcome here,5.10.2.0
-Force,Drag,Terminal Velocity,Paste un-numbered outcome here,5.10.2.1
+Force,Equilibrium,,Calculate equilibrium for a system.{175},5.7.1.0
+Force,Equilibrium,,Solve more complex equilibrium problems.{212},5.7.1.1
+Force,"Mass, Weight and Gravity",,Explain the difference between mass and weight.{185},5.8.1.0
+Force,"Mass, Weight and Gravity",,Explain why falling objects on Earth are never truly in free fall.{186},5.8.1.1
+Force,"Mass, Weight and Gravity",,Describe the concept of weightlessness.{187},5.8.1.2
+Force,Friction,,Recognize friction as an external force.{172},5.9.1.0
+Force,Friction,,Describe the general characteristics of friction.{218},5.9.1.1
+Force,Friction,,List the various types of friction.{219},5.9.1.2
+Force,Friction,,"Calculate the magnitude of static and kinetic friction, and use these in problems involving Newton's laws of motion.{220}",5.9.1.3
+Force,Drag,Subtopic Outcome,Express the drag force mathematically.{230},5.10.1.0
+Force,Drag,Subtopic Outcome,Describe applications of the drag force.{231},5.10.1.1
+Force,Drag,Terminal Velocity,Define terminal velocity.{232},5.10.2.0
+Force,Drag,Terminal Velocity,Determine an object's terminal velocity given its mass.{233},5.10.2.1
 Force,Drag,Projectile Motion with Drag,Paste un-numbered outcome here,5.10.3.0
 Force,Drag,Projectile Motion with Drag,Paste un-numbered outcome here,5.10.3.1
 Force,Springs,Subtopic Outcome,Paste un-numbered outcome here,5.11.1.0
 Force,Springs,Subtopic Outcome,Paste un-numbered outcome here,5.11.1.1
 Force,Springs,Hooke's Law,Paste un-numbered outcome here,5.11.2.0
 Force,Springs,Hooke's Law,Paste un-numbered outcome here,5.11.2.1
-Force,Dynamics of Circular Motion,Subtopic Outcome,Paste un-numbered outcome here,5.12.1.0
-Force,Dynamics of Circular Motion,Subtopic Outcome,Paste un-numbered outcome here,5.12.1.1
-Force,Dynamics of Circular Motion,Centripetal Force,Paste un-numbered outcome here,5.12.2.0
+Force,Dynamics of Circular Motion,Subtopic Outcome,Explain the equation for centripetal acceleration.{224},5.12.1.0
+Force,Dynamics of Circular Motion,Subtopic Outcome,Use circular motion concepts in solving problems involving Newton's laws of motion.{226},5.12.1.1
+Force,Dynamics of Circular Motion,Centripetal Force,Apply Newton's second law to develop the equation for centripetal force.{225},5.12.2.0
 Force,Dynamics of Circular Motion,Centripetal Force,Paste un-numbered outcome here,5.12.2.1
 Force,Dynamics of Circular Motion,Uniform,Paste un-numbered outcome here,5.12.3.0
 Force,Dynamics of Circular Motion,Uniform,Paste un-numbered outcome here,5.12.3.1
@@ -192,58 +228,73 @@ Force,Dynamics of Circular Motion,Non-Uniform,Paste un-numbered outcome here,5.1
 Force,Dynamics of Circular Motion,Non-Uniform,Paste un-numbered outcome here,5.12.4.1
 Momentum and Impulse,Topic Outcome,,Paste un-numbered outcome here,6.1.1.0
 Momentum and Impulse,Topic Outcome,,Paste un-numbered outcome here,6.1.1.1
-Momentum and Impulse,Momentum,Subtopic Outcome,Paste un-numbered outcome here,6.2.1.0
-Momentum and Impulse,Momentum,Subtopic Outcome,Paste un-numbered outcome here,6.2.1.1
+Momentum and Impulse,Momentum,Subtopic Outcome,"Explain what momentum is, physically.{291}",6.2.1.0
+Momentum and Impulse,Momentum,Subtopic Outcome,Calculate the momentum of a moving object.{292},6.2.1.1
+Momentum and Impulse,Momentum,Subtopic Outcome,Express momentum as a two-dimensional vector.{317},6.2.1.2
+Momentum and Impulse,Momentum,Subtopic Outcome,"Calculate momentum in two dimensions, as a vector quantity.{319}",6.2.1.3
 Momentum and Impulse,Momentum,Linear,Paste un-numbered outcome here,6.2.2.0
 Momentum and Impulse,Momentum,Linear,Paste un-numbered outcome here,6.2.2.1
 Momentum and Impulse,Momentum,Angular,Paste un-numbered outcome here,6.2.3.0
 Momentum and Impulse,Momentum,Angular,Paste un-numbered outcome here,6.2.3.1
-Momentum and Impulse,Impulse,,Paste un-numbered outcome here,6.3.1.0
-Momentum and Impulse,Impulse,,Paste un-numbered outcome here,6.3.1.1
-Momentum and Impulse,Collisions,Subtopic Outcome,Paste un-numbered outcome here,6.4.1.0
-Momentum and Impulse,Collisions,Subtopic Outcome,Paste un-numbered outcome here,6.4.1.1
+Momentum and Impulse,Impulse,,"Explain what an impulse is, physically.{296}",6.3.1.0
+Momentum and Impulse,Impulse,,Describe what an impulse does.{297},6.3.1.1
+Momentum and Impulse,Impulse,,Relate impulses to collisions.{298},6.3.1.2
+Momentum and Impulse,Impulse,,Apply the impulse-momentum theorem to solve problems.{299},6.3.1.3
+Momentum and Impulse,Collisions,Subtopic Outcome,Identify the type of collision.{311},6.4.1.0
+Momentum and Impulse,Collisions,Subtopic Outcome,Correctly label a collision as elastic or inelastic.{312},6.4.1.1
+Momentum and Impulse,Collisions,Subtopic Outcome,Use kinetic energy along with momentum and impulse to analyze a collision.{313},6.4.1.2
 Momentum and Impulse,Collisions,Elastic,Paste un-numbered outcome here,6.4.2.0
 Momentum and Impulse,Collisions,Elastic,Paste un-numbered outcome here,6.4.2.1
 Momentum and Impulse,Collisions,Inelastic,Paste un-numbered outcome here,6.4.3.0
 Momentum and Impulse,Collisions,Inelastic,Paste un-numbered outcome here,6.4.3.1
-Momentum and Impulse,Collisions,Explosions,Paste un-numbered outcome here,6.4.4.0
-Momentum and Impulse,Collisions,Explosions,Paste un-numbered outcome here,6.4.4.1
-Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Paste un-numbered outcome here,6.5.1.0
-Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Paste un-numbered outcome here,6.5.1.1
+Momentum and Impulse,Collisions,Explosions,"Describe the application of conservation of momentum when the mass changes with time, as well as the velocity.{330}",6.4.4.0
+Momentum and Impulse,Collisions,Explosions,"Calculate the speed of a rocket in empty space, at some time, given initial conditions.{331}",6.4.4.1
+Momentum and Impulse,Collisions,Explosions,"Calculate the speed of a rocket in Earth's gravity field, at some time, given initial conditions.{332}",6.4.4.2
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,"Explain the meaning of ""conservation of momentum"".{303}",6.5.1.0
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,"Correctly identify if a system is, or is not, closed.{304}",6.5.1.1
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Define a system whose momentum is conserved.{305},6.5.1.2
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Mathematically express conservation of momentum for a given system.{306},6.5.1.3
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Calculate an unknown quantity using conservation of momentum.{307},6.5.1.4
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,"Describe the application of conservation of momentum when the mass changes with time, as well as the velocity.{330}",6.5.1.5
 Momentum and Impulse,Conservation of Momentum,Linear,Paste un-numbered outcome here,6.5.2.0
 Momentum and Impulse,Conservation of Momentum,Linear,Paste un-numbered outcome here,6.5.2.1
 Momentum and Impulse,Conservation of Momentum,Angular,Paste un-numbered outcome here,6.5.3.0
 Momentum and Impulse,Conservation of Momentum,Angular,Paste un-numbered outcome here,6.5.3.1
-Momentum and Impulse,2D Collisions,,Paste un-numbered outcome here,6.6.1.0
-Momentum and Impulse,2D Collisions,,Paste un-numbered outcome here,6.6.1.1
+Momentum and Impulse,2D Collisions,,Express momentum as a two-dimensional vector.{317},6.6.1.0
+Momentum and Impulse,2D Collisions,,Write equations for momentum conservation in component form.{318},6.6.1.1
+Momentum and Impulse,2D Collisions,,"Calculate momentum in two dimensions, as a vector quantity.{319}",6.6.1.2
 Momentum and Impulse,Precession,,Paste un-numbered outcome here,6.7.1.0
 Momentum and Impulse,Precession,,Paste un-numbered outcome here,6.7.1.1
-Energy,Topic Outcome,,Paste un-numbered outcome here,7.1.1.0
-Energy,Topic Outcome,,Paste un-numbered outcome here,7.1.1.1
-Energy,Kinetic Energy,,Paste un-numbered outcome here,7.2.1.0
-Energy,Kinetic Energy,,Paste un-numbered outcome here,7.2.1.1
-Energy,Potential Energy,Subtopic Outcome,Paste un-numbered outcome here,7.3.1.0
-Energy,Potential Energy,Subtopic Outcome,Paste un-numbered outcome here,7.3.1.1
-Energy,Potential Energy,Gravitational Potential Energy,Paste un-numbered outcome here,7.3.2.0
+Energy,Topic Outcome,,Describe energy transformations and conversions in general terms.{284},7.1.1.0
+Energy,Topic Outcome,,Explain what it means for an energy source to be renewable or nonrenewable.{285},7.1.1.1
+Energy,Kinetic Energy,,Calculate the kinetic energy of a particle given its mass and its velocity or momentum.{244},7.2.1.0
+Energy,Kinetic Energy,,"Evaluate the kinetic energy of a body, relative to different frames of reference.{245}",7.2.1.1
+Energy,Potential Energy,Subtopic Outcome,Relate the difference of potential energy to work done on a particle for a system without friction or air drag.{261},7.3.1.0
+Energy,Potential Energy,Subtopic Outcome,Explain the meaning of the zero of the potential energy function for a system.{262},7.3.1.1
+Energy,Potential Energy,Subtopic Outcome,Create and interpret graphs of potential energy.{279},7.3.1.2
+Energy,Potential Energy,Subtopic Outcome,Explain the connection between stability and potential energy.{280},7.3.1.3
+Energy,Potential Energy,Gravitational Potential Energy,Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system.{263},7.3.2.0
 Energy,Potential Energy,Gravitational Potential Energy,Paste un-numbered outcome here,7.3.2.1
-Energy,Potential Energy,Elastic Potential Energy,Paste un-numbered outcome here,7.3.3.0
+Energy,Potential Energy,Elastic Potential Energy,Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system.{263},7.3.3.0
 Energy,Potential Energy,Elastic Potential Energy,Paste un-numbered outcome here,7.3.3.1
 Energy,Energy Diagrams,,Paste un-numbered outcome here,7.4.1.0
 Energy,Energy Diagrams,,Paste un-numbered outcome here,7.4.1.1
-Energy,Conservation of Energy,Subtopic Outcome,Paste un-numbered outcome here,7.5.1.0
-Energy,Conservation of Energy,Subtopic Outcome,Paste un-numbered outcome here,7.5.1.1
-Energy,Conservation of Energy,Conservative Forces,Paste un-numbered outcome here,7.5.2.0
-Energy,Conservation of Energy,Conservative Forces,Paste un-numbered outcome here,7.5.2.1
+Energy,Conservation of Energy,Subtopic Outcome,"Formulate the principle of conservation of mechanical energy, with or without the presence of non-conservative forces.{274}",7.5.1.0
+Energy,Conservation of Energy,Subtopic Outcome,Use the conservation of mechanical energy to calculate various properties of simple systems.{275},7.5.1.1
+Energy,Conservation of Energy,Conservative Forces,Characterize a conservative force in several different ways.{267},7.5.2.0
+Energy,Conservation of Energy,Conservative Forces,Specify mathematical conditions that must be satisfied by a conservative force and its components.{268},7.5.2.1
+Energy,Conservation of Energy,Conservative Forces,Relate the conservative force between particles of a system to the potential energy of the system.{269},7.5.2.2
+Energy,Conservation of Energy,Conservative Forces,Calculate the components of a conservative force in various cases.{270},7.5.2.3
 Energy,Conservation of Energy,Non-Conservative Forces,Paste un-numbered outcome here,7.5.3.0
 Energy,Conservation of Energy,Non-Conservative Forces,Paste un-numbered outcome here,7.5.3.1
-Work,Topic Outcome,,Paste un-numbered outcome here,8.1.1.0
-Work,Topic Outcome,,Paste un-numbered outcome here,8.1.1.1
+Work,Topic Outcome,,Represent the work done by any force.{239},8.1.1.0
+Work,Topic Outcome,,Evaluate the work done for various forces.{240},8.1.1.1
 Work,Work,,Paste un-numbered outcome here,8.2.1.0
 Work,Work,,Paste un-numbered outcome here,8.2.1.1
-Work,Work-Energy Theorem,,Paste un-numbered outcome here,8.3.1.0
-Work,Work-Energy Theorem,,Paste un-numbered outcome here,8.3.1.1
-Work,Power,,Paste un-numbered outcome here,8.4.1.0
-Work,Power,,Paste un-numbered outcome here,8.4.1.1
+Work,Work-Energy Theorem,,"Apply the work-energy theorem to find information about the motion of a particle, given the forces acting on it.{249}",8.3.1.0
+Work,Work-Energy Theorem,,"Use the work-energy theorem to find information about the forces acting on a particle, given information about its motion.{250}",8.3.1.1
+Work,Power,,Relate the work done during a time interval to the power delivered.{254},8.4.1.0
+Work,Power,,Find the power expended by a force acting on a moving body.{255},8.4.1.1
 Work,Work For Rotational Motion,,Paste un-numbered outcome here,8.5.1.0
 Work,Work For Rotational Motion,,Paste un-numbered outcome here,8.5.1.1
 Work,Power For Rotational Motion,,Paste un-numbered outcome here,8.6.1.0
@@ -258,8 +309,10 @@ Rotational Motion,Rolling Motion,Without Slipping,Paste un-numbered outcome here
 Rotational Motion,Rolling Motion,Without Slipping,Paste un-numbered outcome here,9.3.2.1
 Rotational Motion,Rolling Motion,With Slipping,Paste un-numbered outcome here,9.3.3.0
 Rotational Motion,Rolling Motion,With Slipping,Paste un-numbered outcome here,9.3.3.1
-Rotational Motion,Center of Mass,,Paste un-numbered outcome here,9.4.1.0
-Rotational Motion,Center of Mass,,Paste un-numbered outcome here,9.4.1.1
+Rotational Motion,Center of Mass,,Explain the meaning and usefulness of the concept of center of mass.{323},9.4.1.0
+Rotational Motion,Center of Mass,,Calculate the center of mass of a given system.{324},9.4.1.1
+Rotational Motion,Center of Mass,,Apply the center of mass concept in two and three dimensions.{325},9.4.1.2
+Rotational Motion,Center of Mass,,Calculate the velocity and acceleration of the center of mass.{326},9.4.1.3
 Rotational Motion,Rotational Energy,Subtopic Outcome,Paste un-numbered outcome here,9.5.1.0
 Rotational Motion,Rotational Energy,Subtopic Outcome,Paste un-numbered outcome here,9.5.1.1
 Rotational Motion,Rotational Energy,Moment of Inertia,Paste un-numbered outcome here,9.5.2.0
