@@ -7,6 +7,8 @@ Math:
         - Determine the total distance traveled.{85}
         - Determine the total distance traveled.{85}
         - Calculate the average velocity given the displacement and elapsed time.{86}
+        - Calculate the average acceleration between two points in time.{97}
+        - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
     Significant Figures:
         - Determine the correct number of significant figures for the result of a computation.{33}
         - Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34} 
@@ -32,7 +34,9 @@ Math:
             - Paste un-numbered outcome here
         Slope:
             - Calculate the average velocity given the displacement and elapsed time.{86}
-            - Paste un-numbered outcome here
+            - Calculate the average acceleration between two points in time.{97}
+            - Calculate the instantaneous acceleration given the functional form of velocity.{98}
+            - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
         Product rule:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
@@ -183,6 +187,7 @@ Kinematics(1D):
         Subtopic Outcome:
             - Explain the difference between average velocity and instantaneous velocity.{90}
             - Describe the difference between velocity and speed.{91}
+            - Explain the vector nature of instantaneous acceleration and velocity.{99}
         Average:
             - Calculate the average velocity given the displacement and elapsed time.{86}
             - Paste un-numbered outcome here
@@ -191,14 +196,14 @@ Kinematics(1D):
             - Paste un-numbered outcome here
     Acceleration:
         Subtopic Outcome:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Explain the difference between average acceleration and instantaneous acceleration.{100}
+            - Explain the vector nature of instantaneous acceleration and velocity.{99}
         Average:
-            - Paste un-numbered outcome here
+            - Calculate the average acceleration between two points in time.{97}
             - Paste un-numbered outcome here
         Instantaneous:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Calculate the instantaneous acceleration given the functional form of velocity.{98}
+            - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
     Uniform Motion:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
