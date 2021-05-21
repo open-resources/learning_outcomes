@@ -1,21 +1,26 @@
 Topic,Subtopic,Subsubtopic,Learning Outcome,Code
-Math,Topic Outcome,,Paste un-numbered outcome here,1.1.1.0
+Math,Topic Outcome,,"Compare measurable length, mass, and timescales quantitatively.{9}",1.1.1.0
 Math,Topic Outcome,,Paste un-numbered outcome here,1.1.1.1
-Math,Graphs,,Paste un-numbered outcome here,1.2.1.0
-Math,Graphs,,Paste un-numbered outcome here,1.2.1.1
-Math,Significant Figures,,Paste un-numbered outcome here,1.3.1.0
-Math,Significant Figures,,Paste un-numbered outcome here,1.3.1.1
-Math,Order of Magnitude,,Paste un-numbered outcome here,1.4.1.0
-Math,Order of Magnitude,,Paste un-numbered outcome here,1.4.1.1
-Math,Algebra,Subtopic Outcome,Paste un-numbered outcome here,1.5.1.0
-Math,Algebra,Subtopic Outcome,Paste un-numbered outcome here,1.5.1.1
-Math,Algebra,Dimensional Analysis,Paste un-numbered outcome here,1.5.2.0
-Math,Algebra,Dimensional Analysis,Paste un-numbered outcome here,1.5.2.1
+Math,Graphs,,Calculate the total displacement given the position as a function of time.{84},1.2.1.0
+Math,Graphs,,Determine the total distance traveled.{85},1.2.1.1
+Math,Graphs,,Determine the total distance traveled.{85},1.2.1.2
+Math,Graphs,,Calculate the average velocity given the displacement and elapsed time.{86},1.2.1.3
+Math,Significant Figures,,Determine the correct number of significant figures for the result of a computation.{33},1.3.1.0
+Math,Significant Figures,,"Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34}",1.3.1.1
+Math,Significant Figures,,"Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}",1.3.1.2
+Math,Significant Figures,,Determine the uncertainty of the result of a computation involving quantities with given uncertainties.{37},1.3.1.3
+Math,Order of Magnitude,,Calculate the order of magnitude of a quantity.{8},1.4.1.0
+Math,Order of Magnitude,,Estimate the values of physical quantities.{29},1.4.1.1
+Math,Algebra,Subtopic Outcome,Apply analytical methods of vector algebra to find resultant vectors and to solve vector equations for unknown vectors.{68},1.5.1.0
+Math,Algebra,Subtopic Outcome,Determine the scalar product of two vectors.{75},1.5.1.1
+Math,Algebra,Subtopic Outcome,Determine the vector product of two vectors.{76},1.5.1.2
+Math,Algebra,Dimensional Analysis,Find the dimensions of a mathematical expression involving physical quantities.{24},1.5.2.0
+Math,Algebra,Dimensional Analysis,Determine whether an equation involving physical quantities is dimensionally consistent.{25},1.5.2.1
 Math,Limits,,Paste un-numbered outcome here,1.6.1.0
 Math,Limits,,Paste un-numbered outcome here,1.6.1.1
 Math,Derivatives,Subtopic Outcome,Paste un-numbered outcome here,1.7.1.0
 Math,Derivatives,Subtopic Outcome,Paste un-numbered outcome here,1.7.1.1
-Math,Derivatives,Slope,Paste un-numbered outcome here,1.7.2.0
+Math,Derivatives,Slope,Calculate the average velocity given the displacement and elapsed time.{86},1.7.2.0
 Math,Derivatives,Slope,Paste un-numbered outcome here,1.7.2.1
 Math,Derivatives,Product rule,Paste un-numbered outcome here,1.7.3.0
 Math,Derivatives,Product rule,Paste un-numbered outcome here,1.7.3.1
@@ -35,7 +40,7 @@ Math,Derivatives,Second Derivative Test,Paste un-numbered outcome here,1.7.10.0
 Math,Derivatives,Second Derivative Test,Paste un-numbered outcome here,1.7.10.1
 Math,Integrals,Subtopic Outcome,Paste un-numbered outcome here,1.8.1.0
 Math,Integrals,Subtopic Outcome,Paste un-numbered outcome here,1.8.1.1
-Math,Integrals,Area Under Curve,Paste un-numbered outcome here,1.8.2.0
+Math,Integrals,Area Under Curve,Determine the total distance traveled.{85},1.8.2.0
 Math,Integrals,Area Under Curve,Paste un-numbered outcome here,1.8.2.1
 Math,Integrals,Area Between Two Curves,Paste un-numbered outcome here,1.8.3.0
 Math,Integrals,Area Between Two Curves,Paste un-numbered outcome here,1.8.3.1
@@ -69,41 +74,51 @@ Math,Quadratic formula,Subtopic Outcome,Paste un-numbered outcome here,1.12.1.0
 Math,Quadratic formula,Subtopic Outcome,Paste un-numbered outcome here,1.12.1.1
 Math,Quadratic formula,Non-Physical Roots,Paste un-numbered outcome here,1.12.2.0
 Math,Quadratic formula,Non-Physical Roots,Paste un-numbered outcome here,1.12.2.1
-Math,Polar Coordinates,,Paste un-numbered outcome here,1.13.1.0
-Math,Polar Coordinates,,Paste un-numbered outcome here,1.13.1.1
+Math,Polar Coordinates,,Identify the magnitude and direction of a vector.{51},1.13.1.0
+Math,Polar Coordinates,,Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64},1.13.1.1
 Vectors,Topic Outcome,,Describe the difference between vector and scalar quantities.{50},2.1.1.0
-Vectors,Topic Outcome,,Paste un-numbered outcome here,2.1.1.1
-Vectors,Notation,,Paste un-numbered outcome here,2.2.1.0
+Vectors,Topic Outcome,,Distinguish between a vector equation and a scalar equation.{55},2.1.1.1
+Vectors,Topic Outcome,,Interpret physical situations in terms of vector expressions.{70},2.1.1.2
+Vectors,Topic Outcome,,Explain the difference between the scalar product and the vector product of two vectors.{74},2.1.1.3
+Vectors,Topic Outcome,,Describe how the products of vectors are used in physics.{77},2.1.1.4
+Vectors,Notation,,"Describe vectors in two and three dimensions in terms of their components, using unit vectors along the axes.{59}",2.2.1.0
 Vectors,Notation,,Paste un-numbered outcome here,2.2.1.1
-Vectors,Scalars,,Paste un-numbered outcome here,2.3.1.0
+Vectors,Scalars,,Distinguish between the vector components of a vector and the scalar components of a vector.{61},2.3.1.0
 Vectors,Scalars,,Paste un-numbered outcome here,2.3.1.1
 Vectors,Vectors,,Paste un-numbered outcome here,2.4.1.0
 Vectors,Vectors,,Paste un-numbered outcome here,2.4.1.1
-Vectors,Properties of Vectors,,Paste un-numbered outcome here,2.5.1.0
-Vectors,Properties of Vectors,,Paste un-numbered outcome here,2.5.1.1
-Vectors,Coordinate System and Vector Components,,Paste un-numbered outcome here,2.6.1.0
-Vectors,Coordinate System and Vector Components,,Paste un-numbered outcome here,2.6.1.1
-Vectors,Vector Algebra,,Paste un-numbered outcome here,2.7.1.0
-Vectors,Vector Algebra,,Paste un-numbered outcome here,2.7.1.1
-Vectors,Dot Product,,Paste un-numbered outcome here,2.8.1.0
+Vectors,Properties of Vectors,,Identify the magnitude and direction of a vector.{51},2.5.1.0
+Vectors,Properties of Vectors,,Explain the effect of multiplying a vector quantity by a scalar.{52},2.5.1.1
+Vectors,Properties of Vectors,,Explain how the magnitude of a vector is defined in terms of the components of a vector.{62},2.5.1.2
+Vectors,Coordinate System and Vector Components,,Identify the magnitude and direction of a vector.{51},2.6.1.0
+Vectors,Coordinate System and Vector Components,,Explain the geometric construction for the addition or subtraction of vectors in a plane.{54},2.6.1.1
+Vectors,Coordinate System and Vector Components,,Describe how one-dimensional vector quantities are added or subtracted.{53},2.6.1.2
+Vectors,Coordinate System and Vector Components,,"Describe vectors in two and three dimensions in terms of their components, using unit vectors along the axes.{59}",2.6.1.3
+Vectors,Coordinate System and Vector Components,,Distinguish between the vector components of a vector and the scalar components of a vector.{61},2.6.1.4
+Vectors,Coordinate System and Vector Components,,Explain how the magnitude of a vector is defined in terms of the components of a vector.{62},2.6.1.5
+Vectors,Coordinate System and Vector Components,,Identify the direction angle of a vector in a plane.{63},2.6.1.6
+Vectors,Coordinate System and Vector Components,,Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64},2.6.1.7
+Vectors,Vector Algebra,,Apply analytical methods of vector algebra to find resultant vectors and to solve vector equations for unknown vectors.{68},2.7.1.0
+Vectors,Vector Algebra,,Interpret physical situations in terms of vector expressions.{70},2.7.1.1
+Vectors,Dot Product,,Determine the scalar product of two vectors.{75},2.8.1.0
 Vectors,Dot Product,,Paste un-numbered outcome here,2.8.1.1
-Vectors,Cross Product,,Paste un-numbered outcome here,2.9.1.0
+Vectors,Cross Product,,Determine the vector product of two vectors.{76},2.9.1.0
 Vectors,Cross Product,,Paste un-numbered outcome here,2.9.1.1
-Kinematics(1D),Topic Outcome,,Paste un-numbered outcome here,3.1.1.0
+Kinematics(1D),Topic Outcome,,"Define position, displacement, and distance traveled.{83}",3.1.1.0
 Kinematics(1D),Topic Outcome,,Paste un-numbered outcome here,3.1.1.1
 Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,3.2.1.0
 Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,3.2.1.1
 Kinematics(1D),Position,,Paste un-numbered outcome here,3.3.1.0
 Kinematics(1D),Position,,Paste un-numbered outcome here,3.3.1.1
-Kinematics(1D),Displacement,,Paste un-numbered outcome here,3.4.1.0
+Kinematics(1D),Displacement,,Calculate the total displacement given the position as a function of time.{84},3.4.1.0
 Kinematics(1D),Displacement,,Paste un-numbered outcome here,3.4.1.1
-Kinematics(1D),Speed,,Paste un-numbered outcome here,3.5.1.0
+Kinematics(1D),Speed,,Calculate the speed given the instantaneous velocity.{93},3.5.1.0
 Kinematics(1D),Speed,,Paste un-numbered outcome here,3.5.1.1
-Kinematics(1D),Velocity,Subtopic Outcome,Paste un-numbered outcome here,3.6.1.0
-Kinematics(1D),Velocity,Subtopic Outcome,Paste un-numbered outcome here,3.6.1.1
-Kinematics(1D),Velocity,Average,Paste un-numbered outcome here,3.6.2.0
+Kinematics(1D),Velocity,Subtopic Outcome,Explain the difference between average velocity and instantaneous velocity.{90},3.6.1.0
+Kinematics(1D),Velocity,Subtopic Outcome,Describe the difference between velocity and speed.{91},3.6.1.1
+Kinematics(1D),Velocity,Average,Calculate the average velocity given the displacement and elapsed time.{86},3.6.2.0
 Kinematics(1D),Velocity,Average,Paste un-numbered outcome here,3.6.2.1
-Kinematics(1D),Velocity,Instantaneous,Paste un-numbered outcome here,3.6.3.0
+Kinematics(1D),Velocity,Instantaneous,Calculate the instantaneous velocity given the mathematical equation for the velocity.{92},3.6.3.0
 Kinematics(1D),Velocity,Instantaneous,Paste un-numbered outcome here,3.6.3.1
 Kinematics(1D),Acceleration,Subtopic Outcome,Paste un-numbered outcome here,3.7.1.0
 Kinematics(1D),Acceleration,Subtopic Outcome,Paste un-numbered outcome here,3.7.1.1
