@@ -63,8 +63,9 @@ Math:
             - Paste un-numbered outcome here
     Integrals:
         Subtopic Outcome:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Derive the kinematic equations for constant acceleration using integral calculus.{117}
+            - Find the functional form of velocity versus time given the acceleration function.{119}
+            - Find the functional form of position versus time given the velocity function.{120}
         Area Under Curve:
             - Determine the total distance traveled.{85}
             - Paste un-numbered outcome here
@@ -175,7 +176,7 @@ Kinematics(1D):
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
     Position:
-        - Paste un-numbered outcome here
+        - Find the functional form of position versus time given the velocity function.{120}
         - Paste un-numbered outcome here
     Displacement:
         - Calculate the total displacement given the position as a function of time.{84}
@@ -188,6 +189,7 @@ Kinematics(1D):
             - Explain the difference between average velocity and instantaneous velocity.{90}
             - Describe the difference between velocity and speed.{91}
             - Explain the vector nature of instantaneous acceleration and velocity.{99}
+            - Find the functional form of velocity versus time given the acceleration function.{119}
         Average:
             - Calculate the average velocity given the displacement and elapsed time.{86}
             - Paste un-numbered outcome here
@@ -209,7 +211,8 @@ Kinematics(1D):
         - Paste un-numbered outcome here
     Non-Uniform Motion (Constant Acceleration):
         - Use appropriate equations of motion to solve a two-body pursuit problem.{106} 
-        - Paste un-numbered outcome here
+        - Derive the kinematic equations for constant acceleration using integral calculus.{117}
+        - Use the integral formulation of the kinematic equations in analyzing motion.{118}
     Free Fall:
         - Use the kinematic equations with the variables y and g to analyze free-fall motion.{110}
         - Describe how the values of the position, velocity, and acceleration change during a free fall.{111}
