@@ -224,7 +224,7 @@ Kinematics(1D):
 
 Kinematics(2D and 3D):
     Topic Outcome:
-        - Paste un-numbered outcome here
+        - Use the one-dimensional motion equations along perpendicular axes to solve a problem in two or three dimensions with a constant acceleration.{135}
         - Paste un-numbered outcome here
     Displacement Vector:
         - Calculate position vectors in a multidimensional displacement problem.{126}
@@ -233,8 +233,9 @@ Kinematics(2D and 3D):
         - Calculate the velocity vector given the position vector as a function of time.{128}
         - Calculate the average velocity in multiple dimensions.{129} 
     Acceleration Vector:
-        - Paste un-numbered outcome here
-        - Paste un-numbered outcome here
+        - Calculate the acceleration vector given the velocity function in unit vector notation.{133}
+        - Describe the motion of a particle with a constant acceleration in three dimensions.{134}
+        - Express the acceleration in unit vector notation.{136}
     Projectile Motion:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
