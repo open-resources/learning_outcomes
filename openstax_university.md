@@ -32,11 +32,11 @@ Unit 1. Mechanics.{0}
 ### 1.6 Significant Figures.{31}
 .{32}
 1. Determine the correct number of significant figures for the result of a computation.{33}
-2. Describe the relationship between the concepts of accuracy, precision, uncertainty, and.{34}
-3. discrepancy.{35}
-4. Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}
-5. Determine the uncertainty of the result of a computation involving quantities with given.{37}
-6. uncertainties.{38}
+2. Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34}
+.{35}
+3. Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}
+4. Determine the uncertainty of the result of a computation involving quantities with given uncertainties.{37}
+.{38}
 .{39}
 ### 1.7 Solving Problems in Physics.{40}
 .{41}
@@ -57,18 +57,18 @@ Unit 1. Mechanics.{0}
 .{56}
 ### 2.2 Coordinate Systems and Components of a Vector.{57}
 .{58}
-1. Describe vectors in two and three dimensions in terms of their components, using unit vectors.{59}
-2. along the axes.{60}
-3. Distinguish between the vector components of a vector and the scalar components of a vector.{61}
-4. Explain how the magnitude of a vector is defined in terms of the components of a vector.{62}
-5. Identify the direction angle of a vector in a plane.{63}
-6. Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64}
+1. Describe vectors in two and three dimensions in terms of their components, using unit vectors along the axes.{59}
+.{60}
+2. Distinguish between the vector components of a vector and the scalar components of a vector.{61}
+3. Explain how the magnitude of a vector is defined in terms of the components of a vector.{62}
+4. Identify the direction angle of a vector in a plane.{63}
+5. Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64}
 .{65}
 ### 2.3 Algebra of Vectors.{66}
 .{67}
-1. Apply analytical methods of vector algebra to find resultant vectors and to solve vector.{68}
-2. equations for unknown vectors.{69}
-3. Interpret physical situations in terms of vector expressions.{70}
+1. Apply analytical methods of vector algebra to find resultant vectors and to solve vector equations for unknown vectors.{68}
+.{69}
+2. Interpret physical situations in terms of vector expressions.{70}
 .{71}
 ### 2.4 Products of Vectors.{72}
 .{73}
@@ -110,8 +110,8 @@ Unit 1. Mechanics.{0}
 .{109}
 1. Use the kinematic equations with the variables y and g to analyze free-fall motion.{110}
 2. Describe how the values of the position, velocity, and acceleration change during a free fall.{111}
-3. Solve for the position, velocity, and acceleration as functions of time when an object is in a free.{112}
-4. fall.{113}
+3. Solve for the position, velocity, and acceleration as functions of time when an object is in a free fall.{112}
+.{113}
 .{114}
 ### 3.6 Finding Velocity and Displacement from Acceleration.{115}
 .{116}
