@@ -16,7 +16,8 @@ Math:
     Algebra:
         Subtopic Outcome:
             - Apply analytical methods of vector algebra to find resultant vectors and to solve vector equations for unknown vectors.{68}
-            - Paste un-numbered outcome here
+            - Determine the scalar product of two vectors.{75}
+            - Determine the vector product of two vectors.{76}
         Dimensional Analysis:
             - Find the dimensions of a mathematical expression involving physical quantities.{24}
             - Determine whether an equation involving physical quantities is dimensionally consistent.{25}
@@ -124,6 +125,8 @@ Vectors:
         - Describe the difference between vector and scalar quantities.{50}
         - Distinguish between a vector equation and a scalar equation.{55} 
         - Interpret physical situations in terms of vector expressions.{70} 
+        - Explain the difference between the scalar product and the vector product of two vectors.{74} 
+        - Describe how the products of vectors are used in physics.{77}
     Notation:
         - Describe vectors in two and three dimensions in terms of their components, using unit vectors along the axes.{59}
         - Paste un-numbered outcome here
@@ -150,10 +153,10 @@ Vectors:
         - Apply analytical methods of vector algebra to find resultant vectors and to solve vector equations for unknown vectors.{68}
         - Interpret physical situations in terms of vector expressions.{70} 
     Dot Product:
-        - Paste un-numbered outcome here
+        - Determine the scalar product of two vectors.{75}
         - Paste un-numbered outcome here
     Cross Product:
-        - Paste un-numbered outcome here
+        - Determine the vector product of two vectors.{76}
         - Paste un-numbered outcome here
 
 # Topic Break
