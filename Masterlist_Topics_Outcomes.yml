@@ -37,6 +37,8 @@ Math:
             - Calculate the average acceleration between two points in time.{97}
             - Calculate the instantaneous acceleration given the functional form of velocity.{98}
             - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
+            - Calculate the velocity vector given the position vector as a function of time.{128}
+            - Calculate the average velocity in multiple dimensions.{129}
         Product rule:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
@@ -225,11 +227,11 @@ Kinematics(2D and 3D):
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
     Displacement Vector:
-        - Paste un-numbered outcome here
-        - Paste un-numbered outcome here
+        - Calculate position vectors in a multidimensional displacement problem.{126}
+        - Solve for the displacement in two or three dimensions.{127}
     Velocity Vector:
-        - Paste un-numbered outcome here
-        - Paste un-numbered outcome here
+        - Calculate the velocity vector given the position vector as a function of time.{128}
+        - Calculate the average velocity in multiple dimensions.{129} 
     Acceleration Vector:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
