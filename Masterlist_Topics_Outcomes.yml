@@ -269,6 +269,11 @@ Force:
         - Define the SI unit of force, the newton.{166}
         - Describe force as a vector.{167}
         - Apply Newton's laws of motion to solve problems involving a variety of forces.{199}
+        - Apply problem-solving techniques to solve for quantities in more complex systems of forces.{210}
+        - Use concepts from kinematics to solve problems using Newton's laws of motion.{211}
+        - Solve more complex equilibrium problems.{212}
+        - Solve more complex acceleration problems.{213}
+        - Apply calculus to more advanced dynamics problems.{214} 
     Types of Forces:
         - Distinguish between external and internal forces.{179}
         - Identify the action and reaction forces in different situations.{192}
@@ -298,7 +303,7 @@ Force:
             - Paste un-numbered outcome here
     Equilibrium:
         - Calculate equilibrium for a system.{175}
-        - Paste un-numbered outcome here
+        - Solve more complex equilibrium problems.{212}
     Mass, Weight and Gravity:
         - Explain the difference between mass and weight.{185}
         - Explain why falling objects on Earth are never truly in free fall.{186}
