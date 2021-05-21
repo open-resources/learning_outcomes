@@ -9,6 +9,7 @@ Math:
         - Calculate the average velocity given the displacement and elapsed time.{86}
         - Calculate the average acceleration between two points in time.{97}
         - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
+        - Create and interpret graphs of potential energy.{279}
     Significant Figures:
         - Determine the correct number of significant figures for the result of a computation.{33}
         - Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34} 
@@ -407,6 +408,8 @@ Energy:
         Subtopic Outcome:
             - Relate the difference of potential energy to work done on a particle for a system without friction or air drag.{261}
             - Explain the meaning of the zero of the potential energy function for a system.{262}
+            - Create and interpret graphs of potential energy.{279}
+            - Explain the connection between stability and potential energy.{280}
         Gravitational Potential Energy:
             - Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system.{263} 
             - Paste un-numbered outcome here
