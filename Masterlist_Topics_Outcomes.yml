@@ -115,7 +115,7 @@ Math:
             - Paste un-numbered outcome here
     Polar Coordinates:
         - Identify the magnitude and direction of a vector.{51}
-        - Paste un-numbered outcome here
+        - Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64} 
 
 # Topic Break
 
@@ -124,22 +124,29 @@ Vectors:
         - Describe the difference between vector and scalar quantities.{50}
         - Distinguish between a vector equation and a scalar equation.{55} 
     Notation:
-        - Paste un-numbered outcome here
+        - Describe vectors in two and three dimensions in terms of their components, using unit vectors along the axes.{59}
         - Paste un-numbered outcome here
     Scalars:
-        - Paste un-numbered outcome here
+        - Distinguish between the vector components of a vector and the scalar components of a vector.{61}
         - Paste un-numbered outcome here
     Vectors:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
     Properties of Vectors:
+        - Identify the magnitude and direction of a vector.{51}
         - Explain the effect of multiplying a vector quantity by a scalar.{52}
-        - Paste un-numbered outcome here
+        - Explain how the magnitude of a vector is defined in terms of the components of a vector.{62}
     Coordinate System and Vector Components:
         - Identify the magnitude and direction of a vector.{51}
         - Explain the geometric construction for the addition or subtraction of vectors in a plane.{54}
-    Vector Algebra:
         - Describe how one-dimensional vector quantities are added or subtracted.{53}
+        - Describe vectors in two and three dimensions in terms of their components, using unit vectors along the axes.{59}
+        - Distinguish between the vector components of a vector and the scalar components of a vector.{61}
+        - Explain how the magnitude of a vector is defined in terms of the components of a vector.{62}
+        - Identify the direction angle of a vector in a plane.{63}
+        - Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64}
+    Vector Algebra:
+        - 
         - Paste un-numbered outcome here
     Dot Product:
         - Paste un-numbered outcome here
