@@ -177,17 +177,17 @@ Kinematics(1D):
         - Calculate the total displacement given the position as a function of time.{84}
         - Paste un-numbered outcome here
     Speed:
-        - Paste un-numbered outcome here
+        - Calculate the speed given the instantaneous velocity.{93} 
         - Paste un-numbered outcome here
     Velocity:
         Subtopic Outcome:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Explain the difference between average velocity and instantaneous velocity.{90}
+            - Describe the difference between velocity and speed.{91}
         Average:
             - Calculate the average velocity given the displacement and elapsed time.{86}
             - Paste un-numbered outcome here
         Instantaneous:
-            - Paste un-numbered outcome here
+            - Calculate the instantaneous velocity given the mathematical equation for the velocity.{92}
             - Paste un-numbered outcome here
     Acceleration:
         Subtopic Outcome:
