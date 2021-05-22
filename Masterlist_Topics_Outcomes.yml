@@ -248,10 +248,10 @@ Kinematics(2D and 3D):
     Uniform Circular Motion:
         Subtopic Outcome:
             - Use the equations of circular motion to find the position, velocity, and acceleration of a particle executing circular motion.{148}
-            - Paste un-numbered outcome here
+            - 
         Velocity:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Explain how angular velocity is related to tangential speed.{339}
+            - Calculate the instantaneous angular velocity given the angular position function.{340}
         Acceleration:
             - Solve for the centripetal acceleration of an object moving on a circular path.{147}
             - Paste un-numbered outcome here
@@ -259,9 +259,10 @@ Kinematics(2D and 3D):
         Subtopic Outcome:
             - Explain the differences between centripetal acceleration and tangential acceleration resulting from nonuniform circular motion.{149}
             - Evaluate centripetal and tangential acceleration in nonuniform circular motion, and find the total acceleration vector.{150}
+            - Find the angular velocity and angular acceleration in a rotating system.{341}
         Angular Acceleration:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Calculate the average angular acceleration when the angular velocity is changing.{342}
+            - Calculate the instantaneous angular acceleration given the angular velocity function.{343} 
 
 # Topic Break
 
@@ -544,6 +545,7 @@ Rotational Dynamics:
         - Find the total angular momentum and torque about a designated origin of a system of particles.{401}
         - Calculate the torque on a rigid body rotating about a fixed axis.{403}
     Rotation about a Fixed Axis:
+        - Describe the physical meaning of rotational variables as applied to fixed-axis rotation.{338}
         - Calculate the angular momentum of a rigid body rotating about a fixed axis.{402}
         - Calculate the torque on a rigid body rotating about a fixed axis.{403}
     Static Equilibrium:
