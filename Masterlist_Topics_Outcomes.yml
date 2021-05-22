@@ -363,8 +363,10 @@ Momentum and Impulse:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
         Angular:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Describe the vector nature of angular momentum.{400}
+            - Find the total angular momentum and torque about a designated origin of a system of particles.{401}
+            - Calculate the angular momentum of a rigid body rotating about a fixed axis.{402}
+            - Use conservation of angular momentum in the analysis of objects that change their rotation rate.{404}
     Impulse:
         - Explain what an impulse is, physically.{296}
         - Describe what an impulse does.{297}
@@ -397,7 +399,7 @@ Momentum and Impulse:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
         Angular:
-            - Paste un-numbered outcome here
+            - Use conservation of angular momentum in the analysis of objects that change their rotation rate.{404}
             - Paste un-numbered outcome here
     2D Collisions:
         - Express momentum as a two-dimensional vector.{317}
@@ -525,9 +527,11 @@ Rotational Dynamics:
         - Describe how the magnitude of a torque depends on the magnitude of the lever arm and the angle the force vector makes with the lever arm.{372}
         - Determine the sign (positive or negative) of a torque using the right-hand rule.{373}
         - Calculate individual torques about a common axis and sum them to find the net torque.{374} 
+        - Find the total angular momentum and torque about a designated origin of a system of particles.{401}
+        - Calculate the torque on a rigid body rotating about a fixed axis.{403}
     Rotation about a Fixed Axis:
-        - Paste un-numbered outcome here
-        - Paste un-numbered outcome here
+        - Calculate the angular momentum of a rigid body rotating about a fixed axis.{402}
+        - Calculate the torque on a rigid body rotating about a fixed axis.{403}
     Static Equilibrium:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
