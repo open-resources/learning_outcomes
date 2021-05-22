@@ -400,7 +400,8 @@ Momentum and Impulse:
             - Paste un-numbered outcome here
         Angular:
             - Use conservation of angular momentum in the analysis of objects that change their rotation rate.{404}
-            - Paste un-numbered outcome here
+            - Apply conservation of angular momentum to determine the angular velocity of a rotating system in which the moment of inertia is changing.{408}
+            - Explain how the rotational kinetic energy changes when a system undergoes changes in both moment of inertia and angular velocity.{409}
     2D Collisions:
         - Express momentum as a two-dimensional vector.{317}
         - Write equations for momentum conservation in component form.{318}
@@ -419,6 +420,7 @@ Energy:
         - Calculate the kinetic energy of a particle given its mass and its velocity or momentum.{244}
         - Evaluate the kinetic energy of a body, relative to different frames of reference.{245}
         - Describe the differences between rotational and translational kinetic energy.{358}
+        - Explain how the rotational kinetic energy changes when a system undergoes changes in both moment of inertia and angular velocity.{409}
     Potential Energy:
         Subtopic Outcome:
             - Relate the difference of potential energy to work done on a particle for a system without friction or air drag.{261}
