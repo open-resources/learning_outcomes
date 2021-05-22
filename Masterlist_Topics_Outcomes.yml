@@ -636,11 +636,13 @@ Fluids:
             - Calculate flow rate.{521}
             - Describe the relationship between flow rate and velocity.{522}
         Laminar/Turbulent Flow:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Calculate flow and resistance with Poiseuille's law.{536}
+            - Explain how pressure drops due to resistance.{537}
+            - Calculate the Reynolds number for an object moving through a fluid.{538}
+            - Use the Reynolds number for a system to determine whether it is laminar or turbulent.{539}
         Viscosity:
             - Explain what viscosity is.{535}
-            - Paste un-numbered outcome here
+            - Describe the conditions under which an object has a terminal speed.{540}
         Equation of Continuity:
             - Explain the consequences of the equation of continuity to the conservation of mass.{523}
             - Paste un-numbered outcome here
