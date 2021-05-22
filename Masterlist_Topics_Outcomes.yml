@@ -415,6 +415,7 @@ Energy:
     Kinetic Energy:
         - Calculate the kinetic energy of a particle given its mass and its velocity or momentum.{244}
         - Evaluate the kinetic energy of a body, relative to different frames of reference.{245}
+        - Describe the differences between rotational and translational kinetic energy.{358}
     Potential Energy:
         Subtopic Outcome:
             - Relate the difference of potential energy to work done on a particle for a system without friction or air drag.{261}
@@ -434,13 +435,14 @@ Energy:
         Subtopic Outcome:
             - Formulate the principle of conservation of mechanical energy, with or without the presence of non-conservative forces.{274}
             - Use the conservation of mechanical energy to calculate various properties of simple systems.{275}
+            - Use conservation of mechanical energy to analyze systems undergoing both rotation and translation.{361}
         Conservative Forces:
             - Characterize a conservative force in several different ways.{267}
             - Specify mathematical conditions that must be satisfied by a conservative force and its components.{268}
             - Relate the conservative force between particles of a system to the potential energy of the system.{269}
             - Calculate the components of a conservative force in various cases.{270}
         Non-Conservative Forces:
-            - Paste un-numbered outcome here
+            - Calculate the angular velocity of a rotating system when there are energy losses due to nonconservative forces.{362}
             - Paste un-numbered outcome here
 
 # Topic Break
@@ -492,11 +494,12 @@ Rotational Motion:
         - Calculate the velocity and acceleration of the center of mass.{326}
     Rotational Energy:
         Subtopic Outcome:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Describe the differences between rotational and translational kinetic energy.{358}
+            - Use conservation of mechanical energy to analyze systems undergoing both rotation and translation.{361}
+            - Calculate the angular velocity of a rotating system when there are energy losses due to nonconservative forces.{362} 
         Moment of Inertia:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Define the physical concept of moment of inertia in terms of the mass distribution from the rotational axis.{359}
+            - Explain how the moment of inertia of rigid bodies affects their rotational kinetic energy.{360}
         Parallel-Axis Theorem:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
