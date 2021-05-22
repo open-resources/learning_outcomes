@@ -10,6 +10,7 @@ Math:
         - Calculate the average acceleration between two points in time.{97}
         - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
         - Create and interpret graphs of potential energy.{279}
+        - Analyze elasticity and plasticity on a stress-strain diagram.{439} 
     Significant Figures:
         - Determine the correct number of significant figures for the result of a computation.{33}
         - Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34} 
@@ -628,6 +629,8 @@ Elasticity:
     Topic Outcome:
         - Explain the concepts of stress and strain in describing elastic deformations of materials.{432}
         - Describe the types of elastic deformation of objects and materials.{433}
+        - Explain the limit where a deformation of material is elastic.{437}
+        - Analyze elasticity and plasticity on a stress-strain diagram.{439} 
     Stress:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
@@ -638,5 +641,5 @@ Elasticity:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
     Plasticity:
-        - Paste un-numbered outcome here
+        - Describe the range where materials show plastic behavior.{438}
         - Paste un-numbered outcome here
