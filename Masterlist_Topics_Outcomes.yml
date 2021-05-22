@@ -500,8 +500,10 @@ Rotational Motion:
         Moment of Inertia:
             - Define the physical concept of moment of inertia in terms of the mass distribution from the rotational axis.{359}
             - Explain how the moment of inertia of rigid bodies affects their rotational kinetic energy.{360}
+            - Calculate the moment of inertia for uniformly shaped, rigid bodies.{366}
+            - Calculate the moment of inertia for compound objects.{368} 
         Parallel-Axis Theorem:
-            - Paste un-numbered outcome here
+            - Apply the parallel axis theorem to find the moment of inertia about any axis parallel to one already known.{367}
             - Paste un-numbered outcome here
 
 #Topic Break
