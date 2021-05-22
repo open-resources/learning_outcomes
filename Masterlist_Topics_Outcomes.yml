@@ -457,14 +457,16 @@ Work:
     Work-Energy Theorem:
         - Apply the work-energy theorem to find information about the motion of a particle, given the forces acting on it.{249}
         - Use the work-energy theorem to find information about the forces acting on a particle, given information about its motion.{250}
+        - Use the work-energy theorem to analyze rotation to find the work done on a system when it is rotated about a fixed axis for a finite angular displacement.{383}
+        - Solve for the angular velocity of a rotating rigid body using the work-energy theorem.{384}
     Power:
         - Relate the work done during a time interval to the power delivered.{254}
         - Find the power expended by a force acting on a moving body.{255} 
     Work For Rotational Motion:
-        - Paste un-numbered outcome here
+        - Use the work-energy theorem to analyze rotation to find the work done on a system when it is rotated about a fixed axis for a finite angular displacement.{383}
         - Paste un-numbered outcome here
     Power For Rotational Motion:
-        - Paste un-numbered outcome here
+        - Find the power delivered to a rotating rigid body given the applied torque and angular velocity.{385}
         - Paste un-numbered outcome here
 
 # Topic Break
@@ -477,6 +479,7 @@ Rotational Motion:
     Relating Rotational to Translational Motion:
         - Given the linear kinematic equation, write the corresponding rotational kinematic equation.{353}
         - Calculate the linear distances, velocities, and accelerations of points on a rotating system given the angular velocities and accelerations.{354}
+        - Summarize the rotational variables and equations and relate them to their translational counterparts.{386}
     Rolling Motion:
         Subtopic Outcome:
             - Paste un-numbered outcome here
