@@ -279,6 +279,7 @@ Force:
         - Solve more complex equilibrium problems.{212}
         - Solve more complex acceleration problems.{213}
         - Apply calculus to more advanced dynamics problems.{214} 
+        - Calculate force given pressure and area.{497} 
     Types of Forces:
         - Distinguish between external and internal forces.{179}
         - Identify the action and reaction forces in different situations.{192}
@@ -599,12 +600,16 @@ Gravitation:
 
 Fluids:
     Topic Outcome:
-        - Paste un-numbered outcome here
-        - Paste un-numbered outcome here
+        - State the different phases of matter.{490}
+        - Describe the characteristics of the phases of matter at the molecular or atomic level.{491}
+        - Distinguish between compressible and incompressible materials.{492}
     Density:
-        - Paste un-numbered outcome here
-        - Paste un-numbered outcome here
+        - Define density and its related SI units.{493}
+        - Compare and contrast the densities of various substances.{494}
     Pressure:
+        - Define pressure and its related SI units.{495}
+        - Explain the relationship between pressure and force.{496}
+        - Calculate force given pressure and area.{497} 
         - Define gauge pressure and absolute pressure.{501}
         - Explain various methods for measuring pressure.{502}
         - Understand the working of open-tube barometers.{503}
