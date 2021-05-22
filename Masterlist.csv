@@ -1,15 +1,14 @@
 Topic,Subtopic,Subsubtopic,Learning Outcome,Code
 Math,Topic Outcome,,"Compare measurable length, mass, and timescales quantitatively.{9}",1.1.1.0
-Math,Topic Outcome,,Paste un-numbered outcome here,1.1.1.1
+Math,Topic Outcome,,Use conversion factors to express the value of a given quantity in different units.{20},1.1.1.1
 Math,Graphs,,Calculate the total displacement given the position as a function of time.{84},1.2.1.0
 Math,Graphs,,Determine the total distance traveled.{85},1.2.1.1
-Math,Graphs,,Determine the total distance traveled.{85},1.2.1.2
-Math,Graphs,,Calculate the average velocity given the displacement and elapsed time.{86},1.2.1.3
-Math,Graphs,,Calculate the average acceleration between two points in time.{97},1.2.1.4
-Math,Graphs,,Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101},1.2.1.5
-Math,Graphs,,Create and interpret graphs of potential energy.{279},1.2.1.6
-Math,Graphs,,Analyze elasticity and plasticity on a stress-strain diagram.{439},1.2.1.7
-Math,Graphs,,Describe the conic sections and how they relate to orbital motion.{469},1.2.1.8
+Math,Graphs,,Calculate the average velocity given the displacement and elapsed time.{86},1.2.1.2
+Math,Graphs,,Calculate the average acceleration between two points in time.{97},1.2.1.3
+Math,Graphs,,Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101},1.2.1.4
+Math,Graphs,,Create and interpret graphs of potential energy.{279},1.2.1.5
+Math,Graphs,,Analyze elasticity and plasticity on a stress-strain diagram.{439},1.2.1.6
+Math,Graphs,,Describe the conic sections and how they relate to orbital motion.{469},1.2.1.7
 Math,Significant Figures,,Determine the correct number of significant figures for the result of a computation.{33},1.3.1.0
 Math,Significant Figures,,"Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34}",1.3.1.1
 Math,Significant Figures,,"Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}",1.3.1.2
@@ -117,6 +116,7 @@ Vectors,Cross Product,,Determine the vector product of two vectors.{76},2.9.1.0
 Vectors,Cross Product,,Paste un-numbered outcome here,2.9.1.1
 Kinematics(1D),Topic Outcome,,"Define position, displacement, and distance traveled.{83}",3.1.1.0
 Kinematics(1D),Topic Outcome,,Identify which equations of motion are to be used to solve for unknowns.{105},3.1.1.1
+Kinematics(1D),Topic Outcome,,Determine the total distance traveled.{85},3.1.1.2
 Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,3.2.1.0
 Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,3.2.1.1
 Kinematics(1D),Position,,Find the functional form of position versus time given the velocity function.{120},3.3.1.0
@@ -161,15 +161,16 @@ Kinematics(2D and 3D),Projectile Motion,,"Calculate the range, time of flight, a
 Kinematics(2D and 3D),Projectile Motion,,Find the time of flight and impact velocity of a projectile that lands at a different height from that of launch.{142},4.5.1.2
 Kinematics(2D and 3D),Projectile Motion,,Calculate the trajectory of a projectile.{143},4.5.1.3
 Kinematics(2D and 3D),Uniform Circular Motion,Subtopic Outcome,"Use the equations of circular motion to find the position, velocity, and acceleration of a particle executing circular motion.{148}",4.6.1.0
-Kinematics(2D and 3D),Uniform Circular Motion,Subtopic Outcome,Paste un-numbered outcome here,4.6.1.1
-Kinematics(2D and 3D),Uniform Circular Motion,Velocity,Paste un-numbered outcome here,4.6.2.0
-Kinematics(2D and 3D),Uniform Circular Motion,Velocity,Paste un-numbered outcome here,4.6.2.1
+Kinematics(2D and 3D),Uniform Circular Motion,Subtopic Outcome,,4.6.1.1
+Kinematics(2D and 3D),Uniform Circular Motion,Velocity,Explain how angular velocity is related to tangential speed.{339},4.6.2.0
+Kinematics(2D and 3D),Uniform Circular Motion,Velocity,Calculate the instantaneous angular velocity given the angular position function.{340},4.6.2.1
 Kinematics(2D and 3D),Uniform Circular Motion,Acceleration,Solve for the centripetal acceleration of an object moving on a circular path.{147},4.6.3.0
 Kinematics(2D and 3D),Uniform Circular Motion,Acceleration,Paste un-numbered outcome here,4.6.3.1
 Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,Explain the differences between centripetal acceleration and tangential acceleration resulting from nonuniform circular motion.{149},4.7.1.0
 Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,"Evaluate centripetal and tangential acceleration in nonuniform circular motion, and find the total acceleration vector.{150}",4.7.1.1
-Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Paste un-numbered outcome here,4.7.2.0
-Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Paste un-numbered outcome here,4.7.2.1
+Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,Find the angular velocity and angular acceleration in a rotating system.{341},4.7.1.2
+Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Calculate the average angular acceleration when the angular velocity is changing.{342},4.7.2.0
+Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Calculate the instantaneous angular acceleration given the angular velocity function.{343},4.7.2.1
 Force,Topic Outcome,,Distinguish between kinematics and dynamics.{163},5.1.1.0
 Force,Topic Outcome,,Understand the definition of force.{164},5.1.1.1
 Force,Topic Outcome,,Identify simple free-body diagrams.{165},5.1.1.2
@@ -181,6 +182,7 @@ Force,Topic Outcome,,Use concepts from kinematics to solve problems using Newton
 Force,Topic Outcome,,Solve more complex equilibrium problems.{212},5.1.1.8
 Force,Topic Outcome,,Solve more complex acceleration problems.{213},5.1.1.9
 Force,Topic Outcome,,Apply calculus to more advanced dynamics problems.{214},5.1.1.10
+Force,Topic Outcome,,Calculate force given pressure and area.{497},5.1.1.11
 Force,Types of Forces,,Distinguish between external and internal forces.{179},5.2.1.0
 Force,Types of Forces,,Identify the action and reaction forces in different situations.{192},5.2.1.1
 Force,Types of Forces,,Define normal and tension forces.{197},5.2.1.2
@@ -264,7 +266,8 @@ Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,"Correctly identi
 Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Define a system whose momentum is conserved.{305},6.5.1.2
 Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Mathematically express conservation of momentum for a given system.{306},6.5.1.3
 Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Calculate an unknown quantity using conservation of momentum.{307},6.5.1.4
-Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,"Describe the application of conservation of momentum when the mass changes with time, as well as the velocity.{330}",6.5.1.5
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,Write equations for momentum conservation in component form.{318},6.5.1.5
+Momentum and Impulse,Conservation of Momentum,Subtopic Outcome,"Describe the application of conservation of momentum when the mass changes with time, as well as the velocity.{330}",6.5.1.6
 Momentum and Impulse,Conservation of Momentum,Linear,Paste un-numbered outcome here,6.5.2.0
 Momentum and Impulse,Conservation of Momentum,Linear,Paste un-numbered outcome here,6.5.2.1
 Momentum and Impulse,Conservation of Momentum,Angular,Use conservation of angular momentum in the analysis of objects that change their rotation rate.{404},6.5.3.0
@@ -355,8 +358,9 @@ Rotational Dynamics,Torque,,Determine the sign (positive or negative) of a torqu
 Rotational Dynamics,Torque,,Calculate individual torques about a common axis and sum them to find the net torque.{374},10.3.1.2
 Rotational Dynamics,Torque,,Find the total angular momentum and torque about a designated origin of a system of particles.{401},10.3.1.3
 Rotational Dynamics,Torque,,Calculate the torque on a rigid body rotating about a fixed axis.{403},10.3.1.4
-Rotational Dynamics,Rotation about a Fixed Axis,,Calculate the angular momentum of a rigid body rotating about a fixed axis.{402},10.4.1.0
-Rotational Dynamics,Rotation about a Fixed Axis,,Calculate the torque on a rigid body rotating about a fixed axis.{403},10.4.1.1
+Rotational Dynamics,Rotation about a Fixed Axis,,Describe the physical meaning of rotational variables as applied to fixed-axis rotation.{338},10.4.1.0
+Rotational Dynamics,Rotation about a Fixed Axis,,Calculate the angular momentum of a rigid body rotating about a fixed axis.{402},10.4.1.1
+Rotational Dynamics,Rotation about a Fixed Axis,,Calculate the torque on a rigid body rotating about a fixed axis.{403},10.4.1.2
 Rotational Dynamics,Static Equilibrium,,Identify the physical conditions of static equilibrium.{420},10.5.1.0
 Rotational Dynamics,Static Equilibrium,,Draw a free-body diagram for a rigid body acted on by forces.{421},10.5.1.1
 Rotational Dynamics,Static Equilibrium,,Explain how the conditions for equilibrium allow us to solve statics problems.{422},10.5.1.2
@@ -388,14 +392,18 @@ Gravitation,Einstein's Theory of Gravity,,Describe how the theory of general rel
 Gravitation,Einstein's Theory of Gravity,,Explain the principle of equivalence.{482},11.6.1.1
 Gravitation,Einstein's Theory of Gravity,,Calculate the Schwarzschild radius of an object.{483},11.6.1.2
 Gravitation,Einstein's Theory of Gravity,,Summarize the evidence for black holes.{484},11.6.1.3
-Fluids,Topic Outcome,,Paste un-numbered outcome here,12.1.1.0
-Fluids,Topic Outcome,,Paste un-numbered outcome here,12.1.1.1
-Fluids,Density,,Paste un-numbered outcome here,12.2.1.0
-Fluids,Density,,Paste un-numbered outcome here,12.2.1.1
-Fluids,Pressure,,Define gauge pressure and absolute pressure.{501},12.3.1.0
-Fluids,Pressure,,Explain various methods for measuring pressure.{502},12.3.1.1
-Fluids,Pressure,,Understand the working of open-tube barometers.{503},12.3.1.2
-Fluids,Pressure,,Describe in detail how manometers and barometers operate.{504},12.3.1.3
+Fluids,Topic Outcome,,State the different phases of matter.{490},12.1.1.0
+Fluids,Topic Outcome,,Describe the characteristics of the phases of matter at the molecular or atomic level.{491},12.1.1.1
+Fluids,Topic Outcome,,Distinguish between compressible and incompressible materials.{492},12.1.1.2
+Fluids,Density,,Define density and its related SI units.{493},12.2.1.0
+Fluids,Density,,Compare and contrast the densities of various substances.{494},12.2.1.1
+Fluids,Pressure,,Define pressure and its related SI units.{495},12.3.1.0
+Fluids,Pressure,,Explain the relationship between pressure and force.{496},12.3.1.1
+Fluids,Pressure,,Calculate force given pressure and area.{497},12.3.1.2
+Fluids,Pressure,,Define gauge pressure and absolute pressure.{501},12.3.1.3
+Fluids,Pressure,,Explain various methods for measuring pressure.{502},12.3.1.4
+Fluids,Pressure,,Understand the working of open-tube barometers.{503},12.3.1.5
+Fluids,Pressure,,Describe in detail how manometers and barometers operate.{504},12.3.1.6
 Fluids,Pascal's Law,Subtopic Outcome,State Pascal's principle.{508},12.4.1.0
 Fluids,Pascal's Law,Subtopic Outcome,Describe applications of Pascal's principle.{509},12.4.1.1
 Fluids,Pascal's Law,Hydraulics,Derive relationships between forces in a hydraulic system.{510},12.4.2.0
@@ -408,10 +416,12 @@ Fluids,Fluid Dynamics,Subtopic Outcome,Describe the characteristics of flow.{520
 Fluids,Fluid Dynamics,Subtopic Outcome,Paste un-numbered outcome here,12.6.1.1
 Fluids,Fluid Dynamics,Flow Rate,Calculate flow rate.{521},12.6.2.0
 Fluids,Fluid Dynamics,Flow Rate,Describe the relationship between flow rate and velocity.{522},12.6.2.1
-Fluids,Fluid Dynamics,Laminar/Turbulent Flow,Paste un-numbered outcome here,12.6.3.0
-Fluids,Fluid Dynamics,Laminar/Turbulent Flow,Paste un-numbered outcome here,12.6.3.1
+Fluids,Fluid Dynamics,Laminar/Turbulent Flow,Calculate flow and resistance with Poiseuille's law.{536},12.6.3.0
+Fluids,Fluid Dynamics,Laminar/Turbulent Flow,Explain how pressure drops due to resistance.{537},12.6.3.1
+Fluids,Fluid Dynamics,Laminar/Turbulent Flow,Calculate the Reynolds number for an object moving through a fluid.{538},12.6.3.2
+Fluids,Fluid Dynamics,Laminar/Turbulent Flow,Use the Reynolds number for a system to determine whether it is laminar or turbulent.{539},12.6.3.3
 Fluids,Fluid Dynamics,Viscosity,Explain what viscosity is.{535},12.6.4.0
-Fluids,Fluid Dynamics,Viscosity,Paste un-numbered outcome here,12.6.4.1
+Fluids,Fluid Dynamics,Viscosity,Describe the conditions under which an object has a terminal speed.{540},12.6.4.1
 Fluids,Fluid Dynamics,Equation of Continuity,Explain the consequences of the equation of continuity to the conservation of mass.{523},12.6.5.0
 Fluids,Fluid Dynamics,Equation of Continuity,Paste un-numbered outcome here,12.6.5.1
 Fluids,Fluid Dynamics,Bernoulli's Equation,Explain the terms in Bernoulli's equation.{527},12.6.6.0
