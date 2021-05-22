@@ -11,6 +11,7 @@ Math:
         - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
         - Create and interpret graphs of potential energy.{279}
         - Analyze elasticity and plasticity on a stress-strain diagram.{439} 
+        - Describe the conic sections and how they relate to orbital motion.{469}
     Significant Figures:
         - Determine the correct number of significant figures for the result of a computation.{33}
         - Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34} 
@@ -405,6 +406,7 @@ Momentum and Impulse:
             - Use conservation of angular momentum in the analysis of objects that change their rotation rate.{404}
             - Apply conservation of angular momentum to determine the angular velocity of a rotating system in which the moment of inertia is changing.{408}
             - Explain how the rotational kinetic energy changes when a system undergoes changes in both moment of inertia and angular velocity.{409}
+            - Describe how orbital velocity is related to conservation of angular momentum.{470}
     2D Collisions:
         - Express momentum as a two-dimensional vector.{317}
         - Write equations for momentum conservation in component form.{318}
@@ -565,8 +567,9 @@ Gravitation:
         - Determine whether objects are gravitationally bound.{465} 
     Kepler's Laws:
         Subtopic Outcome:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Describe the conic sections and how they relate to orbital motion.{469}
+            - Describe how orbital velocity is related to conservation of angular momentum.{470}
+            - Determine the period of an elliptical orbit from its major axis.{471}
         Kepler's First Law:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
