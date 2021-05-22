@@ -315,6 +315,7 @@ Force:
         - Describe the general characteristics of friction.{218}
         - List the various types of friction.{219}
         - Calculate the magnitude of static and kinetic friction, and use these in problems involving Newton's laws of motion.{220} 
+        - Calculate the static friction force associated with rolling motion without slipping.{395}
     Drag:
         Subtopic Outcome:
             - Express the drag force mathematically.{230}
@@ -482,13 +483,15 @@ Rotational Motion:
         - Summarize the rotational variables and equations and relate them to their translational counterparts.{386}
     Rolling Motion:
         Subtopic Outcome:
-            - Paste un-numbered outcome here
+            - Use energy conservation to analyze rolling motion.{396} 
             - Paste un-numbered outcome here
         Without Slipping:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Describe the physics of rolling motion without slipping.{392}
+            - Explain how linear variables are related to angular variables for the case of rolling motion without slipping.{393}
+            - Find the linear and angular accelerations in rolling motion with and without slipping.{394}
+            - Calculate the static friction force associated with rolling motion without slipping.{395}
         With Slipping:
-            - Paste un-numbered outcome here
+            - Find the linear and angular accelerations in rolling motion with and without slipping.{394}
             - Paste un-numbered outcome here
     Center of Mass:
         - Explain the meaning and usefulness of the concept of center of mass.{323}
