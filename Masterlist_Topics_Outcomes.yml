@@ -5,7 +5,6 @@ Math:
     Graphs:
         - Calculate the total displacement given the position as a function of time.{84}
         - Determine the total distance traveled.{85}
-        - Determine the total distance traveled.{85}
         - Calculate the average velocity given the displacement and elapsed time.{86}
         - Calculate the average acceleration between two points in time.{97}
         - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
@@ -178,6 +177,7 @@ Kinematics(1D):
     Topic Outcome:
         - Define position, displacement, and distance traveled.{83}
         - Identify which equations of motion are to be used to solve for unknowns.{105}
+        - Determine the total distance traveled.{85}
     Motion Diagrams:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
