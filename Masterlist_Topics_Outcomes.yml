@@ -273,7 +273,10 @@ Kinematics(2D and 3D):
         Angular Acceleration:
             - Calculate the average angular acceleration when the angular velocity is changing.{342}
             - Calculate the instantaneous angular acceleration given the angular velocity function.{343} 
-
+    Relative Motion:
+        -
+        -
+        
 # Topic Break
 
 Force:
