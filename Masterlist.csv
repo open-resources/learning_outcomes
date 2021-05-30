@@ -8,7 +8,6 @@ Math,Graphs,,Calculate the average acceleration between two points in time.{97},
 Math,Graphs,,Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101},1.2.1.4
 Math,Graphs,,Create and interpret graphs of potential energy.{279},1.2.1.5
 Math,Graphs,,Analyze elasticity and plasticity on a stress-strain diagram.{439},1.2.1.6
-Math,Graphs,,Describe the conic sections and how they relate to orbital motion.{469},1.2.1.7
 Math,Significant Figures,,Determine the correct number of significant figures for the result of a computation.{33},1.3.1.0
 Math,Significant Figures,,"Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34}",1.3.1.1
 Math,Significant Figures,,"Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}",1.3.1.2
@@ -86,12 +85,15 @@ Math,Quadratic formula,Non-Physical Roots,Paste un-numbered outcome here,1.12.2.
 Math,Quadratic formula,Non-Physical Roots,Paste un-numbered outcome here,1.12.2.1
 Math,Polar Coordinates,,Identify the magnitude and direction of a vector.{51},1.13.1.0
 Math,Polar Coordinates,,Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64},1.13.1.1
-Physics in General,Topic Outcome,,,2.1.1.0
-Physics in General,Topic Outcome,,,2.1.1.1
-Physics in General,Units,,,2.2.1.0
-Physics in General,Units,,,2.2.1.1
-Physics in General,Solving Problems in Physics,,,2.3.1.0
-Physics in General,Solving Problems in Physics,,,2.3.1.1
+Math,Conics,,Describe the conic sections and how they relate to orbital motion.{469},1.14.1.0
+Physics in General,Topic Outcome,,Describe the scope of physics.{7},2.1.1.0
+Physics in General,Topic Outcome,,"Describe the relationships among models, theories, and laws.{10}",2.1.1.1
+Physics in General,Units,,Describe how SI base units are defined.{14},2.2.1.0
+Physics in General,Units,,Describe how derived units are created from base units.{15},2.2.1.1
+Physics in General,Units,,Express quantities given in SI units using metric prefixes.{16},2.2.1.2
+Physics in General,Solving Problems in Physics,,Describe the process for developing a problem-solving strategy.{42},2.3.1.0
+Physics in General,Solving Problems in Physics,,Explain how to find the numerical solution to a problem.{43},2.3.1.1
+Physics in General,Solving Problems in Physics,,Summarize the process for assessing the significance of the numerical solution to a problem.{44},2.3.1.2
 Vectors,Topic Outcome,,Describe the difference between vector and scalar quantities.{50},3.1.1.0
 Vectors,Topic Outcome,,Distinguish between a vector equation and a scalar equation.{55},3.1.1.1
 Vectors,Topic Outcome,,Interpret physical situations in terms of vector expressions.{70},3.1.1.2
@@ -175,8 +177,10 @@ Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,"Evaluate cen
 Kinematics(2D and 3D),Non-Uniform Circular Motion,Subtopic Outcome,Find the angular velocity and angular acceleration in a rotating system.{341},5.7.1.2
 Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Calculate the average angular acceleration when the angular velocity is changing.{342},5.7.2.0
 Kinematics(2D and 3D),Non-Uniform Circular Motion,Angular Acceleration,Calculate the instantaneous angular acceleration given the angular velocity function.{343},5.7.2.1
-Kinematics(2D and 3D),Relative Motion,,,5.8.1.0
-Kinematics(2D and 3D),Relative Motion,,,5.8.1.1
+Kinematics(2D and 3D),Relative Motion,,Explain the concept of reference frames.{154},5.8.1.0
+Kinematics(2D and 3D),Relative Motion,,Write the position and velocity vector equations for relative motion.{155},5.8.1.1
+Kinematics(2D and 3D),Relative Motion,,Draw the position and velocity vectors for relative motion.{156},5.8.1.2
+Kinematics(2D and 3D),Relative Motion,,Analyze one-dimensional and two-dimensional relative motion problems using the position and velocity vector equations.{157},5.8.1.3
 Force,Topic Outcome,,Distinguish between kinematics and dynamics.{163},6.1.1.0
 Force,Topic Outcome,,Understand the definition of force.{164},6.1.1.1
 Force,Topic Outcome,,Identify simple free-body diagrams.{165},6.1.1.2
