@@ -10,7 +10,6 @@ Math:
         - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
         - Create and interpret graphs of potential energy.{279}
         - Analyze elasticity and plasticity on a stress-strain diagram.{439} 
-        - Describe the conic sections and how they relate to orbital motion.{469}
     Significant Figures:
         - Determine the correct number of significant figures for the result of a computation.{33}
         - Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34} 
@@ -129,6 +128,8 @@ Math:
     Polar Coordinates:
         - Identify the magnitude and direction of a vector.{51}
         - Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64} 
+    Conics:
+        - Describe the conic sections and how they relate to orbital motion.{469}
 
 # Topic Break
 
