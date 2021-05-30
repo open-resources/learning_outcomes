@@ -276,8 +276,10 @@ Kinematics(2D and 3D):
             - Calculate the average angular acceleration when the angular velocity is changing.{342}
             - Calculate the instantaneous angular acceleration given the angular velocity function.{343} 
     Relative Motion:
-        -
-        -
+        - Explain the concept of reference frames.{154}
+        - Write the position and velocity vector equations for relative motion.{155}
+        - Draw the position and velocity vectors for relative motion.{156}
+        - Analyze one-dimensional and two-dimensional relative motion problems using the position and velocity vector equations.{157} 
         
 # Topic Break
 
