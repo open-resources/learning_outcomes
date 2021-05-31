@@ -1,7 +1,7 @@
 Math:
     Topic Outcome:
-        - Compare measurable length, mass, and timescales quantitatively.{9}
-        - Use conversion factors to express the value of a given quantity in different units.{20}
+        - Paste un-numbered outcome here
+        - Paste un-numbered outcome here
     Graphs:
         - Calculate the total displacement given the position as a function of time.{84}
         - Determine the total distance traveled.{85}
@@ -126,7 +126,6 @@ Math:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
     Polar Coordinates:
-        - Identify the magnitude and direction of a vector.{51}
         - Explain the connection between polar coordinates and Cartesian coordinates in a plane.{64} 
     Conics:
         - Describe the conic sections and how they relate to orbital motion.{469}
@@ -137,10 +136,12 @@ Physics in General:
     Topic Outcome:
         - Describe the scope of physics.{7}
         - Describe the relationships among models, theories, and laws.{10} 
+        - Compare measurable length, mass, and timescales quantitatively.{9}
     Units:
         - Describe how SI base units are defined.{14}
         - Describe how derived units are created from base units.{15}
         - Express quantities given in SI units using metric prefixes.{16} 
+        - Use conversion factors to express the value of a given quantity in different units.{20}
     Solving Problems in Physics:
         - Describe the process for developing a problem-solving strategy.{42}
         - Explain how to find the numerical solution to a problem.{43}
@@ -190,12 +191,12 @@ Kinematics(1D):
     Topic Outcome:
         - Define position, displacement, and distance traveled.{83}
         - Identify which equations of motion are to be used to solve for unknowns.{105}
-        - Determine the total distance traveled.{85}
     Motion Diagrams:
         - Paste un-numbered outcome here
         - Paste un-numbered outcome here
     Position:
         - Find the functional form of position versus time given the velocity function.{120}
+        - Determine the total distance traveled.{85}
         - Paste un-numbered outcome here
     Displacement:
         - Calculate the total displacement given the position as a function of time.{84}
@@ -288,7 +289,6 @@ Force:
     Topic Outcome:
         - Distinguish between kinematics and dynamics.{163}
         - Understand the definition of force.{164}
-        - Identify simple free-body diagrams.{165}
         - Define the SI unit of force, the newton.{166}
         - Describe force as a vector.{167}
         - Apply Newton's laws of motion to solve problems involving a variety of forces.{199}
