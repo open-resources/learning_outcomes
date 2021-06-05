@@ -540,3 +540,736 @@ Unit 1. Mechanics.{0}
 5. Use the Reynolds number for a system to determine whether it is laminar or turbulent.{539}
 6. Describe the conditions under which an object has a terminal speed.{540}
 .
+Unit 2. Waves and Acoustics
+-------.
+.
+## Chapter 15: Oscillations.
+.
+### 15.1 Simple Harmonic Motion.
+.
+1. Define the terms period and frequency.
+2. List the characteristics of simple harmonic motion.
+3. Explain the concept of phase shift.
+4. Write the equations of motion for the system of a mass and spring undergoing simple harmonic motion.
+5. Describe the motion of a mass oscillating on a vertical spring.
+.
+### 15.2 Energy in Simple Harmonic Motion.
+.
+1. Describe the energy conservation of the system of a mass and a spring.
+2. Explain the concepts of stable and unstable equilibrium points.
+.
+### 15.2 Energy in Simple Harmonic Motion.
+.
+1. Describe the energy conservation of the system of a mass and a spring.
+2. Explain the concepts of stable and unstable equilibrium points.
+.
+### 15.3 Comparing Simple Harmonic Motion and Circular Motion.
+.
+1. Describe how the sine and cosine functions relate to the concepts of circular motion.
+2. Describe the connection between simple harmonic motion and circular motion.
+.
+### 15.4 Pendulums.
+.
+1. State the forces that act on a simple pendulum.
+2. Determine the angular frequency, frequency, and period of a simple pendulum in terms of the length of the pendulum and the acceleration due to gravity.
+3. Define the period for a physical pendulum.
+4. Define the period for a torsional pendulum.
+.
+### 15.5 Damped Oscillations.
+.
+1. Describe the motion of damped harmonic motion.
+2. Write the equations of motion for damped harmonic oscillations.
+3. Describe the motion of driven, or forced, damped harmonic motion.
+4. Write the equations of motion for forced, damped harmonic motion. 
+.
+### 15.6 Forced Oscillations.
+.
+1. Define forced oscillations.
+2. List the equations of motion associated with forced oscillations.
+3. Explain the concept of resonance and its impact on the amplitude of an oscillator.
+4. List the characteristics of a system oscillating in resonance. 
+.
+## Chapter 16: Waves.
+.
+### 16.1 Traveling Waves.
+.
+1. Describe the basic characteristics of wave motion.
+2. Define the terms wavelength, amplitude, period, frequency, and wave speed.
+3. Explain the difference between longitudinal and transverse waves, and give examples of each type.
+4. List the different types of waves.
+.
+### 16.2 Mathematics of Waves.
+.
+1. Model a wave, moving with a constant wave velocity, with a mathematical expression.
+2. Calculate the velocity and acceleration of the medium.
+3. Show how the velocity of the medium differs from the wave velocity (propagation velocity).
+.
+### 16.3 Wave Speed on a Stretched String.
+.
+1. Determine the factors that affect the speed of a wave on a string.
+2. Write a mathematical expression for the speed of a wave on a string and generalize these concepts for other media.
+.
+### 16.4 Energy and Power of a Wave.
+.
+1. Explain how energy travels with a pulse or wave.
+2. Describe, using a mathematical expression, how the energy in a wave depends on the amplitude of the wave.
+.
+### 16.5 Interference of Waves.
+.
+1. Explain how mechanical waves are reflected and transmitted at the boundaries of a medium.
+2. Define the terms interference and superposition.
+3. Find the resultant wave of two identical sinusoidal waves that differ only by a phase shift.
+.
+### 16.6 Standing Waves and Resonance.
+.
+1. Describe standing waves and explain how they are produced.
+2. Describe the modes of a standing wave on a string.
+3. Provide examples of standing waves beyond the waves on a string.
+.
+## Chapter 17: Sound.
+.
+### 17.1 Sound Waves.
+.
+1. Explain the difference between sound and hearing.
+2. Describe sound as a wave.
+3. List the equations used to model sound waves.
+4. Describe compression and rarefactions as they relate to sound. 
+.
+### 17.2 Speed of Sound.
+.
+1. Explain the relationship between wavelength and frequency of sound.
+2. Determine the speed of sound in different media.
+3. Derive the equation for the speed of sound in air.
+4. Determine the speed of sound in air for a given temperature. 
+.
+### 17.3 Sound Intensity.
+.
+1. Define the term intensity.
+2. Explain the concept of sound intensity level.
+3. Describe how the human ear translates sound.
+.
+### 17.4 Normal Modes of a Standing Sound Wave.
+.
+1. Explain the mechanism behind sound-reducing headphones.
+2. Describe resonance in a tube closed at one end and open at the other end.
+3. Describe resonance in a tube open at both ends.
+.
+### 17.5 Sources of Musical Sound.
+.
+1. Describe the resonant frequencies in instruments that can be modeled as a tube with symmetrical boundary conditions.
+2. Describe the resonant frequencies in instruments that can be modeled as a tube with anti-symmetrical boundary conditions.
+.
+### 17.6 Beats.
+.
+1. Determine the beat frequency produced by two sound waves that differ in frequency.
+2. Describe how beats are produced by musical instruments.
+.
+### 17.7 The Doppler Effect.
+.
+1. Explain the change in observed frequency as a moving source of sound approaches or departs from a stationary observer.
+2. Explain the change in observed frequency as an observer moves toward or away from a stationary source of sound.
+.
+### 17.8 Shock Waves.
+.
+1. Explain the mechanism behind sonic booms.
+2. Describe the difference between sonic booms and shock waves.
+3. Describe a bow wake.
+.
+Vol 2.
+-------.
+.
+Unit 1. Thermodynamics
+-------.
+.
+## Chapter 1: Temperature and Heat.
+.
+### 1.1 Temperature and Thermal Equilibrium.
+.
+1. Define temperature and describe it qualitatively.
+2. Explain thermal equilibrium.
+3. Explain the zeroth law of thermodynamics.
+.
+### 1.2 Thermometers and Temperature Scales.
+.
+1. Describe several different types of thermometers.
+2. Convert temperatures between the Celsius, Fahrenheit, and Kelvin scales.
+.
+### 1.3 Thermal Expansion.
+.
+1. Answer qualitative questions about the effects of thermal expansion.
+2. Solve problems involving thermal expansion, including those involving thermal stress.
+3. Express quantities given in SI units using metric prefixes.
+.
+### 1.4 Heat Transfer, Specific Heat, and Calorimetry.
+.
+1. Explain phenomena involving heat as a form of energy transfer.
+2. Solve problems involving heat transfer.
+.
+### 1.5 Phase Changes.
+.
+1. Describe phase transitions and equilibrium between phases.
+2. Solve problems involving latent heat.
+3. Solve calorimetry problems involving phase changes.
+.
+### 1.6 Mechanisms of Heat Transfer.
+.
+1. Explain some phenomena that involve conductive, convective, and radiative heat transfer.
+2. Solve problems on the relationships between heat transfer, time, and rate of heat transfer.
+3. Solve problems using the formulas for conduction and radiation.
+.
+## Chapter 2: The Kinetic Theory of Gases.
+.
+### 2.1 Molecular Model of an Ideal Gas.
+.
+1. Explain some phenomena that involve conductive, convective, and radiative heat transfer.
+2. Use the unit of moles in relation to numbers of molecules, and molecular and macroscopic masses.
+3. Explain the ideal gas law in terms of moles rather than numbers of molecules.
+4. Apply the van der Waals gas law to situations where the ideal gas law is inadequate.
+.
+### 2.2 Pressure, Temperature, and RMS Speed.
+.
+1. Explain the relations between microscopic and macroscopic quantities in a gas.
+2. Solve problems involving mixtures of gases.
+3. Solve problems involving the distance and time between a gas molecule’s collisions.
+.
+### 2.3 Heat Capacity and Equipartition of Energy.
+.
+1. Solve problems involving heat transfer to and from ideal monatomic gases whose volumes are held constant.
+2. Solve similar problems for non-monatomic ideal gases based on the number of degrees of freedom of a molecule.
+3. Estimate the heat capacities of metals using a model based on degrees of freedom.
+.
+### 2.4 Distribution of Molecular Speeds.
+.
+1. Describe the distribution of molecular speeds in an ideal gas.
+2. Find the average and most probable molecular speeds in an ideal gas.
+.
+## Chapter 3: The First Law of Thermodynamics.
+.
+### 3.1 Thermodynamic Systems.
+.
+1. Define a thermodynamic system, its boundary, and its surroundings.
+2. Explain the roles of all the components involved in thermodynamics.
+3. Define thermal equilibrium and thermodynamic temperature.
+4. Link an equation of state to a system.
+.
+### 3.2 Work, Heat, and Internal Energy.
+.
+1. Describe the work done by a system, heat transfer between objects, and internal energy change of a system.
+2. Calculate the work, heat transfer, and internal energy change in a simple process.
+.
+### 3.3 First Law of Thermodynamics.
+.
+1. State the first law of thermodynamics and explain how it is applied.
+2. Explain how heat transfer, work done, and internal energy change are related in any thermodynamic process.
+.
+### 3.4 Thermodynamic Processes.
+.
+1. Define a thermodynamic process.
+2. Distinguish between quasi-static and non-quasi-static processes.
+3. Calculate physical quantities, such as the heat transferred, work done, and internal energy change for isothermal, adiabatic, and cyclical thermodynamic processes.
+.
+### 3.5 Heat Capacities of an Ideal Gas.
+.
+1. Define heat capacity of an ideal gas for a specific process.
+2. Calculate the specific heat of an ideal gas for either an isobaric or isochoric process.
+3. Explain the difference between the heat capacities of an ideal gas and a real gas.
+4. Estimate the change in specific heat of a gas over temperature ranges.
+.
+### 3.6 Adiabatic Processes for an Ideal Gas.
+.
+1. Define adiabatic expansion of an ideal gas.
+2. Demonstrate the qualitative difference between adiabatic and isothermal expansions.
+.
+## Chapter 4: The Second Law of Thermodynamics.
+.
+### 4.1 Reversible and Irreversible Processes.
+.
+1. Define reversible and irreversible processes.
+2. State the second law of thermodynamics via an irreversible process.
+.
+### 4.2 Heat Engines.
+.
+1. Describe the function and components of a heat engine.
+2. Explain the efficiency of an engine.
+3. Calculate the efficiency of an engine for a given cycle of an ideal gas.
+.
+### 4.3 Refrigerators and Heat Pumps.
+.
+1. Describe a refrigerator and a heat pump and list their differences.
+2. Calculate the performance coefficients of simple refrigerators and heat pumps.
+.
+### 4.4 Statements of the Second Law of Thermodynamics.
+.
+1. Contrast the second law of thermodynamics statements according to Kelvin and Clausius formulations.
+2. Interpret the second of thermodynamics via irreversibility.
+.
+### 4.5 The Carnot Cycle.
+.
+1. Describe the Carnot cycle with the roles of all four processes involved.
+2. Outline the Carnot principle and its implications.
+3. Demonstrate the equivalence of the Carnot principle and the second law of thermodynamics.
+.
+### 4.6 Entropy.
+.
+1. Describe the meaning of entropy.
+2. Calculate the change of entropy for some simple processes.
+.
+### 4.7 Entropy on a Microscopic Scale.
+.
+1. Interpret the meaning of entropy at a microscopic scale.
+2. Calculate a change in entropy for an irreversible process of a system and contrast with the change in entropy of the universe.
+3. Explain the third law of thermodynamics.
+.
+Unit 2. Electricity and Magnetism 
+-------.
+.
+## Chapter 5: Electric Charges and Fields.
+.
+### 5.1 Electric Charge.
+.
+1. Describe the concept of electric charge.
+2. Explain qualitatively the force electric charge creates.
+.
+### 5.2 Conductors, Insulators, and Charging by Induction.
+.
+1. Explain what a conductor is.
+2. Explain what an insulator is.
+3. List the differences and similarities between conductors and insulators.
+4. Describe the process of charging by induction.
+.
+### 5.3 Coulomb's Law.
+.
+1. Describe the electric force, both qualitatively and quantitatively.
+2. Calculate the force that charges exert on each other.
+3. Determine the direction of the electric force for different source charges.
+4. Correctly describe and apply the superposition principle for multiple source charges.
+.
+### 5.4 Electric Field.
+.
+1. Explain the purpose of the electric field concept.
+2. Describe the properties of the electric field.
+3. Calculate the field of a collection of source charges of either sign.
+.
+### 5.5 Calculating Electric Fields of Charge Distributions.
+.
+1. Explain what a continuous source charge distribution is and how it is related to the concept of quantization of charge.
+2. Describe line charges, surface charges, and volume charges.
+3. Calculate the field of a continuous source charge distribution of either sign.
+.
+### 5.6 Electric Field Lines.
+.
+1. Explain the purpose of an electric field diagram.
+2. Describe the relationship between a vector diagram and a field line diagram.
+3. Explain the rules for creating a field diagram and why these rules make physical sense.
+4. Sketch the field of an arbitrary source charge.
+.
+### 5.7 Electric Dipoles.
+.
+1. Describe a permanent dipole.
+2. Describe an induced dipole.
+3. Define and calculate an electric dipole moment.
+4. Explain the physical meaning of the dipole moment.
+.
+## Chapter 6: Gauss's Law.
+.
+### 6.1 Electric Flux.
+.
+1. Define the concept of flux.
+2. Describe electric flux.
+3. Calculate electric flux for a given situation.
+.
+### 6.2 Explaining Gauss’s Law.
+.
+1. State Gauss’s law.
+2. Explain the conditions under which Gauss’s law may be used.
+3. Apply Gauss’s law in appropriate systems.
+.
+### 6.3 Applying Gauss’s Law.
+.
+1. Explain what spherical, cylindrical, and planar symmetry are.
+2. Recognize whether or not a given system possesses one of these symmetries.
+3. Apply Gauss’s law to determine the electric field of a system with one of these symmetries.
+.
+### 6.4 Conductors in Electrostatic Equilibrium.
+.
+1. Describe the electric field within a conductor at equilibrium.
+2. Describe the electric field immediately outside the surface of a charged conductor at equilibrium.
+3. Explain why if the field is not as described in the first two objectives, the conductor is not at equilibrium.
+.
+## Chapter 7: Electric Potential.
+.
+### 7.1 Electric Potential Energy.
+.
+1. Define the work done by an electric force.
+2. Define electric potential energy.
+3. Apply work and potential energy in systems with electric charges.
+.
+### 7.2 Electric Potential and Potential Difference.
+.
+1. Define electric potential, voltage, and potential difference.
+2. Define the electron-volt.
+3. Calculate electric potential and potential difference from potential energy and electric field.
+4. Describe systems in which the electron-volt is a useful unit.
+5. Apply conservation of energy to electric systems.
+.
+### 7.3 Calculations of Electric Potential.
+.
+1. Calculate the potential due to a point charge.
+2. Calculate the potential of a system of multiple point charges.
+3. Describe an electric dipole.
+4. Define dipole moment.
+5. Calculate the potential of a continuous charge distribution.
+.
+### 7.4 Determining Field from Potential.
+.
+1. Explain how to calculate the electric field in a system from the given potential.
+2. Calculate the electric field in a given direction from a given potential.
+3. Calculate the electric field throughout space from a given potential.
+.
+### 7.5 Equipotential Surfaces and Conductors.
+.
+1. Define equipotential surfaces and equipotential lines.
+2. Explain the relationship between equipotential lines and electric field lines.
+3. Map equipotential lines for one or two point charges.
+4. Describe the potential of a conductor.
+5. Compare and contrast equipotential lines and elevation lines on topographic maps.
+.
+### 7.6 Applications of Electrostatics.
+.
+1. Describe some of the many practical applications of electrostatics, including several printing technologies.
+2. Relate these applications to Newton’s second law and the electric force.
+.
+## Chapter 8: Capacitance.
+.
+### 8.1 Capacitors and Capacitance.
+.
+1. Explain the concepts of a capacitor and its capacitance.
+2. Describe how to evaluate the capacitance of a system of conductors.
+.
+### 8.2 Capacitors in Series and in Parallel.
+.
+1. Explain how to determine the equivalent capacitance of capacitors in series and in parallel combinations.
+2. Compute the potential difference across the plates and the charge on the plates for a capacitor in a network and determine the net capacitance of a network of capacitors.
+.
+### 8.3 Energy Stored in a Capacitor.
+.
+1. Explain how energy is stored in a capacitor.
+2. Use energy relations to determine the energy stored in a capacitor network.
+.
+### 8.4 Capacitor with a Dielectric.
+.
+1. Describe the effects a dielectric in a capacitor has on capacitance and other properties.
+2. Calculate the capacitance of a capacitor containing a dielectric.
+.
+### 8.5 Molecular Model of a Dielectric.
+.
+1. Explain the polarization of a dielectric in a uniform electrical field.
+2. Describe the effect of a polarized dielectric on the electrical field between capacitor plates.
+3. Explain dielectric breakdown.
+.
+### 8.5 Molecular Model of a Dielectric.
+.
+1. Explain the polarization of a dielectric in a uniform electrical field.
+2. Describe the effect of a polarized dielectric on the electrical field between capacitor plates.
+3. Explain dielectric breakdown.
+.
+## Chapter 9: Current and Resistance.
+.
+### 9.1 Electrical Current.
+.
+1. Describe an electrical current.
+2. Define the unit of electrical current.
+3. Explain the direction of current flow.
+.
+### 9.2 Model of Conduction in Metals.
+.
+1. Define the drift velocity of charges moving through a metal.
+2. Define the vector current density.
+3. Describe the operation of an incandescent lamp.
+.
+### 9.3 Resistivity and Resistance.
+.
+1. Differentiate between resistance and resistivity.
+2. Define the term conductivity.
+3. Describe the electrical component known as a resistor.
+4. State the relationship between resistance of a resistor and its length, cross-sectional area, and resistivity.
+5. State the relationship between resistivity and temperature.
+.
+### 9.4 Ohm's Law.
+.
+1. Describe Ohm’s law.
+2. Recognize when Ohm’s law applies and when it does not.
+.
+### 9.5 Electrical Energy and Power.
+.
+1. Express electrical power in terms of the voltage and the current.
+2. Describe the power dissipated by a resistor in an electric circuit.
+3. Calculate the energy efficiency and cost effectiveness of appliances and equipment.
+.
+### 9.6 Superconductors.
+.
+1. Describe the phenomenon of superconductivity.
+2. List applications of superconductivity.
+.
+## Chapter 10: Direct-Current Circuits.
+.
+### 10.1 Electromotive Force.
+.
+1. Describe the electromotive force (emf) and the internal resistance of a battery.
+2. Explain the basic operation of a battery.
+.
+### 10.2 Resistors in Series and Parallel.
+.
+1. Define the term equivalent resistance.
+2. Calculate the equivalent resistance of resistors connected in series.
+3. Calculate the equivalent resistance of resistors connected in parallel.
+.
+### 10.3 Kirchhoff's Rules.
+.
+1. State Kirchhoff’s junction rule.
+2. State Kirchhoff’s loop rule.
+3. Analyze complex circuits using Kirchhoff’s rules.
+.
+### 10.4 Electrical Measuring Instruments.
+.
+1. Describe how to connect a voltmeter in a circuit to measure voltage.
+2. Describe how to connect an ammeter in a circuit to measure current.
+3. Describe the use of an ohmmeter.
+.
+### 10.5 RC Circuits.
+.
+1. Describe the charging process of a capacitor.
+2. Describe the discharging process of a capacitor.
+3. List some applications of RC circuits.
+.
+### 10.6 Household Wiring and Electrical Safety.
+.
+1. List the basic concepts involved in house wiring.
+2. Define the terms thermal hazard and shock hazard.
+3. Describe the effects of electrical shock on human physiology and their relationship to the amount of current through the body.
+4. Explain the function of fuses and circuit breakers.
+.
+## Chapter 11: Magnetic Forces and Fields.
+.
+### 11.1 Magnetism and Its Historical Discoveries.
+.
+1. Explain attraction and repulsion by magnets.
+2. Describe the historical and contemporary applications of magnetism.
+.
+### 11.2 Magnetic Fields and Lines.
+.
+1. Define the magnetic field based on a moving charge experiencing a force.
+2. Apply the right-hand rule to determine the direction of a magnetic force based on the motion of a charge in a magnetic field.
+3. Sketch magnetic field lines to understand which way the magnetic field points and how strong it is in a region of space.
+.
+### 11.3 Motion of a Charged Particle in a Magnetic Field.
+.
+1. Explain how a charged particle in an external magnetic field undergoes circular motion.
+2. Describe how to determine the radius of the circular motion of a charged particle in a magnetic field.
+.
+### 11.4 Magnetic Force on a Current-Carrying Conductor.
+.
+1. Determine the direction in which a current-carrying wire experiences a force in an external magnetic field.
+2. Calculate the force on a current-carrying wire in an external magnetic field.
+.
+### 11.5 Force and Torque on a Current Loop.
+.
+1. Evaluate the net force on a current loop in an external magnetic field.
+2. Evaluate the net torque on a current loop in an external magnetic field.
+3. Define the magnetic dipole moment of a current loop.
+.
+### 11.6 The Hall Effect.
+.
+1. Explain a scenario where the magnetic and electric fields are crossed and their forces balance each other as a charged particle moves through a velocity selector.
+2. Compare how charge carriers move in a conductive material and explain how this relates to the Hall effect.
+.
+### 11.7 Applications of Magnetic Forces and Fields.
+.
+1. Explain how a mass spectrometer works to separate charges.
+2. Explain how a cyclotron works.
+.
+## Chapter 12: Sources of Magnetic Fields.
+.
+### 12.1 The Biot-Savart Law.
+.
+1. Explain how to derive a magnetic field from an arbitrary current in a line segment.
+2. Calculate magnetic field from the Biot-Savart law in specific geometries, such as a current in a line and a current in a circular arc.
+.
+### 12.2 Magnetic Field Due to a Thin Straight Wire.
+.
+1. Explain how the Biot-Savart law is used to determine the magnetic field due to a thin, straight wire.
+2. Determine the dependence of the magnetic field from a thin, straight wire based on the distance from it and the current flowing in the wire.
+3. Sketch the magnetic field created from a thin, straight wire by using the second right-hand rule.
+.
+### 12.3 Magnetic Force between Two Parallel Currents.
+.
+1. Explain how parallel wires carrying currents can attract or repel each other.
+2. Define the ampere and describe how it is related to current-carrying wires.
+3. Calculate the force of attraction or repulsion between two current-carrying wires.
+.
+### 12.4 Magnetic Field of a Current Loop.
+.
+1. Explain how the Biot-Savart law is used to determine the magnetic field due to a current in a loop of wire at a point along a line perpendicular to the plane of the loop.
+2. Determine the magnetic field of an arc of current.
+.
+### 12.5 Ampère’s Law.
+.
+1. Explain how Ampère’s law relates the magnetic field produced by a current to the value of the current.
+2. Calculate the magnetic field from a long straight wire, either thin or thick, by Ampère’s law.
+.
+### 12.6 Solenoids and Toroids.
+.
+1. Establish a relationship for how the magnetic field of a solenoid varies with distance and current by using both the Biot-Savart law and Ampère’s law.
+2. Establish a relationship for how the magnetic field of a toroid varies with distance and current by using Ampère’s law.
+.
+### 12.7 Magnetism in Matter.
+.
+1. Classify magnetic materials as paramagnetic, diamagnetic, or ferromagnetic, based on their response to a magnetic field.
+2. Sketch how magnetic dipoles align with the magnetic field in each type of substance.
+3. Define hysteresis and magnetic susceptibility, which determines the type of magnetic material.
+.
+## Chapter 13: Electromagnetic Induction.
+.
+### 13.1 Faraday’s Law.
+.
+1. Determine the magnetic flux through a surface, knowing the strength of the magnetic field, the surface area, and the angle between the normal to the surface and the magnetic field.
+2. Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop.
+.
+### 13.2 Lenz's Law.
+.
+1. Use Lenz’s law to determine the direction of induced emf whenever a magnetic flux changes.
+2. Use Faraday’s law with Lenz’s law to determine the induced emf in a coil and in a solenoid.
+.
+### 13.3 Motional Emf.
+.
+1. Determine the magnitude of an induced emf in a wire moving at a constant speed through a magnetic field.
+2. Discuss examples that use motional emf, such as a rail gun and a tethered satellite.
+.
+### 13.4 Induced Electric Fields.
+.
+1. Connect the relationship between an induced emf from Faraday’s law to an electric field, thereby showing that a changing magnetic flux creates an electric field.
+2. Solve for the electric field based on a changing magnetic flux in time.
+.
+### 13.5 Eddy Currents.
+.
+1. Explain how eddy currents are created in metals.
+2. Describe situations where eddy currents are beneficial and where they are not helpful.
+.
+### 13.6 Electric Generators and Back Emf.
+.
+1. Explain how an electric generator works.
+2. Determine the induced emf in a loop at any time interval, rotating at a constant rate in a magnetic field.
+3. Show that rotating coils have an induced emf; in motors this is called back emf because it opposes the emf input to the motor.
+.
+### 13.7 Applications of Electromagnetic Induction.
+.
+1. Explain how computer hard drives and graphic tablets operate using magnetic induction.
+2. Explain how hybrid/electric vehicles and transcranial magnetic stimulation use magnetic induction to their advantage.
+.
+### 13.7 Applications of Electromagnetic Induction.
+.
+1. Explain how computer hard drives and graphic tablets operate using magnetic induction.
+2. Explain how hybrid/electric vehicles and transcranial magnetic stimulation use magnetic induction to their advantage.
+.
+## Chapter 14: Inductance.
+.
+### 14.1 Mutual Inductance.
+.
+1. Correlate two nearby circuits that carry time-varying currents with the emf induced in each circuit.
+2. Describe examples in which mutual inductance may or may not be desirable.
+.
+### 14.2 Self-Inductance and Inductors.
+.
+1. Correlate the rate of change of current to the induced emf created by that current in the same circuit.
+2. Derive the self-inductance for a cylindrical solenoid.
+3. Derive the self-inductance for a rectangular toroid.
+.
+### 14.3 Energy in a Magnetic Field.
+.
+1. Explain how energy can be stored in a magnetic field.
+2. Derive the equation for energy stored in a coaxial cable given the magnetic energy density.
+.
+### 14.4 RL Circuits.
+.
+1. Analyze circuits that have an inductor and resistor in series.
+2. Describe how current and voltage exponentially grow or decay based on the initial conditions.
+.
+### 14.5 Oscillations in an LC Circuit.
+.
+1. Explain why charge or current oscillates between a capacitor and inductor, respectively, when wired in series.
+2. Describe the relationship between the charge and current oscillating between a capacitor and inductor wired in series.
+.
+### 14.6 RLC Series Circuits.
+.
+1. Determine the angular frequency of oscillation for a resistor, inductor, capacitor (𝑅𝐿𝐶) series circuit.
+2. Relate the 𝑅𝐿𝐶 circuit to a damped spring oscillation.
+.
+## Chapter 15: Alternating-Current Circuits.
+.
+### 15.1 AC Sources.
+.
+1. Explain the differences between direct current (dc) and alternating current (ac).
+2. Define characteristic features of alternating current and voltage, such as the amplitude or peak and the frequency.
+.
+### 15.2 Simple AC Circuits.
+.
+1. Interpret phasor diagrams and apply them to ac circuits with resistors, capacitors, and inductors.
+2. Define the reactance for a resistor, capacitor, and inductor to help understand how current in the circuit behaves compared to each of these devices.
+.
+### 15.3 RLC Series Circuits with AC.
+.
+1. Describe how the current varies in a resistor, a capacitor, and an inductor while in series with an ac power source.
+2. Use phasors to understand the phase angle of a resistor, capacitor, and inductor ac circuit and to understand what that phase angle means.
+3. Calculate the impedance of a circuit.
+.
+### 15.4 Power in an AC Circuit.
+.
+1. Describe how average power from an ac circuit can be written in terms of peak current and voltage and of rms current and voltage.
+2. Determine the relationship between the phase angle of the current and voltage and the average power, known as the power factor.
+.
+### 15.5 Resonance in an AC Circuit.
+.
+1. Determine the peak ac resonant angular frequency for a RLC circuit.
+2. Explain the width of the average power versus angular frequency curve and its significance using terms like bandwidth and quality factor.
+.
+### 15.6 Transformers.
+.
+1. Explain why power plants transmit electricity at high voltages and low currents and how they do this.
+2. Develop relationships among current, voltage, and the number of windings in step-up and step-down transformers.
+.
+## Chapter 16: Electromagnetic Waves.
+.
+### 16.1 Maxwell’s Equations and Electromagnetic Waves.
+.
+1. Explain Maxwell’s correction of Ampère’s law by including the displacement current.
+2. State and apply Maxwell’s equations in integral form.
+3. Describe how the symmetry between changing electric and changing magnetic fields explains Maxwell’s prediction of electromagnetic waves.
+4. Describe how Hertz confirmed Maxwell’s prediction of electromagnetic waves.
+.
+### 16.2 Plane Electromagnetic Waves.
+.
+1. Describe how Maxwell’s equations predict the relative directions of the electric fields and magnetic fields, and the direction of propagation of plane electromagnetic waves.
+2. Explain how Maxwell’s equations predict that the speed of propagation of electromagnetic waves in free space is exactly the speed of light.
+3. Calculate the relative magnitude of the electric and magnetic fields in an electromagnetic plane wave.
+4. Describe how electromagnetic waves are produced and detected.
+.
+### 16.3 Energy Carried by Electromagnetic Waves.
+.
+1. Express the time-averaged energy density of electromagnetic waves in terms of their electric and magnetic field amplitudes.
+2. Calculate the Poynting vector and the energy intensity of electromagnetic waves.
+3. Explain how the energy of an electromagnetic wave depends on its amplitude, whereas the energy of a photon is proportional to its frequency.
+.
+### 16.4 Momentum and Radiation Pressure.
+.
+1. Describe the relationship of the radiation pressure and the energy density of an electromagnetic wave.
+2. Explain how the radiation pressure of light, while small, can produce observable astronomical effects.
+.
+### 16.5 The Electromagnetic Spectrum.
+.
+1. Explain how electromagnetic waves are divided into different ranges, depending on wavelength and corresponding frequency.
+2. Describe how electromagnetic waves in different categories are produced.
+3. Describe some of the many practical everyday applications of electromagnetic waves.
+.
+
+
+
