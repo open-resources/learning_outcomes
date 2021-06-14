@@ -12,9 +12,6 @@ Math:
         - Analyze elasticity and plasticity on a stress-strain diagram.{439} 
     Significant Figures:
         - Determine the correct number of significant figures for the result of a computation.{33}
-        - Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34} 
-        - Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}
-        - Determine the uncertainty of the result of a computation involving quantities with given uncertainties.{37}
     Order of Magnitude:
         - Calculate the order of magnitude of a quantity.{8}
         - Estimate the values of physical quantities.{29}
@@ -146,6 +143,10 @@ Physics in General:
         - Describe the process for developing a problem-solving strategy.{42}
         - Explain how to find the numerical solution to a problem.{43}
         - Summarize the process for assessing the significance of the numerical solution to a problem.{44} 
+    Uncertainty:
+        - Describe the relationship between the concepts of accuracy, precision, uncertainty, and discrepancy.{34} 
+        - Calculate the percent uncertainty of a measurement, given its value and its uncertainty.{36}
+        - Determine the uncertainty of the result of a computation involving quantities with given uncertainties.{37}
 
 # Topic Break
 
