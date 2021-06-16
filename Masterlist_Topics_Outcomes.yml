@@ -1013,11 +1013,11 @@ Magnetism:
         - Establish a relationship for how the magnetic field of a solenoid varies with distance and current by using both the Biot-Savart law and Ampère’s law.{1120}
         - Establish a relationship for how the magnetic field of a toroid varies with distance and current by using Ampère’s law.{1121} 
     Magnetic Flux:
-        - Paste un-numbered outcome here
+        - Determine the magnetic flux through a surface, knowing the strength of the magnetic field, the surface area, and the angle between the normal to the surface and the magnetic field.{1133}
         - Paste un-numbered outcome here
     Electromagnetic Induction:
         Subtopic Outcome:
-            - Paste un-numbered outcome here
+            - Use Faraday’s law with Lenz’s law to determine the induced emf in a coil and in a solenoid.{1139}
             - Paste un-numbered outcome here
         Induced Currents:
             - Paste un-numbered outcome here
@@ -1032,10 +1032,10 @@ Magnetism:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
         Faraday's Law:
-            - Paste un-numbered outcome here
+            - Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop.{1134} 
             - Paste un-numbered outcome here
         Lenz's Law:
-            - Paste un-numbered outcome here
+            - Use Lenz’s law to determine the direction of induced emf whenever a magnetic flux changes.{1138}
             - Paste un-numbered outcome here
 
 # Topic Break
