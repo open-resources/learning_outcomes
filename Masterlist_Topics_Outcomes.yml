@@ -915,8 +915,10 @@ Electrostatics:
             - Explain the rules for creating a field diagram and why these rules make physical sense.{861}
             - Sketch the field of an arbitrary source charge.{862}
     Electric Dipoles:
+        - Describe an electric dipole.{917}
         - Describe a permanent dipole.{866}
         - Describe an induced dipole.{867}
+        - Define dipole moment.{918}
         - Define and calculate an electric dipole moment.{868}
         - Explain the physical meaning of the dipole moment.{869} 
     Electric Flux:
@@ -945,6 +947,9 @@ Electrostatics:
         Electric Potential Energy:
             - Define electric potential energy.{902}
             - Calculate electric potential and potential difference from potential energy and electric field.{909}
+            - Calculate the potential due to a point charge.{915}
+            - Calculate the potential of a system of multiple point charges.{916}
+            - Calculate the potential of a continuous charge distribution.{919} 
         Potential Difference:
             - Calculate electric potential and potential difference from potential energy and electric field.{909}
             - Paste un-numbered outcome here
