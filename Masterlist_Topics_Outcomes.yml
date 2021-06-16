@@ -1093,6 +1093,7 @@ Circuits:
     Electrical Power:
         - Express electrical power in terms of the voltage and the current.{1003}
         - Describe the power dissipated by a resistor in an electric circuit.{1004}
+        - Determine the relationship between the phase angle of the current and voltage and the average power, known as the power factor.{1226} 
     Capacitors:
         Subtopic Outcome:
             - Explain the concepts of a capacitor and its capacitance.{944}
@@ -1192,6 +1193,11 @@ Circuits:
             - Define characteristic features of alternating current and voltage, such as the amplitude or peak and the frequency.{1210}
             - Interpret phasor diagrams and apply them to ac circuits with resistors, capacitors, and inductors.{1214}
             - Define the reactance for a resistor, capacitor, and inductor to help understand how current in the circuit behaves compared to each of these devices.{1215}
+            - Describe how the current varies in a resistor, a capacitor, and an inductor while in series with an ac power source.{1219}
+            - Use phasors to understand the phase angle of a resistor, capacitor, and inductor ac circuit and to understand what that phase angle means.{1220}
+            - Calculate the impedance of a circuit.{1221} 
+            - Describe how average power from an ac circuit can be written in terms of peak current and voltage and of rms current and voltage.{1225}
+            - 
         Alternating-Current Sources:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
