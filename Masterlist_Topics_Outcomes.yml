@@ -1012,6 +1012,8 @@ Magnetism:
     Solenoids:
         - Establish a relationship for how the magnetic field of a solenoid varies with distance and current by using both the Biot-Savart law and Ampère’s law.{1120}
         - Establish a relationship for how the magnetic field of a toroid varies with distance and current by using Ampère’s law.{1121} 
+        - Derive the self-inductance for a cylindrical solenoid.{1182}
+        - Derive the self-inductance for a rectangular toroid.{1183} 
     Magnetic Flux:
         - Determine the magnetic flux through a surface, knowing the strength of the magnetic field, the surface area, and the angle between the normal to the surface and the magnetic field.{1133}
         - Paste un-numbered outcome here
@@ -1173,6 +1175,9 @@ Circuits:
         Inductance:
             - Correlate two nearby circuits that carry time-varying currents with the emf induced in each circuit.{1176}
             - Describe examples in which mutual inductance may or may not be desirable.{1177}
+            - Correlate the rate of change of current to the induced emf created by that current in the same circuit.{1181}
+            - Derive the self-inductance for a cylindrical solenoid.{1182}
+            - Derive the self-inductance for a rectangular toroid.{1183} 
         RL Circuits:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
