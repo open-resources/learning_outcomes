@@ -481,12 +481,18 @@ Oscillations,Resonance,,Paste un-numbered outcome here,15.7.1.1
 Waves,Topic Outcome,,Describe the basic characteristics of wave motion.{595},16.1.1.0
 Waves,Topic Outcome,,"Define the terms wavelength, amplitude, period, frequency, and wave speed.{596}",16.1.1.1
 Waves,Topic Outcome,,List the different types of waves.{598},16.1.1.2
-Waves,Topic Outcome,,,16.1.1.3
+Waves,Topic Outcome,,"Model a wave, moving with a constant wave velocity, with a mathematical expression.{602}",16.1.1.3
+Waves,Topic Outcome,,Calculate the velocity and acceleration of the medium.{603},16.1.1.4
+Waves,Topic Outcome,,Show how the velocity of the medium differs from the wave velocity (propagation velocity).{604},16.1.1.5
+Waves,Topic Outcome,,Determine the factors that affect the speed of a wave on a string.{608},16.1.1.6
+Waves,Topic Outcome,,Write a mathematical expression for the speed of a wave on a string and generalize these concepts for other media.{609},16.1.1.7
 Waves,Traveling Waves,,"Explain the difference between longitudinal and transverse waves, and give examples of each type.{597}",16.2.1.0
 Waves,Traveling Waves,,Paste un-numbered outcome here,16.2.1.1
 Waves,Standing Waves,,Describe standing waves and explain how they are produced.{624},16.3.1.0
 Waves,Standing Waves,,Describe the modes of a standing wave on a string.{625},16.3.1.1
 Waves,Standing Waves,,Provide examples of standing waves beyond the waves on a string.{626},16.3.1.2
+Waves,Standing Waves,,Describe resonance in a tube closed at one end and open at the other end.{653},16.3.1.3
+Waves,Standing Waves,,Describe resonance in a tube open at both ends.{654} .{655},16.3.1.4
 Waves,Energy of a Wave,,Explain how energy travels with a pulse or wave.{613},16.4.1.0
 Waves,Energy of a Wave,,"Describe, using a mathematical expression, how the energy in a wave depends on the amplitude of the wave.{614}",16.4.1.1
 Waves,Power of a Wave,,Paste un-numbered outcome here,16.5.1.0
@@ -550,6 +556,8 @@ Thermodynamics,Ideal Gas,Subtopic Outcome,Apply the van der Waals gas law to sit
 Thermodynamics,Ideal Gas,Subtopic Outcome,Explain the relations between microscopic and macroscopic quantities in a gas.{730},17.10.1.3
 Thermodynamics,Ideal Gas,Subtopic Outcome,Solve problems involving mixtures of gases.{731},17.10.1.4
 Thermodynamics,Ideal Gas,Subtopic Outcome,Solve problems involving the distance and time between a gas molecule’s collisions.{732},17.10.1.5
+Thermodynamics,Ideal Gas,Subtopic Outcome,Describe the distribution of molecular speeds in an ideal gas.{742},17.10.1.6
+Thermodynamics,Ideal Gas,Subtopic Outcome,Find the average and most probable molecular speeds in an ideal gas.{743},17.10.1.7
 Thermodynamics,Ideal Gas,Heat Capacity,Estimate the heat capacities of metals using a model based on degrees of freedom.{738},17.10.2.0
 Thermodynamics,Ideal Gas,Heat Capacity,Define heat capacity of an ideal gas for a specific process.{772},17.10.2.1
 Thermodynamics,Ideal Gas,Heat Capacity,Calculate the specific heat of an ideal gas for either an isobaric or isochoric process.{773},17.10.2.2
