@@ -823,8 +823,8 @@ Thermodynamics:
         - Answer qualitative questions about the effects of thermal expansion.{698}
         - Solve problems involving thermal expansion, including those involving thermal stress.{699}
     Specific Heat:
-        - Paste un-numbered outcome here
-        - Paste un-numbered outcome here
+        - Calculate the specific heat of an ideal gas for either an isobaric or isochoric process.{773}
+        - Estimate the change in specific heat of a gas over temperature ranges.{775}
     Calorimetry:
         - Solve calorimetry problems involving phase changes.{711}
         - Paste un-numbered outcome here
@@ -842,7 +842,10 @@ Thermodynamics:
             - Solve problems involving the distance and time between a gas molecule’s collisions.{732}
         Heat Capacity:
             - Estimate the heat capacities of metals using a model based on degrees of freedom.{738} 
-            - Paste un-numbered outcome here
+            - Define heat capacity of an ideal gas for a specific process.{772}
+            - Calculate the specific heat of an ideal gas for either an isobaric or isochoric process.{773}
+            - Explain the difference between the heat capacities of an ideal gas and a real gas.{774}
+            - Estimate the change in specific heat of a gas over temperature ranges.{775}
         Equipartition Theorem:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
