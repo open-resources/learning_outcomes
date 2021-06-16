@@ -866,6 +866,8 @@ Thermodynamics:
     Entropy:
         - Describe the meaning of entropy.{813}
         - Calculate the change of entropy for some simple processes.{814} 
+        - Interpret the meaning of entropy at a microscopic scale.{818}
+        - Calculate a change in entropy for an irreversible process of a system and contrast with the change in entropy of the universe.{819}
     Heat Engines:
         Subtopic Outcome:
             - Describe the function and components of a heat engine.{791}
@@ -879,7 +881,7 @@ Thermodynamics:
         - Describe a refrigerator and a heat pump and list their differences.{797}
         - Calculate the performance coefficients of simple refrigerators and heat pumps.{798}
     Third Law of Thermodynamics:
-        - Paste un-numbered outcome here
+        - Explain the third law of thermodynamics.{820}
         - Paste un-numbered outcome here
 
 # Topic Break
