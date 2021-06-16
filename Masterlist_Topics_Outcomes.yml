@@ -788,6 +788,7 @@ Thermodynamics:
         - Define a thermodynamic process.{766}
         - Distinguish between quasi-static and non-quasi-static processes.{767}
         - Calculate physical quantities, such as the heat transferred, work done, and internal energy change for isothermal, adiabatic, and cyclical thermodynamic processes.{768} 
+        - Define reversible and irreversible processes.{786}
     Temperature:
         Subtopic Outcome:
             - Define temperature and describe it qualitatively.{687}
@@ -859,7 +860,7 @@ Thermodynamics:
         - State the first law of thermodynamics and explain how it is applied.{761}
         - Explain how heat transfer, work done, and internal energy change are related in any thermodynamic process.{762}
     Second Law of Thermodynamics:
-        - Paste un-numbered outcome here
+        - State the second law of thermodynamics via an irreversible process.{787}
         - Paste un-numbered outcome here
     Entropy:
         - Paste un-numbered outcome here
