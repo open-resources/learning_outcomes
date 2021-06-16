@@ -1100,6 +1100,9 @@ Circuits:
         Capacitor with a Dielectric:
             - Describe the effects a dielectric in a capacitor has on capacitance and other properties.{959}
             - Calculate the capacitance of a capacitor containing a dielectric.{960}
+            - Explain the polarization of a dielectric in a uniform electrical field.{970}
+            - Describe the effect of a polarized dielectric on the electrical field between capacitor plates.{971}
+            - Explain dielectric breakdown.{972} 
     Resistors:
         Subtopic Outcome:
             - Paste un-numbered outcome here
