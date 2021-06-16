@@ -1064,6 +1064,7 @@ Circuits:
         Subtopic Outcome:
             - Differentiate between resistance and resistivity.{990}
             - State the relationship between resistance of a resistor and its length, cross-sectional area, and resistivity.{993}
+            - Define the term equivalent resistance.{1021}
         Conductivity:
             - Define the term conductivity.{991}
             - Paste un-numbered outcome here
@@ -1109,10 +1110,10 @@ Circuits:
             - Describe the electrical component known as a resistor.{992}
             - Describe the power dissipated by a resistor in an electric circuit.{1004}
         Resistors in Series:
-            - Paste un-numbered outcome here
+            - Calculate the equivalent resistance of resistors connected in series.{1022}
             - Paste un-numbered outcome here
         Resistors in Parallel:
-            - Paste un-numbered outcome here
+            - Calculate the equivalent resistance of resistors connected in parallel.{1023}
             - Paste un-numbered outcome here
     Batteries:
         Subtopic Outcome:
