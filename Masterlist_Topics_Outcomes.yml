@@ -1094,6 +1094,7 @@ Circuits:
         - Express electrical power in terms of the voltage and the current.{1003}
         - Describe the power dissipated by a resistor in an electric circuit.{1004}
         - Determine the relationship between the phase angle of the current and voltage and the average power, known as the power factor.{1226} 
+        - Explain the width of the average power versus angular frequency curve and its significance using terms like bandwidth and quality factor.{1231} 
     Capacitors:
         Subtopic Outcome:
             - Explain the concepts of a capacitor and its capacitance.{944}
@@ -1197,6 +1198,7 @@ Circuits:
             - Use phasors to understand the phase angle of a resistor, capacitor, and inductor ac circuit and to understand what that phase angle means.{1220}
             - Calculate the impedance of a circuit.{1221} 
             - Describe how average power from an ac circuit can be written in terms of peak current and voltage and of rms current and voltage.{1225}
+            - Determine the peak ac resonant angular frequency for a RLC circuit.{1230}
             - 
         Alternating-Current Sources:
             - Paste un-numbered outcome here
