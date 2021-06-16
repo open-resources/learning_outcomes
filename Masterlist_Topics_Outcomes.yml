@@ -785,6 +785,9 @@ Thermodynamics:
         - Define a thermodynamic system, its boundary, and its surroundings.{749}
         - Explain the roles of all the components involved in thermodynamics.{750}
         - Link an equation of state to a system.{752} 
+        - Define a thermodynamic process.{766}
+        - Distinguish between quasi-static and non-quasi-static processes.{767}
+        - Calculate physical quantities, such as the heat transferred, work done, and internal energy change for isothermal, adiabatic, and cyclical thermodynamic processes.{768} 
     Temperature:
         Subtopic Outcome:
             - Define temperature and describe it qualitatively.{687}
