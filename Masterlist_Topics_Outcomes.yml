@@ -975,7 +975,7 @@ Magnetism:
     Magnetic Field:
         Subtopic Outcome:
             - Define the magnetic field based on a moving charge experiencing a force.{1059}
-            - Paste un-numbered outcome here
+            - Solve for the electric field based on a changing magnetic flux in time.{1149}
         Magnetic Field Lines:
             - Sketch magnetic field lines to understand which way the magnetic field points and how strong it is in a region of space.{1061}
             - Paste un-numbered outcome here
@@ -1033,7 +1033,7 @@ Magnetism:
             - Paste un-numbered outcome here
         Faraday's Law:
             - Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop.{1134} 
-            - Paste un-numbered outcome here
+            - Connect the relationship between an induced emf from Faraday’s law to an electric field, thereby showing that a changing magnetic flux creates an electric field.{1148}
         Lenz's Law:
             - Use Lenz’s law to determine the direction of induced emf whenever a magnetic flux changes.{1138}
             - Paste un-numbered outcome here
