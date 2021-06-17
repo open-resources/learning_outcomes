@@ -571,6 +571,8 @@ Thermodynamics,Ideal Gas,Adiabatic Processes,Define adiabatic expansion of an id
 Thermodynamics,Ideal Gas,Adiabatic Processes,Demonstrate the qualitative difference between adiabatic and isothermal expansions.{780},17.10.5.1
 Thermodynamics,First Law of Thermodynamics,,State the first law of thermodynamics and explain how it is applied.{761},17.11.1.0
 Thermodynamics,First Law of Thermodynamics,,"Explain how heat transfer, work done, and internal energy change are related in any thermodynamic process.{762}",17.11.1.1
+Thermodynamics,First Law of Thermodynamics,,"Describe the work done by a system, heat transfer between objects, and internal energy change of a system.{756}",17.11.1.2
+Thermodynamics,First Law of Thermodynamics,,"Calculate the work, heat transfer, and internal energy change in a simple process.{757}",17.11.1.3
 Thermodynamics,Second Law of Thermodynamics,,State the second law of thermodynamics via an irreversible process.{787},17.12.1.0
 Thermodynamics,Second Law of Thermodynamics,,Contrast the second law of thermodynamics statements according to Kelvin and Clausius formulations.{802},17.12.1.1
 Thermodynamics,Second Law of Thermodynamics,,Interpret the second of thermodynamics via irreversibility.{803},17.12.1.2
@@ -594,6 +596,8 @@ Electrostatics,Topic Outcome,,"Describe some of the many practical applications 
 Electrostatics,Topic Outcome,,Relate these applications to Newton’s second law and the electric force.{938},18.1.1.3
 Electrostatics,Electric Charge,,Describe the concept of electric charge.{828},18.2.1.0
 Electrostatics,Electric Charge,,Explain qualitatively the force electric charge creates.{829},18.2.1.1
+Electrostatics,Electric Charge,,Explain what a continuous source charge distribution is and how it is related to the concept of quantization of charge.{853},18.2.1.2
+Electrostatics,Electric Charge,,"Describe line charges, surface charges, and volume charges.{854}",18.2.1.3
 Electrostatics,Conductors and Insulators,,Explain what a conductor is.{833},18.3.1.0
 Electrostatics,Conductors and Insulators,,Explain what an insulator is.{834},18.3.1.1
 Electrostatics,Conductors and Insulators,,List the differences and similarities between conductors and insulators.{835},18.3.1.2
@@ -605,6 +609,7 @@ Electrostatics,Electric Field,Subtopic Outcome,Explain the purpose of the electr
 Electrostatics,Electric Field,Subtopic Outcome,Describe the properties of the electric field.{848},18.6.1.1
 Electrostatics,Electric Field,Subtopic Outcome,Correctly describe and apply the superposition principle for multiple source charges.{843},18.6.1.2
 Electrostatics,Electric Field,Subtopic Outcome,Calculate the field of a collection of source charges of either sign.{849},18.6.1.3
+Electrostatics,Electric Field,Subtopic Outcome,Calculate the field of a continuous source charge distribution of either sign.{855},18.6.1.4
 Electrostatics,Electric Field,Electric Field Lines,Explain the purpose of an electric field diagram.{859},18.6.2.0
 Electrostatics,Electric Field,Electric Field Lines,Describe the relationship between a vector diagram and a field line diagram.{860},18.6.2.1
 Electrostatics,Electric Field,Electric Field Lines,Explain the rules for creating a field diagram and why these rules make physical sense.{861},18.6.2.2
@@ -654,12 +659,19 @@ Magnetism,Magnetic Field,Subtopic Outcome,Define the magnetic field based on a m
 Magnetism,Magnetic Field,Subtopic Outcome,Solve for the electric field based on a changing magnetic flux in time.{1149},19.2.1.1
 Magnetism,Magnetic Field,Subtopic Outcome,Explain how energy can be stored in a magnetic field.{1187},19.2.1.2
 Magnetism,Magnetic Field,Subtopic Outcome,Derive the equation for energy stored in a coaxial cable given the magnetic energy density.{1188},19.2.1.3
+Magnetism,Magnetic Field,Subtopic Outcome,"Sketch the magnetic field created from a thin, straight wire by using the second right-hand rule.{1100}",19.2.1.4
 Magnetism,Magnetic Field,Magnetic Field Lines,Sketch magnetic field lines to understand which way the magnetic field points and how strong it is in a region of space.{1061},19.2.2.0
 Magnetism,Magnetic Field,Magnetic Field Lines,Paste un-numbered outcome here,19.2.2.1
 Magnetism,Magnetic Field,Motion of Charged Particle in Magnetic Field,Explain how a charged particle in an external magnetic field undergoes circular motion.{1065},19.2.3.0
 Magnetism,Magnetic Field,Motion of Charged Particle in Magnetic Field,Describe how to determine the radius of the circular motion of a charged particle in a magnetic field.{1066},19.2.3.1
 Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Explain how Ampère’s law relates the magnetic field produced by a current to the value of the current.{1115},19.2.4.0
 Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Calculate the magnetic field from a long straight wire, either thin or thick, by Ampère’s law.{1116}",19.2.4.1
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Explain how to derive a magnetic field from an arbitrary current in a line segment.{1093},19.2.4.2
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Calculate magnetic field from the Biot-Savart law in specific geometries, such as a current in a line and a current in a circular arc.{1094}",19.2.4.3
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Explain how the Biot-Savart law is used to determine the magnetic field due to a thin, straight wire.{1098}",19.2.4.4
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Determine the dependence of the magnetic field from a thin, straight wire based on the distance from it and the current flowing in the wire.{1099}",19.2.4.5
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Explain how the Biot-Savart law is used to determine the magnetic field due to a current in a loop of wire at a point along a line perpendicular to the plane of the loop.{1110},19.2.4.6
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Determine the magnetic field of an arc of current.{1111},19.2.4.7
 Magnetism,Magnetic Force,Subtopic Outcome,Paste un-numbered outcome here,19.3.1.0
 Magnetism,Magnetic Force,Subtopic Outcome,Paste un-numbered outcome here,19.3.1.1
 Magnetism,Magnetic Force,Magnetic Force on Moving Charges,Apply the right-hand rule to determine the direction of a magnetic force based on the motion of a charge in a magnetic field.{1060},19.3.2.0
@@ -719,6 +731,8 @@ Circuits,Topic Outcome,,Explain the differences between direct current (dc) and 
 Circuits,Current,Subtopic Outcome,Describe an electrical current.{978},21.2.1.0
 Circuits,Current,Subtopic Outcome,Define the unit of electrical current.{979},21.2.1.1
 Circuits,Current,Subtopic Outcome,Explain the direction of current flow.{980},21.2.1.2
+Circuits,Current,Subtopic Outcome,Define the drift velocity of charges moving through a metal.{984},21.2.1.3
+Circuits,Current,Subtopic Outcome,Describe the operation of an incandescent lamp.{986},21.2.1.4
 Circuits,Current,Current Density,Define the vector current density.{985},21.2.2.0
 Circuits,Current,Current Density,Paste un-numbered outcome here,21.2.2.1
 Circuits,Resistance,Subtopic Outcome,Differentiate between resistance and resistivity.{990},21.3.1.0
@@ -806,6 +820,5 @@ Circuits,Alternating-Current Circuits,Subtopic Outcome,"Use phasors to understan
 Circuits,Alternating-Current Circuits,Subtopic Outcome,Calculate the impedance of a circuit.{1221},21.15.1.5
 Circuits,Alternating-Current Circuits,Subtopic Outcome,Describe how average power from an ac circuit can be written in terms of peak current and voltage and of rms current and voltage.{1225},21.15.1.6
 Circuits,Alternating-Current Circuits,Subtopic Outcome,Determine the peak ac resonant angular frequency for a RLC circuit.{1230},21.15.1.7
-Circuits,Alternating-Current Circuits,Subtopic Outcome,,21.15.1.8
 Circuits,Alternating-Current Circuits,Alternating-Current Sources,Paste un-numbered outcome here,21.15.2.0
 Circuits,Alternating-Current Circuits,Alternating-Current Sources,Paste un-numbered outcome here,21.15.2.1
