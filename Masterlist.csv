@@ -643,52 +643,71 @@ Electrostatics,Electric Potential,Connecting Potential and Field,Calculate the e
 Magnetism,Topic Outcome,,Explain attraction and repulsion by magnets.{1054},19.1.1.0
 Magnetism,Topic Outcome,,Describe the historical and contemporary applications of magnetism.{1055},19.1.1.1
 Magnetism,Magnetic Field,Subtopic Outcome,Define the magnetic field based on a moving charge experiencing a force.{1059},19.2.1.0
-Magnetism,Magnetic Field,Subtopic Outcome,Paste un-numbered outcome here,19.2.1.1
+Magnetism,Magnetic Field,Subtopic Outcome,Solve for the electric field based on a changing magnetic flux in time.{1149},19.2.1.1
+Magnetism,Magnetic Field,Subtopic Outcome,Explain how energy can be stored in a magnetic field.{1187},19.2.1.2
+Magnetism,Magnetic Field,Subtopic Outcome,Derive the equation for energy stored in a coaxial cable given the magnetic energy density.{1188},19.2.1.3
 Magnetism,Magnetic Field,Magnetic Field Lines,Sketch magnetic field lines to understand which way the magnetic field points and how strong it is in a region of space.{1061},19.2.2.0
 Magnetism,Magnetic Field,Magnetic Field Lines,Paste un-numbered outcome here,19.2.2.1
 Magnetism,Magnetic Field,Motion of Charged Particle in Magnetic Field,Explain how a charged particle in an external magnetic field undergoes circular motion.{1065},19.2.3.0
 Magnetism,Magnetic Field,Motion of Charged Particle in Magnetic Field,Describe how to determine the radius of the circular motion of a charged particle in a magnetic field.{1066},19.2.3.1
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Paste un-numbered outcome here,19.2.4.0
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Paste un-numbered outcome here,19.2.4.1
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Explain how Ampère’s law relates the magnetic field produced by a current to the value of the current.{1115},19.2.4.0
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Calculate the magnetic field from a long straight wire, either thin or thick, by Ampère’s law.{1116}",19.2.4.1
 Magnetism,Magnetic Force,Subtopic Outcome,Paste un-numbered outcome here,19.3.1.0
 Magnetism,Magnetic Force,Subtopic Outcome,Paste un-numbered outcome here,19.3.1.1
 Magnetism,Magnetic Force,Magnetic Force on Moving Charges,Apply the right-hand rule to determine the direction of a magnetic force based on the motion of a charge in a magnetic field.{1060},19.3.2.0
 Magnetism,Magnetic Force,Magnetic Force on Moving Charges,Paste un-numbered outcome here,19.3.2.1
 Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Determine the direction in which a current-carrying wire experiences a force in an external magnetic field.{1070},19.3.3.0
 Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Calculate the force on a current-carrying wire in an external magnetic field.{1071},19.3.3.1
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Explain how parallel wires carrying currents can attract or repel each other.{1104},19.3.3.2
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Define the ampere and describe how it is related to current-carrying wires.{1105},19.3.3.3
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Calculate the force of attraction or repulsion between two current-carrying wires.{1106},19.3.3.4
 Magnetism,Magnetic Force,Magnetic Force and Torque on Current Loops,Evaluate the net force on a current loop in an external magnetic field.{1075},19.3.4.0
 Magnetism,Magnetic Force,Magnetic Force and Torque on Current Loops,Evaluate the net torque on a current loop in an external magnetic field.{1076},19.3.4.1
 Magnetism,Magnetic Force,Magnetic Force and Torque on Current Loops,Define the magnetic dipole moment of a current loop.{1077},19.3.4.2
-Magnetism,Magnetic Properties of Matter,,Paste un-numbered outcome here,19.4.1.0
-Magnetism,Magnetic Properties of Matter,,Paste un-numbered outcome here,19.4.1.1
+Magnetism,Magnetic Properties of Matter,,"Classify magnetic materials as paramagnetic, diamagnetic, or ferromagnetic, based on their response to a magnetic field.{1125}",19.4.1.0
+Magnetism,Magnetic Properties of Matter,,Sketch how magnetic dipoles align with the magnetic field in each type of substance.{1126},19.4.1.1
+Magnetism,Magnetic Properties of Matter,,"Define hysteresis and magnetic susceptibility, which determines the type of magnetic material.{1127}",19.4.1.2
 Magnetism,The Hall Effect,,Explain a scenario where the magnetic and electric fields are crossed and their forces balance each other as a charged particle moves through a velocity selector.{1081},19.5.1.0
 Magnetism,The Hall Effect,,Compare how charge carriers move in a conductive material and explain how this relates to the Hall effect.{1082},19.5.1.1
-Magnetism,Solenoids,,Paste un-numbered outcome here,19.6.1.0
-Magnetism,Solenoids,,Paste un-numbered outcome here,19.6.1.1
-Magnetism,Magnetic Flux,,Paste un-numbered outcome here,19.7.1.0
+Magnetism,Solenoids,,Establish a relationship for how the magnetic field of a solenoid varies with distance and current by using both the Biot-Savart law and Ampère’s law.{1120},19.6.1.0
+Magnetism,Solenoids,,Establish a relationship for how the magnetic field of a toroid varies with distance and current by using Ampère’s law.{1121},19.6.1.1
+Magnetism,Solenoids,,Derive the self-inductance for a cylindrical solenoid.{1182},19.6.1.2
+Magnetism,Solenoids,,Derive the self-inductance for a rectangular toroid.{1183},19.6.1.3
+Magnetism,Magnetic Flux,,"Determine the magnetic flux through a surface, knowing the strength of the magnetic field, the surface area, and the angle between the normal to the surface and the magnetic field.{1133}",19.7.1.0
 Magnetism,Magnetic Flux,,Paste un-numbered outcome here,19.7.1.1
-Magnetism,Electromagnetic Induction,Subtopic Outcome,Paste un-numbered outcome here,19.8.1.0
+Magnetism,Electromagnetic Induction,Subtopic Outcome,Use Faraday’s law with Lenz’s law to determine the induced emf in a coil and in a solenoid.{1139},19.8.1.0
 Magnetism,Electromagnetic Induction,Subtopic Outcome,Paste un-numbered outcome here,19.8.1.1
 Magnetism,Electromagnetic Induction,Induced Currents,Paste un-numbered outcome here,19.8.2.0
 Magnetism,Electromagnetic Induction,Induced Currents,Paste un-numbered outcome here,19.8.2.1
 Magnetism,Electromagnetic Induction,Induced Fields,Paste un-numbered outcome here,19.8.3.0
 Magnetism,Electromagnetic Induction,Induced Fields,Paste un-numbered outcome here,19.8.3.1
-Magnetism,Electromagnetic Induction,Motional EMF,Paste un-numbered outcome here,19.8.4.0
-Magnetism,Electromagnetic Induction,Motional EMF,Paste un-numbered outcome here,19.8.4.1
-Magnetism,Electromagnetic Induction,Eddy Currents,Paste un-numbered outcome here,19.8.5.0
-Magnetism,Electromagnetic Induction,Eddy Currents,Paste un-numbered outcome here,19.8.5.1
-Magnetism,Electromagnetic Induction,Faraday's Law,Paste un-numbered outcome here,19.8.6.0
-Magnetism,Electromagnetic Induction,Faraday's Law,Paste un-numbered outcome here,19.8.6.1
-Magnetism,Electromagnetic Induction,Lenz's Law,Paste un-numbered outcome here,19.8.7.0
+Magnetism,Electromagnetic Induction,Motional EMF,Determine the magnitude of an induced emf in a wire moving at a constant speed through a magnetic field.{1143},19.8.4.0
+Magnetism,Electromagnetic Induction,Motional EMF,"Discuss examples that use motional emf, such as a rail gun and a tethered satellite.{1144}",19.8.4.1
+Magnetism,Electromagnetic Induction,Eddy Currents,Explain how eddy currents are created in metals.{1153},19.8.5.0
+Magnetism,Electromagnetic Induction,Eddy Currents,Describe situations where eddy currents are beneficial and where they are not helpful.{1154},19.8.5.1
+Magnetism,Electromagnetic Induction,Faraday's Law,Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop.{1134},19.8.6.0
+Magnetism,Electromagnetic Induction,Faraday's Law,"Connect the relationship between an induced emf from Faraday’s law to an electric field, thereby showing that a changing magnetic flux creates an electric field.{1148}",19.8.6.1
+Magnetism,Electromagnetic Induction,Lenz's Law,Use Lenz’s law to determine the direction of induced emf whenever a magnetic flux changes.{1138},19.8.7.0
 Magnetism,Electromagnetic Induction,Lenz's Law,Paste un-numbered outcome here,19.8.7.1
-Electromagnetic Waves,Topic Outcome,,Paste un-numbered outcome here,20.1.1.0
-Electromagnetic Waves,Topic Outcome,,Paste un-numbered outcome here,20.1.1.1
-Electromagnetic Waves,Electromagnetic Spectrum,,Paste un-numbered outcome here,20.2.1.0
-Electromagnetic Waves,Electromagnetic Spectrum,,Paste un-numbered outcome here,20.2.1.1
-Electromagnetic Waves,Maxwell's Equations,,Paste un-numbered outcome here,20.3.1.0
-Electromagnetic Waves,Maxwell's Equations,,Paste un-numbered outcome here,20.3.1.1
+Electromagnetic Waves,Topic Outcome,,Describe how electromagnetic waves are produced and detected.{1252},20.1.1.0
+Electromagnetic Waves,Topic Outcome,,Calculate the relative magnitude of the electric and magnetic fields in an electromagnetic plane wave.{1251},20.1.1.1
+Electromagnetic Waves,Topic Outcome,,Express the time-averaged energy density of electromagnetic waves in terms of their electric and magnetic field amplitudes.{1256},20.1.1.2
+Electromagnetic Waves,Topic Outcome,,Calculate the Poynting vector and the energy intensity of electromagnetic waves.{1257},20.1.1.3
+Electromagnetic Waves,Topic Outcome,,"Explain how the energy of an electromagnetic wave depends on its amplitude, whereas the energy of a photon is proportional to its frequency.{1258}",20.1.1.4
+Electromagnetic Waves,Topic Outcome,,Describe the relationship of the radiation pressure and the energy density of an electromagnetic wave.{1262},20.1.1.5
+Electromagnetic Waves,Topic Outcome,,"Explain how the radiation pressure of light, while small, can produce observable astronomical effects.{1263}",20.1.1.6
+Electromagnetic Waves,Electromagnetic Spectrum,,"Explain how electromagnetic waves are divided into different ranges, depending on wavelength and corresponding frequency.{1267}",20.2.1.0
+Electromagnetic Waves,Electromagnetic Spectrum,,Describe how electromagnetic waves in different categories are produced.{1268},20.2.1.1
+Electromagnetic Waves,Electromagnetic Spectrum,,Describe some of the many practical everyday applications of electromagnetic waves.{1269},20.2.1.2
+Electromagnetic Waves,Maxwell's Equations,,Explain Maxwell’s correction of Ampère’s law by including the displacement current.{1242},20.3.1.0
+Electromagnetic Waves,Maxwell's Equations,,State and apply Maxwell’s equations in integral form.{1243},20.3.1.1
+Electromagnetic Waves,Maxwell's Equations,,Describe how the symmetry between changing electric and changing magnetic fields explains Maxwell’s prediction of electromagnetic waves.{1244},20.3.1.2
+Electromagnetic Waves,Maxwell's Equations,,Describe how Hertz confirmed Maxwell’s prediction of electromagnetic waves.{1245},20.3.1.3
+Electromagnetic Waves,Maxwell's Equations,,"Describe how Maxwell’s equations predict the relative directions of the electric fields and magnetic fields, and the direction of propagation of plane electromagnetic waves.{1249}",20.3.1.4
+Electromagnetic Waves,Maxwell's Equations,,Explain how Maxwell’s equations predict that the speed of propagation of electromagnetic waves in free space is exactly the speed of light.{1250},20.3.1.5
 Circuits,Topic Outcome,,Define the drift velocity of charges moving through a metal.{984},21.1.1.0
 Circuits,Topic Outcome,,Describe the operation of an incandescent lamp.{986},21.1.1.1
+Circuits,Topic Outcome,,Explain the differences between direct current (dc) and alternating current (ac).{1209},21.1.1.2
 Circuits,Current,Subtopic Outcome,Describe an electrical current.{978},21.2.1.0
 Circuits,Current,Subtopic Outcome,Define the unit of electrical current.{979},21.2.1.1
 Circuits,Current,Subtopic Outcome,Explain the direction of current flow.{980},21.2.1.2
@@ -709,6 +728,8 @@ Circuits,Electrical Energy,,Calculate the energy efficiency and cost effectivene
 Circuits,Electrical Energy,,Paste un-numbered outcome here,21.5.1.1
 Circuits,Electrical Power,,Express electrical power in terms of the voltage and the current.{1003},21.6.1.0
 Circuits,Electrical Power,,Describe the power dissipated by a resistor in an electric circuit.{1004},21.6.1.1
+Circuits,Electrical Power,,"Determine the relationship between the phase angle of the current and voltage and the average power, known as the power factor.{1226}",21.6.1.2
+Circuits,Electrical Power,,Explain the width of the average power versus angular frequency curve and its significance using terms like bandwidth and quality factor.{1231},21.6.1.3
 Circuits,Capacitors,Subtopic Outcome,Explain the concepts of a capacitor and its capacitance.{944},21.7.1.0
 Circuits,Capacitors,Subtopic Outcome,Compute the potential difference across the plates and the charge on the plates for a capacitor in a network and determine the net capacitance of a network of capacitors.{950},21.7.1.1
 Circuits,Capacitors,Capacitance,Describe how to evaluate the capacitance of a system of conductors.{945},21.7.2.0
@@ -760,13 +781,23 @@ Circuits,RC Circuits,Discharging a Capacitor,Describe the discharging process of
 Circuits,RC Circuits,Discharging a Capacitor,Paste un-numbered outcome here,21.13.3.1
 Circuits,Inductors,Subtopic Outcome,Paste un-numbered outcome here,21.14.1.0
 Circuits,Inductors,Subtopic Outcome,Paste un-numbered outcome here,21.14.1.1
-Circuits,Inductors,Inductance,Paste un-numbered outcome here,21.14.2.0
-Circuits,Inductors,Inductance,Paste un-numbered outcome here,21.14.2.1
-Circuits,Inductors,RL Circuits,Paste un-numbered outcome here,21.14.3.0
-Circuits,Inductors,RL Circuits,Paste un-numbered outcome here,21.14.3.1
-Circuits,Inductors,RLC Series Circuits,Paste un-numbered outcome here,21.14.4.0
-Circuits,Inductors,RLC Series Circuits,Paste un-numbered outcome here,21.14.4.1
-Circuits,Alternating-Current Circuits,Subtopic Outcome,Paste un-numbered outcome here,21.15.1.0
-Circuits,Alternating-Current Circuits,Subtopic Outcome,Paste un-numbered outcome here,21.15.1.1
+Circuits,Inductors,Inductance,Correlate two nearby circuits that carry time-varying currents with the emf induced in each circuit.{1176},21.14.2.0
+Circuits,Inductors,Inductance,Describe examples in which mutual inductance may or may not be desirable.{1177},21.14.2.1
+Circuits,Inductors,Inductance,Correlate the rate of change of current to the induced emf created by that current in the same circuit.{1181},21.14.2.2
+Circuits,Inductors,Inductance,Derive the self-inductance for a cylindrical solenoid.{1182},21.14.2.3
+Circuits,Inductors,Inductance,Derive the self-inductance for a rectangular toroid.{1183},21.14.2.4
+Circuits,Inductors,RL Circuits,Analyze circuits that have an inductor and resistor in series.{1192},21.14.3.0
+Circuits,Inductors,RL Circuits,Describe how current and voltage exponentially grow or decay based on the initial conditions.{1193},21.14.3.1
+Circuits,Inductors,RLC Series Circuits,"Determine the angular frequency of oscillation for a resistor, inductor, capacitor (𝑅𝐿𝐶) series circuit.{1202}",21.14.4.0
+Circuits,Inductors,RLC Series Circuits,Relate the 𝑅𝐿𝐶 circuit to a damped spring oscillation.{1203},21.14.4.1
+Circuits,Alternating-Current Circuits,Subtopic Outcome,"Define characteristic features of alternating current and voltage, such as the amplitude or peak and the frequency.{1210}",21.15.1.0
+Circuits,Alternating-Current Circuits,Subtopic Outcome,"Interpret phasor diagrams and apply them to ac circuits with resistors, capacitors, and inductors.{1214}",21.15.1.1
+Circuits,Alternating-Current Circuits,Subtopic Outcome,"Define the reactance for a resistor, capacitor, and inductor to help understand how current in the circuit behaves compared to each of these devices.{1215}",21.15.1.2
+Circuits,Alternating-Current Circuits,Subtopic Outcome,"Describe how the current varies in a resistor, a capacitor, and an inductor while in series with an ac power source.{1219}",21.15.1.3
+Circuits,Alternating-Current Circuits,Subtopic Outcome,"Use phasors to understand the phase angle of a resistor, capacitor, and inductor ac circuit and to understand what that phase angle means.{1220}",21.15.1.4
+Circuits,Alternating-Current Circuits,Subtopic Outcome,Calculate the impedance of a circuit.{1221},21.15.1.5
+Circuits,Alternating-Current Circuits,Subtopic Outcome,Describe how average power from an ac circuit can be written in terms of peak current and voltage and of rms current and voltage.{1225},21.15.1.6
+Circuits,Alternating-Current Circuits,Subtopic Outcome,Determine the peak ac resonant angular frequency for a RLC circuit.{1230},21.15.1.7
+Circuits,Alternating-Current Circuits,Subtopic Outcome,,21.15.1.8
 Circuits,Alternating-Current Circuits,Alternating-Current Sources,Paste un-numbered outcome here,21.15.2.0
 Circuits,Alternating-Current Circuits,Alternating-Current Sources,Paste un-numbered outcome here,21.15.2.1
