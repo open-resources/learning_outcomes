@@ -867,6 +867,8 @@ Thermodynamics:
     First Law of Thermodynamics:
         - State the first law of thermodynamics and explain how it is applied.{761}
         - Explain how heat transfer, work done, and internal energy change are related in any thermodynamic process.{762}
+        - Describe the work done by a system, heat transfer between objects, and internal energy change of a system.{756}
+        - Calculate the work, heat transfer, and internal energy change in a simple process.{757}
     Second Law of Thermodynamics:
         - State the second law of thermodynamics via an irreversible process.{787}
         - Contrast the second law of thermodynamics statements according to Kelvin and Clausius formulations.{802}
@@ -903,6 +905,8 @@ Electrostatics:
     Electric Charge:
         - Describe the concept of electric charge.{828}
         - Explain qualitatively the force electric charge creates.{829} 
+        - Explain what a continuous source charge distribution is and how it is related to the concept of quantization of charge.{853}
+        - Describe line charges, surface charges, and volume charges.{854}
     Conductors and Insulators:
         - Explain what a conductor is.{833}
         - Explain what an insulator is.{834}
@@ -919,6 +923,7 @@ Electrostatics:
             - Describe the properties of the electric field.{848}
             - Correctly describe and apply the superposition principle for multiple source charges.{843}
             - Calculate the field of a collection of source charges of either sign.{849}
+            - Calculate the field of a continuous source charge distribution of either sign.{855}
         Electric Field Lines:
             - Explain the purpose of an electric field diagram.{859}
             - Describe the relationship between a vector diagram and a field line diagram.{860}
@@ -986,6 +991,7 @@ Magnetism:
             - Solve for the electric field based on a changing magnetic flux in time.{1149}
             - Explain how energy can be stored in a magnetic field.{1187}
             - Derive the equation for energy stored in a coaxial cable given the magnetic energy density.{1188}
+            - Sketch the magnetic field created from a thin, straight wire by using the second right-hand rule.{1100}
         Magnetic Field Lines:
             - Sketch magnetic field lines to understand which way the magnetic field points and how strong it is in a region of space.{1061}
             - Paste un-numbered outcome here
@@ -995,6 +1001,12 @@ Magnetism:
         Magnetic Field Produced by Electrical Currents(Ampere's Law):
             - Explain how Ampère’s law relates the magnetic field produced by a current to the value of the current.{1115}
             - Calculate the magnetic field from a long straight wire, either thin or thick, by Ampère’s law.{1116} 
+            - Explain how to derive a magnetic field from an arbitrary current in a line segment.{1093}
+            - Calculate magnetic field from the Biot-Savart law in specific geometries, such as a current in a line and a current in a circular arc.{1094}
+            - Explain how the Biot-Savart law is used to determine the magnetic field due to a thin, straight wire.{1098}
+            - Determine the dependence of the magnetic field from a thin, straight wire based on the distance from it and the current flowing in the wire.{1099}
+            - Explain how the Biot-Savart law is used to determine the magnetic field due to a current in a loop of wire at a point along a line perpendicular to the plane of the loop.{1110}
+            - Determine the magnetic field of an arc of current.{1111}
     Magnetic Force:
         Subtopic Outcome:
             - Paste un-numbered outcome here
@@ -1085,6 +1097,8 @@ Circuits:
             - Describe an electrical current.{978}
             - Define the unit of electrical current.{979}
             - Explain the direction of current flow.{980}
+            - Define the drift velocity of charges moving through a metal.{984}
+            - Describe the operation of an incandescent lamp.{986}
         Current Density:
             - Define the vector current density.{985}
             - Paste un-numbered outcome here
@@ -1217,7 +1231,6 @@ Circuits:
             - Calculate the impedance of a circuit.{1221} 
             - Describe how average power from an ac circuit can be written in terms of peak current and voltage and of rms current and voltage.{1225}
             - Determine the peak ac resonant angular frequency for a RLC circuit.{1230}
-            - 
         Alternating-Current Sources:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
