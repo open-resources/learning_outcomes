@@ -561,11 +561,6 @@
 1. Describe the energy conservation of the system of a mass and a spring.{557}
 2. Explain the concepts of stable and unstable equilibrium points.{558}
 .{559}
-#### 15.2 Energy in Simple Harmonic Motion.{560}
-.{561}
-1. Describe the energy conservation of the system of a mass and a spring.{562}
-2. Explain the concepts of stable and unstable equilibrium points.{563}
-.{564}
 #### 15.3 Comparing Simple Harmonic Motion and Circular Motion.{565}
 .{566}
 1. Describe how the sine and cosine functions relate to the concepts of circular motion.{567}
@@ -1168,11 +1163,6 @@
 1. Explain how computer hard drives and graphic tablets operate using magnetic induction.{1164}
 2. Explain how hybrid/electric vehicles and transcranial magnetic stimulation use magnetic induction to their advantage.{1165}
 .{1166}
-#### 13.7 Applications of Electromagnetic Induction.{1167}
-.{1168}
-1. Explain how computer hard drives and graphic tablets operate using magnetic induction.{1169}
-2. Explain how hybrid/electric vehicles and transcranial magnetic stimulation use magnetic induction to their advantage.{1170}
-.{1171}
 ### Chapter 14: Inductance.{1172}
 .{1173}
 #### 14.1 Mutual Inductance.{1174}
