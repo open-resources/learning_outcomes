@@ -998,7 +998,7 @@ Magnetism:
         Motion of Charged Particle in Magnetic Field:
             - Explain how a charged particle in an external magnetic field undergoes circular motion.{1065}
             - Describe how to determine the radius of the circular motion of a charged particle in a magnetic field.{1066} 
-        Magnetic Field Produced by Electrical Currents(Ampere's Law):
+        Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law):
             - Explain how Ampère’s law relates the magnetic field produced by a current to the value of the current.{1115}
             - Calculate the magnetic field from a long straight wire, either thin or thick, by Ampère’s law.{1116} 
             - Explain how to derive a magnetic field from an arbitrary current in a line segment.{1093}
@@ -1014,7 +1014,7 @@ Magnetism:
         Magnetic Force on Moving Charges:
             - Apply the right-hand rule to determine the direction of a magnetic force based on the motion of a charge in a magnetic field.{1060}
             - Paste un-numbered outcome here
-        Magnetic Force on Current-Carrying Wires(Biot-Savart Law):
+        Magnetic Force on Current-Carrying Wires:
             - Determine the direction in which a current-carrying wire experiences a force in an external magnetic field.{1070}
             - Calculate the force on a current-carrying wire in an external magnetic field.{1071}
             - Explain how parallel wires carrying currents can attract or repel each other.{1104}
