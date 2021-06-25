@@ -664,23 +664,23 @@ Magnetism,Magnetic Field,Magnetic Field Lines,Sketch magnetic field lines to und
 Magnetism,Magnetic Field,Magnetic Field Lines,Paste un-numbered outcome here,19.2.2.1
 Magnetism,Magnetic Field,Motion of Charged Particle in Magnetic Field,Explain how a charged particle in an external magnetic field undergoes circular motion.{1065},19.2.3.0
 Magnetism,Magnetic Field,Motion of Charged Particle in Magnetic Field,Describe how to determine the radius of the circular motion of a charged particle in a magnetic field.{1066},19.2.3.1
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Explain how Ampère’s law relates the magnetic field produced by a current to the value of the current.{1115},19.2.4.0
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Calculate the magnetic field from a long straight wire, either thin or thick, by Ampère’s law.{1116}",19.2.4.1
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Explain how to derive a magnetic field from an arbitrary current in a line segment.{1093},19.2.4.2
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Calculate magnetic field from the Biot-Savart law in specific geometries, such as a current in a line and a current in a circular arc.{1094}",19.2.4.3
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Explain how the Biot-Savart law is used to determine the magnetic field due to a thin, straight wire.{1098}",19.2.4.4
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),"Determine the dependence of the magnetic field from a thin, straight wire based on the distance from it and the current flowing in the wire.{1099}",19.2.4.5
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Explain how the Biot-Savart law is used to determine the magnetic field due to a current in a loop of wire at a point along a line perpendicular to the plane of the loop.{1110},19.2.4.6
-Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law),Determine the magnetic field of an arc of current.{1111},19.2.4.7
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),Explain how Ampère’s law relates the magnetic field produced by a current to the value of the current.{1115},19.2.4.0
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),"Calculate the magnetic field from a long straight wire, either thin or thick, by Ampère’s law.{1116}",19.2.4.1
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),Explain how to derive a magnetic field from an arbitrary current in a line segment.{1093},19.2.4.2
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),"Calculate magnetic field from the Biot-Savart law in specific geometries, such as a current in a line and a current in a circular arc.{1094}",19.2.4.3
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),"Explain how the Biot-Savart law is used to determine the magnetic field due to a thin, straight wire.{1098}",19.2.4.4
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),"Determine the dependence of the magnetic field from a thin, straight wire based on the distance from it and the current flowing in the wire.{1099}",19.2.4.5
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),Explain how the Biot-Savart law is used to determine the magnetic field due to a current in a loop of wire at a point along a line perpendicular to the plane of the loop.{1110},19.2.4.6
+Magnetism,Magnetic Field,Magnetic Field Produced by Electrical Currents(Ampere's Law and Biot-Savart Law),Determine the magnetic field of an arc of current.{1111},19.2.4.7
 Magnetism,Magnetic Force,Subtopic Outcome,Paste un-numbered outcome here,19.3.1.0
 Magnetism,Magnetic Force,Subtopic Outcome,Paste un-numbered outcome here,19.3.1.1
 Magnetism,Magnetic Force,Magnetic Force on Moving Charges,Apply the right-hand rule to determine the direction of a magnetic force based on the motion of a charge in a magnetic field.{1060},19.3.2.0
 Magnetism,Magnetic Force,Magnetic Force on Moving Charges,Paste un-numbered outcome here,19.3.2.1
-Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Determine the direction in which a current-carrying wire experiences a force in an external magnetic field.{1070},19.3.3.0
-Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Calculate the force on a current-carrying wire in an external magnetic field.{1071},19.3.3.1
-Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Explain how parallel wires carrying currents can attract or repel each other.{1104},19.3.3.2
-Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Define the ampere and describe how it is related to current-carrying wires.{1105},19.3.3.3
-Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires(Biot-Savart Law),Calculate the force of attraction or repulsion between two current-carrying wires.{1106},19.3.3.4
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires,Determine the direction in which a current-carrying wire experiences a force in an external magnetic field.{1070},19.3.3.0
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires,Calculate the force on a current-carrying wire in an external magnetic field.{1071},19.3.3.1
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires,Explain how parallel wires carrying currents can attract or repel each other.{1104},19.3.3.2
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires,Define the ampere and describe how it is related to current-carrying wires.{1105},19.3.3.3
+Magnetism,Magnetic Force,Magnetic Force on Current-Carrying Wires,Calculate the force of attraction or repulsion between two current-carrying wires.{1106},19.3.3.4
 Magnetism,Magnetic Force,Magnetic Force and Torque on Current Loops,Evaluate the net force on a current loop in an external magnetic field.{1075},19.3.4.0
 Magnetism,Magnetic Force,Magnetic Force and Torque on Current Loops,Evaluate the net torque on a current loop in an external magnetic field.{1076},19.3.4.1
 Magnetism,Magnetic Force,Magnetic Force and Torque on Current Loops,Define the magnetic dipole moment of a current loop.{1077},19.3.4.2
