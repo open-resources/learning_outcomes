@@ -505,6 +505,16 @@ Waves,Sound,Subtopic Outcome,Explain the difference between sound and hearing.{6
 Waves,Sound,Subtopic Outcome,Describe sound as a wave.{633},16.7.1.1
 Waves,Sound,Subtopic Outcome,List the equations used to model sound waves.{634},16.7.1.2
 Waves,Sound,Subtopic Outcome,Describe compression and rarefactions as they relate to sound. {635},16.7.1.3
+Waves,Sound,Subtopic Outcome,Describe the resonant frequencies in instruments that can be modeled as a tube with symmetrical boundary conditions.{658},16.7.1.4
+Waves,Sound,Subtopic Outcome,Describe the resonant frequencies in instruments that can be modeled as a tube with anti-symmetrical boundary conditions.{659},16.7.1.5
+Waves,Sound,Subtopic Outcome,Explain the mechanism behind sound-reducing headphones.{652},16.7.1.6
+Waves,Sound,Subtopic Outcome,Describe resonance in a tube closed at one end and open at the other end.{653},16.7.1.7
+Waves,Sound,Subtopic Outcome,Describe resonance in a tube open at both ends.{654} .{655},16.7.1.8
+Waves,Sound,Subtopic Outcome,Determine the beat frequency produced by two sound waves that differ in frequency.{663},16.7.1.9
+Waves,Sound,Subtopic Outcome,Describe how beats are produced by musical instruments.{664},16.7.1.10
+Waves,Sound,Subtopic Outcome,Explain the mechanism behind sonic booms.{673},16.7.1.11
+Waves,Sound,Subtopic Outcome,Describe the difference between sonic booms and shock waves.{674},16.7.1.12
+Waves,Sound,Subtopic Outcome,Describe a bow wake.{675},16.7.1.13
 Waves,Sound,Speed of Sound,Explain the relationship between wavelength and frequency of sound.{639},16.7.2.0
 Waves,Sound,Speed of Sound,Determine the speed of sound in different media.{640},16.7.2.1
 Waves,Sound,Speed of Sound,Derive the equation for the speed of sound in air.{641},16.7.2.2
@@ -656,6 +666,8 @@ Electrostatics,Electric Potential,Connecting Potential and Field,Calculate the e
 Electrostatics,Electric Potential,Connecting Potential and Field,Calculate the electric field throughout space from a given potential.{925},18.11.5.2
 Magnetism,Topic Outcome,,Explain attraction and repulsion by magnets.{1054},19.1.1.0
 Magnetism,Topic Outcome,,Describe the historical and contemporary applications of magnetism.{1055},19.1.1.1
+Magnetism,Topic Outcome,,Explain how a mass spectrometer works to separate charges.{1086},19.1.1.2
+Magnetism,Topic Outcome,,Explain how a cyclotron works.{1087},19.1.1.3
 Magnetism,Magnetic Field,Subtopic Outcome,Define the magnetic field based on a moving charge experiencing a force.{1059},19.2.1.0
 Magnetism,Magnetic Field,Subtopic Outcome,Solve for the electric field based on a changing magnetic flux in time.{1149},19.2.1.1
 Magnetism,Magnetic Field,Subtopic Outcome,Explain how energy can be stored in a magnetic field.{1187},19.2.1.2
@@ -697,7 +709,11 @@ Magnetism,Solenoids,,Derive the self-inductance for a rectangular toroid.{1183},
 Magnetism,Magnetic Flux,,"Determine the magnetic flux through a surface, knowing the strength of the magnetic field, the surface area, and the angle between the normal to the surface and the magnetic field.{1133}",19.7.1.0
 Magnetism,Magnetic Flux,,Paste un-numbered outcome here,19.7.1.1
 Magnetism,Electromagnetic Induction,Subtopic Outcome,Use Faraday’s law with Lenz’s law to determine the induced emf in a coil and in a solenoid.{1139},19.8.1.0
-Magnetism,Electromagnetic Induction,Subtopic Outcome,Paste un-numbered outcome here,19.8.1.1
+Magnetism,Electromagnetic Induction,Subtopic Outcome,Explain how computer hard drives and graphic tablets operate using magnetic induction.{1164},19.8.1.1
+Magnetism,Electromagnetic Induction,Subtopic Outcome,Explain how hybrid/electric vehicles and transcranial magnetic stimulation use magnetic induction to their advantage.{1165},19.8.1.2
+Magnetism,Electromagnetic Induction,Subtopic Outcome,Explain how an electric generator works.{1158},19.8.1.3
+Magnetism,Electromagnetic Induction,Subtopic Outcome,"Determine the induced emf in a loop at any time interval, rotating at a constant rate in a magnetic field.{1159}",19.8.1.4
+Magnetism,Electromagnetic Induction,Subtopic Outcome,Show that rotating coils have an induced emf; in motors this is called back emf because it opposes the emf input to the motor.{1160},19.8.1.5
 Magnetism,Electromagnetic Induction,Induced Currents,Paste un-numbered outcome here,19.8.2.0
 Magnetism,Electromagnetic Induction,Induced Currents,Paste un-numbered outcome here,19.8.2.1
 Magnetism,Electromagnetic Induction,Induced Fields,Paste un-numbered outcome here,19.8.3.0
@@ -729,6 +745,10 @@ Electromagnetic Waves,Maxwell's Equations,,Explain how Maxwell’s equations pre
 Circuits,Topic Outcome,,Define the drift velocity of charges moving through a metal.{984},21.1.1.0
 Circuits,Topic Outcome,,Describe the operation of an incandescent lamp.{986},21.1.1.1
 Circuits,Topic Outcome,,Explain the differences between direct current (dc) and alternating current (ac).{1209},21.1.1.2
+Circuits,Topic Outcome,,List the basic concepts involved in house wiring.{1045},21.1.1.3
+Circuits,Topic Outcome,,Define the terms thermal hazard and shock hazard.{1046},21.1.1.4
+Circuits,Topic Outcome,,Describe the effects of electrical shock on human physiology and their relationship to the amount of current through the body.{1047},21.1.1.5
+Circuits,Topic Outcome,,Explain the function of fuses and circuit breakers.{1048},21.1.1.6
 Circuits,Current,Subtopic Outcome,Describe an electrical current.{978},21.2.1.0
 Circuits,Current,Subtopic Outcome,Define the unit of electrical current.{979},21.2.1.1
 Circuits,Current,Subtopic Outcome,Explain the direction of current flow.{980},21.2.1.2
