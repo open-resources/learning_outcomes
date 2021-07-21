@@ -10,6 +10,10 @@ Math:
         - Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101}
         - Create and interpret graphs of potential energy.{279}
         - Analyze elasticity and plasticity on a stress-strain diagram.{439} 
+        - Qualitatively analyze position vs time graphs
+        - Qualitatively analyze velocity vs time graphs
+        - Qualitatively analyze acceleration vs time graphs
+        - Qualitatively analyze position(x) vs position(y) graphs
     Significant Figures:
         - Determine the correct number of significant figures for the result of a computation.{33}
     Order of Magnitude:
@@ -201,6 +205,8 @@ Kinematics(1D):
     Position:
         - Find the functional form of position versus time given the velocity function.{120}
         - Determine the total distance traveled.{85}
+        - Qualitatively analyze position vs time graphs
+        - Qualitatively analyze position(x) vs position(y) graphs
         - Paste un-numbered outcome here
     Displacement:
         - Calculate the total displacement given the position as a function of time.{84}
@@ -214,6 +220,7 @@ Kinematics(1D):
             - Describe the difference between velocity and speed.{91}
             - Explain the vector nature of instantaneous acceleration and velocity.{99}
             - Find the functional form of velocity versus time given the acceleration function.{119}
+            - Qualitatively analyze velocity vs time graphs
         Average:
             - Calculate the average velocity given the displacement and elapsed time.{86}
             - Paste un-numbered outcome here
@@ -224,6 +231,7 @@ Kinematics(1D):
         Subtopic Outcome:
             - Explain the difference between average acceleration and instantaneous acceleration.{100}
             - Explain the vector nature of instantaneous acceleration and velocity.{99}
+            - Qualitatively analyze acceleration vs time graphs
         Average:
             - Calculate the average acceleration between two points in time.{97}
             - Paste un-numbered outcome here
