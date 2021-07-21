@@ -8,6 +8,10 @@ Math,Graphs,,Calculate the average acceleration between two points in time.{97},
 Math,Graphs,,Find instantaneous acceleration at a specified time on a graph of velocity versus time.{101},1.2.1.4
 Math,Graphs,,Create and interpret graphs of potential energy.{279},1.2.1.5
 Math,Graphs,,Analyze elasticity and plasticity on a stress-strain diagram.{439},1.2.1.6
+Math,Graphs,,Qualitatively analyze position vs time graphs,1.2.1.7
+Math,Graphs,,Qualitatively analyze velocity vs time graphs,1.2.1.8
+Math,Graphs,,Qualitatively analyze acceleration vs time graphs,1.2.1.9
+Math,Graphs,,Qualitatively analyze position(x) vs position(y) graphs,1.2.1.10
 Math,Significant Figures,,Determine the correct number of significant figures for the result of a computation.{33},1.3.1.0
 Math,Order of Magnitude,,Calculate the order of magnitude of a quantity.{8},1.4.1.0
 Math,Order of Magnitude,,Estimate the values of physical quantities.{29},1.4.1.1
@@ -130,7 +134,9 @@ Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,4.2.1.0
 Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,4.2.1.1
 Kinematics(1D),Position,,Find the functional form of position versus time given the velocity function.{120},4.3.1.0
 Kinematics(1D),Position,,Determine the total distance traveled.{85},4.3.1.1
-Kinematics(1D),Position,,Paste un-numbered outcome here,4.3.1.2
+Kinematics(1D),Position,,Qualitatively analyze position vs time graphs,4.3.1.2
+Kinematics(1D),Position,,Qualitatively analyze position(x) vs position(y) graphs,4.3.1.3
+Kinematics(1D),Position,,Paste un-numbered outcome here,4.3.1.4
 Kinematics(1D),Displacement,,Calculate the total displacement given the position as a function of time.{84},4.4.1.0
 Kinematics(1D),Displacement,,Paste un-numbered outcome here,4.4.1.1
 Kinematics(1D),Speed,,Calculate the speed given the instantaneous velocity.{93},4.5.1.0
@@ -139,12 +145,14 @@ Kinematics(1D),Velocity,Subtopic Outcome,Explain the difference between average 
 Kinematics(1D),Velocity,Subtopic Outcome,Describe the difference between velocity and speed.{91},4.6.1.1
 Kinematics(1D),Velocity,Subtopic Outcome,Explain the vector nature of instantaneous acceleration and velocity.{99},4.6.1.2
 Kinematics(1D),Velocity,Subtopic Outcome,Find the functional form of velocity versus time given the acceleration function.{119},4.6.1.3
+Kinematics(1D),Velocity,Subtopic Outcome,Qualitatively analyze velocity vs time graphs,4.6.1.4
 Kinematics(1D),Velocity,Average,Calculate the average velocity given the displacement and elapsed time.{86},4.6.2.0
 Kinematics(1D),Velocity,Average,Paste un-numbered outcome here,4.6.2.1
 Kinematics(1D),Velocity,Instantaneous,Calculate the instantaneous velocity given the mathematical equation for the velocity.{92},4.6.3.0
 Kinematics(1D),Velocity,Instantaneous,Paste un-numbered outcome here,4.6.3.1
 Kinematics(1D),Acceleration,Subtopic Outcome,Explain the difference between average acceleration and instantaneous acceleration.{100},4.7.1.0
 Kinematics(1D),Acceleration,Subtopic Outcome,Explain the vector nature of instantaneous acceleration and velocity.{99},4.7.1.1
+Kinematics(1D),Acceleration,Subtopic Outcome,Qualitatively analyze acceleration vs time graphs,4.7.1.2
 Kinematics(1D),Acceleration,Average,Calculate the average acceleration between two points in time.{97},4.7.2.0
 Kinematics(1D),Acceleration,Average,Paste un-numbered outcome here,4.7.2.1
 Kinematics(1D),Acceleration,Instantaneous,Calculate the instantaneous acceleration given the functional form of velocity.{98},4.7.3.0
