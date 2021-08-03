@@ -139,7 +139,8 @@ Kinematics(1D),Position,,Qualitatively analyze position vs time graphs,4.3.1.2
 Kinematics(1D),Position,,Qualitatively analyze position(x) vs position(y) graphs,4.3.1.3
 Kinematics(1D),Position,,Paste un-numbered outcome here,4.3.1.4
 Kinematics(1D),Displacement,,Calculate the total displacement given the position as a function of time.{84},4.4.1.0
-Kinematics(1D),Displacement,,Paste un-numbered outcome here,4.4.1.1
+Kinematics(1D),Displacement,,Find the functional form of displacement versus time given the velocity function.,4.4.1.1
+Kinematics(1D),Displacement,,Paste un-numbered outcome here,4.4.1.2
 Kinematics(1D),Speed,,Calculate the speed given the instantaneous velocity.{93},4.5.1.0
 Kinematics(1D),Speed,,Paste un-numbered outcome here,4.5.1.1
 Kinematics(1D),Velocity,Subtopic Outcome,Explain the difference between average velocity and instantaneous velocity.{90},4.6.1.0
@@ -423,6 +424,7 @@ Fluids,Topic Outcome,,Describe the characteristics of the phases of matter at th
 Fluids,Topic Outcome,,Distinguish between compressible and incompressible materials.{492},13.1.1.2
 Fluids,Density,,Define density and its related SI units.{493},13.2.1.0
 Fluids,Density,,Compare and contrast the densities of various substances.{494},13.2.1.1
+Fluids,Density,,Relate the density of an object to its mass and volume,13.2.1.2
 Fluids,Pressure,,Define pressure and its related SI units.{495},13.3.1.0
 Fluids,Pressure,,Explain the relationship between pressure and force.{496},13.3.1.1
 Fluids,Pressure,,Calculate force given pressure and area.{497},13.3.1.2
