@@ -245,10 +245,10 @@ Force,Drag,Terminal Velocity,Define terminal velocity.{232},6.10.2.0
 Force,Drag,Terminal Velocity,Determine an object's terminal velocity given its mass.{233},6.10.2.1
 Force,Drag,Projectile Motion with Drag,Paste un-numbered outcome here,6.10.3.0
 Force,Drag,Projectile Motion with Drag,Paste un-numbered outcome here,6.10.3.1
-Force,Springs,Subtopic Outcome,Paste un-numbered outcome here,6.11.1.0
+Force,Springs,Subtopic Outcome,Define the units of the spring constant,6.11.1.0
 Force,Springs,Subtopic Outcome,Paste un-numbered outcome here,6.11.1.1
-Force,Springs,Hooke's Law,Paste un-numbered outcome here,6.11.2.0
-Force,Springs,Hooke's Law,Paste un-numbered outcome here,6.11.2.1
+Force,Springs,Hooke's Law,Define Hooke's Law,6.11.2.0
+Force,Springs,Hooke's Law,"Use Hooke's Law to determine the force, displacement from equilibrium, or spring constant of a system",6.11.2.1
 Force,Dynamics of Circular Motion,Subtopic Outcome,Explain the equation for centripetal acceleration.{224},6.12.1.0
 Force,Dynamics of Circular Motion,Subtopic Outcome,Use circular motion concepts in solving problems involving Newton's laws of motion.{226},6.12.1.1
 Force,Dynamics of Circular Motion,Centripetal Force,Apply Newton's second law to develop the equation for centripetal force.{225},6.12.2.0
