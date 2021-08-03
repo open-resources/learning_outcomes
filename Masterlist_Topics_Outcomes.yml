@@ -211,6 +211,7 @@ Kinematics(1D):
         - Paste un-numbered outcome here
     Displacement:
         - Calculate the total displacement given the position as a function of time.{84}
+        - Find the functional form of displacement versus time given the velocity function.
         - Paste un-numbered outcome here
     Speed:
         - Calculate the speed given the instantaneous velocity.{93} 
@@ -640,6 +641,7 @@ Fluids:
     Density:
         - Define density and its related SI units.{493}
         - Compare and contrast the densities of various substances.{494}
+        - Relate the density of an object to its mass and volume
     Pressure:
         - Define pressure and its related SI units.{495}
         - Explain the relationship between pressure and force.{496}
