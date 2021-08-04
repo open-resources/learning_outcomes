@@ -317,8 +317,17 @@ Energy,Kinetic Energy,,Describe the differences between rotational and translati
 Energy,Kinetic Energy,,Explain how the rotational kinetic energy changes when a system undergoes changes in both moment of inertia and angular velocity.{409},8.2.1.3
 Energy,Kinetic Energy,,Calculate the kinetic energy of a simple pendulum.,8.2.1.4
 Energy,Kinetic Energy,,Define kinetic energy,8.2.1.5
-Energy,Potential Energy,Elastic Potential Energy,Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system.{263},8.3.1.0
-Energy,Potential Energy,Elastic Potential Energy,Paste un-numbered outcome here,8.3.1.1
+Energy,Potential Energy,Subtopic Outcome,Relate the difference of potential energy to work done on a particle for a system without friction or air drag.{261},8.3.1.0
+Energy,Potential Energy,Subtopic Outcome,Explain the meaning of the zero of the potential energy function for a system.{262},8.3.1.1
+Energy,Potential Energy,Subtopic Outcome,Create and interpret graphs of potential energy.{279},8.3.1.2
+Energy,Potential Energy,Subtopic Outcome,Explain the connection between stability and potential energy.{280},8.3.1.3
+Energy,Potential Energy,Gravitational Potential Energy,Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system.{263},8.3.2.0
+Energy,Potential Energy,Gravitational Potential Energy,Determine changes in gravitational potential energy over great distances.{457},8.3.2.1
+Energy,Potential Energy,Gravitational Potential Energy,Apply conservation of energy to determine escape velocity.{458},8.3.2.2
+Energy,Potential Energy,Gravitational Potential Energy,Determine whether astronomical bodies are gravitationally bound.{459},8.3.2.3
+Energy,Potential Energy,Gravitational Potential Energy,Calculate the gravitational potential energy of a simple pendulum.,8.3.2.4
+Energy,Potential Energy,Elastic Potential Energy,Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system.{263},8.3.3.0
+Energy,Potential Energy,Elastic Potential Energy,Paste un-numbered outcome here,8.3.3.1
 Energy,Energy Diagrams,,Paste un-numbered outcome here,8.4.1.0
 Energy,Energy Diagrams,,Paste un-numbered outcome here,8.4.1.1
 Energy,Conservation of Energy,Subtopic Outcome,"Formulate the principle of conservation of mechanical energy, with or without the presence of non-conservative forces.{274}",8.5.1.0
