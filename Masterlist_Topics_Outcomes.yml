@@ -117,7 +117,7 @@ Math:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
         Solve:
-            - Paste un-numbered outcome here
+            - Solve a system of two equations
             - Paste un-numbered outcome here
     Quadratic formula:
         Subtopic Outcome:
@@ -401,6 +401,7 @@ Momentum and Impulse:
             - Calculate momentum in two dimensions, as a vector quantity.{319}
             - Relate momentum to force.
             - Determine the net force on an object from the momentum as a function of time
+            - Define momentum 
         Linear:
             - Paste un-numbered outcome here
             - Paste un-numbered outcome here
@@ -469,6 +470,8 @@ Energy:
         - Evaluate the kinetic energy of a body, relative to different frames of reference.{245}
         - Describe the differences between rotational and translational kinetic energy.{358}
         - Explain how the rotational kinetic energy changes when a system undergoes changes in both moment of inertia and angular velocity.{409}
+        - Calculate the kinetic energy of a simple pendulum.
+        - Define kinetic energy
     Potential Energy:
         Subtopic Outcome:
             - Relate the difference of potential energy to work done on a particle for a system without friction or air drag.{261}
@@ -480,6 +483,8 @@ Energy:
             - Determine changes in gravitational potential energy over great distances.{457}
             - Apply conservation of energy to determine escape velocity.{458}
             - Determine whether astronomical bodies are gravitationally bound.{459} 
+            - Calculate the gravitational potential energy of a simple pendulum.
+    Potential Energy:
         Elastic Potential Energy:
             - Calculate and apply the gravitational potential energy for an object near Earth's surface and the elastic potential energy of a mass-spring system.{263} 
             - Paste un-numbered outcome here
