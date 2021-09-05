@@ -11,3 +11,35 @@
 4) if an instructor is using a different textbook, they should still be able to use our problem bank because there will be that Rosetta Stone linking learning outcomes between textbooks. This is what @stevecollins17 will be working on. 
 
 So if we use those codes, all the above becomes a lot easier/better than carting around strings with full sentences.  
+
+
+## Instructions 
+
+Learning outcomes are tagged under the format (Topic.Subtopic.Subsubtopic.LearningOutcome) with each category enumerated in descending order from the Masterlist_Topics_Outcomes.yml file. 
+
+Ex. (2.4.2.1) would refer to the second topic, fourth subtopic, second subsubtopic, first learning objective.  
+
+When adding new learning objectives, topics, subtopics or subsubtopics be sure to add to the bottom of the respective list as to not skew all subsequent tag values. 
+
+If a specific subtopic does not have a subsubtopic the tagging format simply reduces to the format (Topic.Subtopic.LearningOutcome) leaving a tag with only 3 values. (Ex. 2.4.2)
+
+The first subtopic of each topic and the first subsubtopic of each subtopic are labeled Topic Outcomes and Subtopic Outcomes, respectively.  This allows for the input of learning objectives that pertain to the entire topic or subtopic under these categories. With the exception of a subtopic with no subsubtopics, the learning objectives in this case, are simply listed under the subtopic and the reduced 3 value tagging format is used (see above). 
+
+The Masterlist_Topics_Outcomes.yml file should be formatted as follows:
+
+Topic:
+	Topic Outcomes:
+		- Learning Objective 
+		- Learning Objective
+	Subtopic (without subsubtopic):
+		- Learning Objective 
+		- Learning Objective
+	Subtopic (with subsubtopic):
+		Subtopic Outcomes: 
+ 			- Learning Objective
+ 			- Learning Objective
+ 		Subsubtopic: 
+ 			- Learning Objective
+ 			- Learning Objective
+		
+
