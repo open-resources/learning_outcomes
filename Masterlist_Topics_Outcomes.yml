@@ -259,7 +259,7 @@ Kinematics(1D):
         - Use the kinematic equations with the variables y and g to analyze free-fall motion.{110}
         - Describe how the values of the position, velocity, and acceleration change during a free fall.{111}
         - Solve for the position, velocity, and acceleration as functions of time when an object is in a free fall.{112}
-
+    
 # Topic Break
 
 Kinematics(2D and 3D):
@@ -304,7 +304,9 @@ Kinematics(2D and 3D):
         - Write the position and velocity vector equations for relative motion.{155}
         - Draw the position and velocity vectors for relative motion.{156}
         - Analyze one-dimensional and two-dimensional relative motion problems using the position and velocity vector equations.{157} 
-        
+    Constrained Motion of Connected Particles:
+        - Analyze a system of connected particles to solve for the velocity and acceleration of one of the particles.
+
 # Topic Break
 
 Force:
