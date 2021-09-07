@@ -15,15 +15,15 @@ So if we use those codes, all the above becomes a lot easier/better than carting
 
 ## Instructions 
 
-Learning outcomes are tagged under the format (Topic.Subtopic.Subsubtopic.LearningOutcome) with each category enumerated in descending order from the Masterlist_Topics_Outcomes.yml file. 
+Learning Outcomes are tagged under the format (Topic.Subtopic.Subsubtopic.LearningOutcome) with each category enumerated in descending order starting from 1 referring to the list order of the Masterlist_Topics_Outcomes.yml file. 
 
-Ex. (2.4.2.1) would refer to the second topic, fourth subtopic, second subsubtopic, first learning objective.  
+Ex. (2.4.2.1) would refer to the second Topic, fourth Subtopic, second Subsubtopic, first Learning Outcome.  
 
-When adding new learning objectives, topics, subtopics or subsubtopics be sure to add to the bottom of the respective list as to not skew all subsequent tag values. 
+When adding new Learning Outcomes, Topics, Subtopics or Subsubtopics be sure to add to the bottom of the respective list as to not skew all subsequent tag values. 
 
-If a specific subtopic does not have a subsubtopic the tagging format simply reduces to the format (Topic.Subtopic.LearningOutcome) leaving a tag with only 3 values. (Ex. 2.4.2)
+If a specific Subtopic does not have a Subsubtopic the tagging follows the following unique format (Topic.Subtopic.1.LearningOutcome) with the Learning Outcome enumerations begining at zero (Ex. 2.4.1.0 Would be the second Topic, fourth Subtopic, FIRST Learning Outcome. 2.4.1.1 Would be the second Topic, fourth Subtopic, Second Learning Outcome.)
 
-The first subtopic of each topic and the first subsubtopic of each subtopic are labeled Topic Outcomes and Subtopic Outcomes, respectively.  This allows for the input of learning objectives that pertain to the entire topic or subtopic under these categories. With the exception of a subtopic with no subsubtopics, the learning objectives in this case, are simply listed under the subtopic and the reduced 3 value tagging format is used (see above). 
+The first Subtopic of each Topic and the first Subsubtopic of each Subtopic are labeled "Topic Outcomes" and "Subtopic Outcomes", respectively.  This allows for the input of Learning Objectives that pertain to the entire Topic or Subtopic under these categories. With the exception of a Subtopic with no Subsubtopics, the Learning Outcomes in this case, are simply listed under the Subtopic and the unique tagging format is used (see above). 
 
 The Masterlist_Topics_Outcomes.yml file should be formatted as follows:
 
