@@ -202,6 +202,7 @@ Kinematics(2D and 3D),Relative Motion,,Explain the concept of reference frames.{
 Kinematics(2D and 3D),Relative Motion,,Write the position and velocity vector equations for relative motion.{155},5.8.1.1
 Kinematics(2D and 3D),Relative Motion,,Draw the position and velocity vectors for relative motion.{156},5.8.1.2
 Kinematics(2D and 3D),Relative Motion,,Analyze one-dimensional and two-dimensional relative motion problems using the position and velocity vector equations.{157},5.8.1.3
+Kinematics(2D and 3D),Constrained Motion of Connected Particles,,Analyze a system of connected particles to solve for the velocity and acceleration of one of the particles.,5.9.1.0
 Force,Topic Outcome,,Distinguish between kinematics and dynamics.{163},6.1.1.0
 Force,Topic Outcome,,Understand the definition of force.{164},6.1.1.1
 Force,Topic Outcome,,"Define the SI unit of force, the newton.{166}",6.1.1.2
