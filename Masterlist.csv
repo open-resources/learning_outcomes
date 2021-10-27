@@ -138,8 +138,9 @@ Vectors,Cross Product,,Determine the vector product of two vectors.{76},3.8.1.0
 Vectors,Cross Product,,Paste un-numbered outcome here,3.8.1.1
 Kinematics(1D),Topic Outcome,,"Define position, displacement, and distance traveled.{83}",4.1.1.0
 Kinematics(1D),Topic Outcome,,Identify which equations of motion are to be used to solve for unknowns.{105},4.1.1.1
-Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,4.2.1.0
-Kinematics(1D),Motion Diagrams,,Paste un-numbered outcome here,4.2.1.1
+Kinematics(1D),Motion Diagrams,,Understand and interpret motion diagrams,4.2.1.0
+Kinematics(1D),Motion Diagrams,,"Understand the relationship between position, velocity, and acceleration using diagrams of motion",4.2.1.1
+Kinematics(1D),Motion Diagrams,,"Construct the motion diagram for a given motion, showing properly-spaced dots, velocity vectors, and acceleration vectors.",4.2.1.2
 Kinematics(1D),Position,,Find the functional form of position versus time given the velocity function.{120},4.3.1.0
 Kinematics(1D),Position,,Determine the total distance traveled.{85},4.3.1.1
 Kinematics(1D),Position,,Qualitatively analyze position vs time graphs,4.3.1.2
