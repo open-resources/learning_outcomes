@@ -27,6 +27,7 @@ The first Subtopic of each Topic and the first Subsubtopic of each Subtopic are 
 
 The Masterlist_Topics_Outcomes.yml file should be formatted as follows:
 
+```
 Topic:
 	Topic Outcomes:
 		- Learning Objective 
@@ -42,4 +43,4 @@ Topic:
  			- Learning Objective
  			- Learning Objective
 		
-
+```
