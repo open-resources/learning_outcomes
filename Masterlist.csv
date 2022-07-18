@@ -554,8 +554,84 @@ Waves,Sound,Sound Intensity(Decibels),Explain the concept of sound intensity lev
 Waves,Sound,Sound Intensity(Decibels),Describe how the human ear translates sound.{648},16.7.3.2
 Waves,The Doppler Effect,,Explain the change in observed frequency as a moving source of sound approaches or departs from a stationary observer.{668},16.8.1.0
 Waves,The Doppler Effect,,Explain the change in observed frequency as an observer moves toward or away from a stationary source of sound.{669},16.8.1.1
-Thermodynamics,Topic Outcome,,Sample,17.1.1.0
-Thermodynamics,Temperature and Heat,Subtopic Outcome,Sample,17.2.1.0
+Thermodynamics,Topic Outcome,,"Define a thermodynamic system, its boundary, and its surroundings.{749}",17.1.1.0
+Thermodynamics,Topic Outcome,,Explain the roles of all the components involved in thermodynamics.{750},17.1.1.1
+Thermodynamics,Topic Outcome,,Link an equation of state to a system.{752},17.1.1.2
+Thermodynamics,Topic Outcome,,Define a thermodynamic process.{766},17.1.1.3
+Thermodynamics,Topic Outcome,,Distinguish between quasi-static and non-quasi-static processes.{767},17.1.1.4
+Thermodynamics,Topic Outcome,,"Calculate physical quantities, such as the heat transferred, work done, and internal energy change for isothermal, adiabatic, and cyclical thermodynamic processes.{768}",17.1.1.5
+Thermodynamics,Topic Outcome,,Define reversible and irreversible processes.{786},17.1.1.6
+Thermodynamics,Topic Outcome,,Define a dissipative process.,17.1.1.7
+Thermodynamics,Temperature,Subtopic Outcome,Define temperature and describe it qualitatively.{687},17.2.1.0
+Thermodynamics,Temperature,Subtopic Outcome,Define thermal equilibrium and thermodynamic temperature.{751},17.2.1.1
+Thermodynamics,Temperature,Thermometers,Describe several different types of thermometers.{693},17.2.2.0
+Thermodynamics,Temperature,Thermometers,"Convert temperatures between the Celsius, Fahrenheit, and Kelvin scales.{694}",17.2.2.1
+Thermodynamics,Thermal Equilibrium,,Explain thermal equilibrium.{688},17.3.1.0
+Thermodynamics,Thermal Equilibrium,,Explain the zeroth law of thermodynamics.{689},17.3.1.1
+Thermodynamics,Thermal Equilibrium,,Define thermal equilibrium and thermodynamic temperature.{751},17.3.1.2
+Thermodynamics,Heat Transfer,Subtopic Outcome,Explain phenomena involving heat as a form of energy transfer.{704},17.4.1.0
+Thermodynamics,Heat Transfer,Subtopic Outcome,Solve problems involving heat transfer.{705},17.4.1.1
+Thermodynamics,Heat Transfer,Subtopic Outcome,"Explain some phenomena that involve conductive, convective, and radiative heat transfer.{715}",17.4.1.2
+Thermodynamics,Heat Transfer,Subtopic Outcome,"Solve problems on the relationships between heat transfer, time, and rate of heat transfer.{716}",17.4.1.3
+Thermodynamics,Heat Transfer,Subtopic Outcome,"Explain some phenomena that involve conductive, convective, and radiative heat transfer.{723}",17.4.1.4
+Thermodynamics,Heat Transfer,Subtopic Outcome,Solve problems involving heat transfer to and from ideal monatomic gases whose volumes are held constant.{736},17.4.1.5
+Thermodynamics,Heat Transfer,Convection,Paste un-numbered outcome here,17.4.2.0
+Thermodynamics,Heat Transfer,Convection,Paste un-numbered outcome here,17.4.2.1
+Thermodynamics,Heat Transfer,Conduction,Solve problems using the formulas for conduction and radiation.{717},17.4.3.0
+Thermodynamics,Heat Transfer,Conduction,Paste un-numbered outcome here,17.4.3.1
+Thermodynamics,Heat Transfer,Radiation,Solve problems using the formulas for conduction and radiation.{717},17.4.4.0
+Thermodynamics,Heat Transfer,Radiation,Paste un-numbered outcome here,17.4.4.1
+Thermodynamics,Pressure,,Paste un-numbered outcome here,17.5.1.0
+Thermodynamics,Pressure,,Paste un-numbered outcome here,17.5.1.1
+Thermodynamics,Thermal Expansion,,Answer qualitative questions about the effects of thermal expansion.{698},17.6.1.0
+Thermodynamics,Thermal Expansion,,"Solve problems involving thermal expansion, including those involving thermal stress.{699}",17.6.1.1
+Thermodynamics,Specific Heat,,Calculate the specific heat of an ideal gas for either an isobaric or isochoric process.{773},17.7.1.0
+Thermodynamics,Specific Heat,,Estimate the change in specific heat of a gas over temperature ranges.{775},17.7.1.1
+Thermodynamics,Calorimetry,,Solve calorimetry problems involving phase changes.{711},17.8.1.0
+Thermodynamics,Calorimetry,,Paste un-numbered outcome here,17.8.1.1
+Thermodynamics,Phase Changes,,Describe phase transitions and equilibrium between phases.{709},17.9.1.0
+Thermodynamics,Phase Changes,,Solve problems involving latent heat.{710},17.9.1.1
+Thermodynamics,Phase Changes,,Solve calorimetry problems involving phase changes.{711},17.9.1.2
+Thermodynamics,Ideal Gas,Subtopic Outcome,"Use the unit of moles in relation to numbers of molecules, and molecular and macroscopic masses.{724}",17.10.1.0
+Thermodynamics,Ideal Gas,Subtopic Outcome,Explain the ideal gas law in terms of moles rather than numbers of molecules.{725},17.10.1.1
+Thermodynamics,Ideal Gas,Subtopic Outcome,Apply the van der Waals gas law to situations where the ideal gas law is inadequate.{726},17.10.1.2
+Thermodynamics,Ideal Gas,Subtopic Outcome,Explain the relations between microscopic and macroscopic quantities in a gas.{730},17.10.1.3
+Thermodynamics,Ideal Gas,Subtopic Outcome,Solve problems involving mixtures of gases.{731},17.10.1.4
+Thermodynamics,Ideal Gas,Subtopic Outcome,Solve problems involving the distance and time between a gas molecule’s collisions.{732},17.10.1.5
+Thermodynamics,Ideal Gas,Subtopic Outcome,Describe the distribution of molecular speeds in an ideal gas.{742},17.10.1.6
+Thermodynamics,Ideal Gas,Subtopic Outcome,Find the average and most probable molecular speeds in an ideal gas.{743},17.10.1.7
+Thermodynamics,Ideal Gas,Heat Capacity,Estimate the heat capacities of metals using a model based on degrees of freedom.{738},17.10.2.0
+Thermodynamics,Ideal Gas,Heat Capacity,Define heat capacity of an ideal gas for a specific process.{772},17.10.2.1
+Thermodynamics,Ideal Gas,Heat Capacity,Calculate the specific heat of an ideal gas for either an isobaric or isochoric process.{773},17.10.2.2
+Thermodynamics,Ideal Gas,Heat Capacity,Explain the difference between the heat capacities of an ideal gas and a real gas.{774},17.10.2.3
+Thermodynamics,Ideal Gas,Heat Capacity,Estimate the change in specific heat of a gas over temperature ranges.{775},17.10.2.4
+Thermodynamics,Ideal Gas,Equipartition Theorem,Paste un-numbered outcome here,17.10.3.0
+Thermodynamics,Ideal Gas,Equipartition Theorem,Paste un-numbered outcome here,17.10.3.1
+Thermodynamics,Ideal Gas,Degrees of Freedom,Solve similar problems for non-monatomic ideal gases based on the number of degrees of freedom of a molecule.{737},17.10.4.0
+Thermodynamics,Ideal Gas,Degrees of Freedom,Estimate the heat capacities of metals using a model based on degrees of freedom.{738},17.10.4.1
+Thermodynamics,Ideal Gas,Adiabatic Processes,Define adiabatic expansion of an ideal gas.{779},17.10.5.0
+Thermodynamics,Ideal Gas,Adiabatic Processes,Demonstrate the qualitative difference between adiabatic and isothermal expansions.{780},17.10.5.1
+Thermodynamics,First Law of Thermodynamics,,State the first law of thermodynamics and explain how it is applied.{761},17.11.1.0
+Thermodynamics,First Law of Thermodynamics,,"Explain how heat transfer, work done, and internal energy change are related in any thermodynamic process.{762}",17.11.1.1
+Thermodynamics,First Law of Thermodynamics,,"Describe the work done by a system, heat transfer between objects, and internal energy change of a system.{756}",17.11.1.2
+Thermodynamics,First Law of Thermodynamics,,"Calculate the work, heat transfer, and internal energy change in a simple process.{757}",17.11.1.3
+Thermodynamics,Second Law of Thermodynamics,,State the second law of thermodynamics via an irreversible process.{787},17.12.1.0
+Thermodynamics,Second Law of Thermodynamics,,Contrast the second law of thermodynamics statements according to Kelvin and Clausius formulations.{802},17.12.1.1
+Thermodynamics,Second Law of Thermodynamics,,Interpret the second of thermodynamics via irreversibility.{803},17.12.1.2
+Thermodynamics,Entropy,,Describe the meaning of entropy.{813},17.13.1.0
+Thermodynamics,Entropy,,Calculate the change of entropy for some simple processes.{814},17.13.1.1
+Thermodynamics,Entropy,,Interpret the meaning of entropy at a microscopic scale.{818},17.13.1.2
+Thermodynamics,Entropy,,Calculate a change in entropy for an irreversible process of a system and contrast with the change in entropy of the universe.{819},17.13.1.3
+Thermodynamics,Heat Engines,Subtopic Outcome,Describe the function and components of a heat engine.{791},17.14.1.0
+Thermodynamics,Heat Engines,Subtopic Outcome,Explain the efficiency of an engine.{792},17.14.1.1
+Thermodynamics,Heat Engines,Subtopic Outcome,Calculate the efficiency of an engine for a given cycle of an ideal gas.{793},17.14.1.2
+Thermodynamics,Heat Engines,The Carnot Cycle,Describe the Carnot cycle with the roles of all four processes involved.{807},17.14.2.0
+Thermodynamics,Heat Engines,The Carnot Cycle,Outline the Carnot principle and its implications.{808},17.14.2.1
+Thermodynamics,Heat Engines,The Carnot Cycle,Demonstrate the equivalence of the Carnot principle and the second law of thermodynamics.{809},17.14.2.2
+Thermodynamics,Refrigerators,,Describe a refrigerator and a heat pump and list their differences.{797},17.15.1.0
+Thermodynamics,Refrigerators,,Calculate the performance coefficients of simple refrigerators and heat pumps.{798},17.15.1.1
+Thermodynamics,Third Law of Thermodynamics,,Explain the third law of thermodynamics.{820},17.16.1.0
+Thermodynamics,Third Law of Thermodynamics,,Paste un-numbered outcome here,17.16.1.1
 Electrostatics,Topic Outcome,,"Describe the electric force, both qualitatively and quantitatively.{840}",18.1.1.0
 Electrostatics,Topic Outcome,,Determine the direction of the electric force for different source charges.{842},18.1.1.1
 Electrostatics,Topic Outcome,,"Describe some of the many practical applications of electrostatics, including several printing technologies.{937}",18.1.1.2
