@@ -1296,3 +1296,70 @@ Circuits:
             - Paste un-numbered outcome here
             
 # Topic Break
+
+Optics:
+    Topic Outcomes: 
+        - Describe Huygens’s principle
+        - Paste un-numbered outcome here
+    Nature of light: 
+        - Subtopic outcome:
+            - List the ways in which light travels from a source to another location
+        - Reflection:
+            - Explain the reflection of light from polished and rough surfaces
+            - Describe the principle and applications of corner reflectors
+            - Use Huygens’s principle to explain the law of reflection
+        - Total internal reflection: 
+            - Explain the phenomenon of total internal reflection
+            - Describe the workings and uses of optical fibers
+            - Analyze the reason for the sparkle of diamond
+        - Refraction: 
+            - Describe how rays change direction upon entering a medium
+            - Determine the index of refraction, given the speed of light in a medium
+            - Apply the law of refraction in problem solving
+            - Use Huygens’s principle to explain the law of refraction
+        - Dispersion: 
+            - Explain the cause of dispersion in a prism
+            - Describe the effects of dispersion in producing rainbows
+            - Summarize the advantages and disadvantages of dispersion
+        - Polarization:
+            - Explain the change in intensity as polarized light passes through a polarizing filter
+            - Calculate the effect of polarization by reflection and Brewster’s angle
+            - Describe the effect of polarization by scattering
+            - Explain the use of polarizing materials in devices such as LCDs
+    Interference:
+        Subtopic outcome:
+            - Explain the phenomenon of interference
+            - Use Huygens’s principle to explain interference
+        Double-slit interference:
+            - Define constructive and destructive interference for a double slit
+            - Determine the angles for bright and dark fringes for double slit interference
+            - Calculate the positions of bright fringes on a screen
+        Multiple-slit interference:
+            - Describe the locations and intensities of secondary maxima for multiple-slit interference
+            - Paste un-numbered outcome here
+        Thin-film interference:
+            - Describe the phase changes that occur upon reflection
+            - Describe fringes established by reflected rays of a common source
+            - Explain the appearance of colors in thin films
+        Interferometer:
+            - Explain changes in fringes observed with a Michelson interferometer caused by mirror movements
+            - Explain changes in fringes observed with a Michelson interferometer caused by changes in medium
+    Diffraction:
+        Subtopic outcome:
+            - Explain the phenomenon of diffraction and the conditions under which it is observed
+            - Use Huygens’s principle to explain diffraction
+        Single-slit diffraction:
+            - Describe diffraction through a single slit
+            - Calculate the intensity relative to the central maximum of the single-slit diffraction peaks
+            - Calculate the intensity relative to the central maximum of an arbitrary point on the screen
+        Double-slit diffraction:
+            - Describe the combined effect of interference and diffraction with two slits, each with finite width
+            - Determine the relative intensities of interference fringes within a diffraction pattern
+            - Identify missing orders, if any
+        
+
+       
+    
+
+
+
