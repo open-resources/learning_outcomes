@@ -878,3 +878,31 @@ Circuits,Alternating-Current Circuits,Alternating-Current Sources,Paste un-numbe
 Circuits,Alternating-Current Circuits,Alternating-Current Sources,Paste un-numbered outcome here,21.15.2.1
 Circuits,Alternating-Current Circuits,Transformers,Paste un-numbered outcome here,21.15.3.0
 Circuits,Alternating-Current Circuits,Transformers,Paste un-numbered outcome here,21.15.3.1
+Optics,Topic Outcomes,,Describe Huygens’s principle,22.1.1.0
+Optics,Topic Outcomes,,Paste un-numbered outcome here,22.1.1.1
+Optics,Nature of light,,{'Subtopic outcome': ['List the ways in which light travels from a source to another location']},22.2.1.0
+Optics,Nature of light,,"{'Reflection': ['Explain the reflection of light from polished and rough surfaces', 'Describe the principle and applications of corner reflectors', 'Use Huygens’s principle to explain the law of reflection']}",22.2.1.1
+Optics,Nature of light,,"{'Total internal reflection': ['Explain the phenomenon of total internal reflection', 'Describe the workings and uses of optical fibers', 'Analyze the reason for the sparkle of diamond']}",22.2.1.2
+Optics,Nature of light,,"{'Refraction': ['Describe how rays change direction upon entering a medium', 'Determine the index of refraction, given the speed of light in a medium', 'Apply the law of refraction in problem solving', 'Use Huygens’s principle to explain the law of refraction']}",22.2.1.3
+Optics,Nature of light,,"{'Dispersion': ['Explain the cause of dispersion in a prism', 'Describe the effects of dispersion in producing rainbows', 'Summarize the advantages and disadvantages of dispersion']}",22.2.1.4
+Optics,Nature of light,,"{'Polarization': ['Explain the change in intensity as polarized light passes through a polarizing filter', 'Calculate the effect of polarization by reflection and Brewster’s angle', 'Describe the effect of polarization by scattering', 'Explain the use of polarizing materials in devices such as LCDs']}",22.2.1.5
+Optics,Interference,Subtopic outcome,Explain the phenomenon of interference,22.3.1.0
+Optics,Interference,Subtopic outcome,Use Huygens’s principle to explain interference,22.3.1.1
+Optics,Interference,Double-slit interference,Define constructive and destructive interference for a double slit,22.3.2.0
+Optics,Interference,Double-slit interference,Determine the angles for bright and dark fringes for double slit interference,22.3.2.1
+Optics,Interference,Double-slit interference,Calculate the positions of bright fringes on a screen,22.3.2.2
+Optics,Interference,Multiple-slit interference,Describe the locations and intensities of secondary maxima for multiple-slit interference,22.3.3.0
+Optics,Interference,Multiple-slit interference,Paste un-numbered outcome here,22.3.3.1
+Optics,Interference,Thin-film interference,Describe the phase changes that occur upon reflection,22.3.4.0
+Optics,Interference,Thin-film interference,Describe fringes established by reflected rays of a common source,22.3.4.1
+Optics,Interference,Thin-film interference,Explain the appearance of colors in thin films,22.3.4.2
+Optics,Interference,Interferometer,Explain changes in fringes observed with a Michelson interferometer caused by mirror movements,22.3.5.0
+Optics,Interference,Interferometer,Explain changes in fringes observed with a Michelson interferometer caused by changes in medium,22.3.5.1
+Optics,Diffraction,Subtopic outcome,Explain the phenomenon of diffraction and the conditions under which it is observed,22.4.1.0
+Optics,Diffraction,Subtopic outcome,Use Huygens’s principle to explain diffraction,22.4.1.1
+Optics,Diffraction,Single-slit diffraction,Describe diffraction through a single slit,22.4.2.0
+Optics,Diffraction,Single-slit diffraction,Calculate the intensity relative to the central maximum of the single-slit diffraction peaks,22.4.2.1
+Optics,Diffraction,Single-slit diffraction,Calculate the intensity relative to the central maximum of an arbitrary point on the screen,22.4.2.2
+Optics,Diffraction,Double-slit diffraction,"Describe the combined effect of interference and diffraction with two slits, each with finite width",22.4.3.0
+Optics,Diffraction,Double-slit diffraction,Determine the relative intensities of interference fringes within a diffraction pattern,22.4.3.1
+Optics,Diffraction,Double-slit diffraction,"Identify missing orders, if any",22.4.3.2
