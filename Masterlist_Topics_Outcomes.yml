@@ -1393,7 +1393,82 @@ Optics:
         Thin lenses:
             - Use ray diagrams to locate and describe the image formed by a lens
             - Employ the thin-lens equation to describe and locate the image formed by a lens
+# Topic Break
+
+Relativity:
+    Topic Outcomes: 
+        - Describe the theoretical and experimental issues that Einstein’s theory of special relativity addressed.
+        - State the two postulates of the special theory of relativity.
+    Simultaneity: 
+        - Show from Einstein postulates that two events measured as simultaneous in one inertial frame are not necessarily simultaneous in all inertial frames.
+        - Describe how simultaneity is a relative concept for observers in different inertial frames in relative motion.
+    Time dilation:
+        - Explain how time intervals can be measured differently in different reference frames.
+        - Describe how to distinguish a proper time interval from a dilated time interval.
+        - Describe the significance of the muon experiment.
+        - Explain why the twin paradox is not a contradiction.
+        - Calculate time dilation given the speed of an object in a given frame.
+    Length contraction:
+        - Explain how simultaneity and length contraction are related.
+        - Describe the relation between length contraction and time dilation and use it to derive the length-contraction equation.
+    Lorentz transformation:
+        - Describe the Galilean transformation of classical mechanics, relating the position, time, velocities, and accelerations measured in different inertial frames.
+        - Derive the corresponding Lorentz transformation equations, which, in contrast to the Galilean transformation, are consistent with special relativity.
+        - Explain the Lorentz transformation and many of the features of relativity in terms of four-dimensional space-time.
+    Velocity transformation:
+        - Derive the equations consistent with special relativity for transforming velocities in one inertial frame of reference into another.
+        - Apply the velocity transformation equations to objects moving at relativistic speeds.
+        - Examine how the combined velocities predicted by the relativistic transformation equations compare with those expected classically.
+    Relativistic doppler shift:
+        - Explain the origin of the shift in frequency and wavelength of the observed wavelength when observer and source moved toward or away from each other.
+        - Derive an expression for the relativistic Doppler shift.
+        - Apply the Doppler shift equations to real-world examples.
+    Relativistic momentum:
+        = Define relativistic momentum in terms of mass and velocity.
+        - Show how relativistic momentum relates to classical momentum.
+        - Show how conservation of relativistic momentum limits objects with mass to speeds less than c.
+    Relativistic energy:
+        - Explain how the work-energy theorem leads to an expression for the relativistic kinetic energy of an object.
+        - Show how the relativistic energy relates to the classical kinetic energy, and sets a limit on the speed of any object with mass.
+        - Describe how the total energy of a particle is related to its mass and velocity.
+        - Explain how relativity relates to energy-mass equivalence, and some of the practical implications of energy-mass equivalence.
+
+# Topic Break
+Quantum mechanics:
+    Topic outcome:
+        - Paste un-numbered outcome here
+        - Paste un-numbered outcome here 
+    Wave function:
+        - Describe the statistical interpretation of the wave function.
+        - Use the wave function to determine probabilities.
+        - Calculate expectation values of position, momentum, and kinetic energy.
+    Heisenberg uncertainty principle:
+        - Describe the physical meaning of the position-momentum uncertainty relation.
+        - Explain the origins of the uncertainty principle in quantum theory.
+        - Describe the physical meaning of the energy-time uncertainty relation.
+    Schrodinger equation:
+        - Describe the role Schrӧdinger’s equation plays in quantum mechanics.
+        - Explain the difference between time-dependent and -independent Schrӧdinger’s equations.
+        - Interpret the solutions of Schrӧdinger’s equation.
+    Stationary states:
+        Subtopic outcome:
+            - Describe how to set up a boundary-value problem for the stationary Schrӧdinger equation.
+            - Describe the physical meaning of stationary solutions to Schrӧdinger’s equation and the connection of these solutions with time-dependent quantum states.
+        Infinite square well:
+            - Explain why the energy of a quantum particle in a box is quantized.
+            - Explain the physical meaning of Bohr’s correspondence principle.
+        Harmonic oscillator:
+            - Describe the model of the quantum harmonic oscillator.
+            - Identify differences between the classical and quantum models of the harmonic oscillator.
+            - Explain physical situations where the classical and the quantum models coincide.
+    Quantum tunneling:
+        - Describe how a quantum particle may tunnel across a potential barrier
+        - Identify important physical parameters that affect the tunneling probability
+        - Identify the physical phenomena where quantum tunneling is observed
+        - Explain how quantum tunneling is utilized in modern technologies
         
+
+
         
             
 
