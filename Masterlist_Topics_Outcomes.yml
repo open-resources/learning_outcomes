@@ -1299,64 +1299,103 @@ Circuits:
 
 Optics:
     Topic Outcomes: 
-        - Describe Huygens’s principle
-        - Paste un-numbered outcome here
+        - List the ways in which light travels from a source to another location.
+        - Describe Huygens’s principle.
+        - Explain the phenomenon of interference.
+        - Explain the phenomenon of diffraction and the conditions under which it is observed. 
+        - Determine the location of an image and calculate its properties by using a ray diagram.
     Nature of light: 
         - Subtopic outcome:
-            - List the ways in which light travels from a source to another location
+            - Paste un-numbered outcome here
+            - Paste un-numbered outcome here
         - Reflection:
-            - Explain the reflection of light from polished and rough surfaces
-            - Describe the principle and applications of corner reflectors
-            - Use Huygens’s principle to explain the law of reflection
+            - Explain the reflection of light from polished and rough surfaces.
+            - Describe the principle and applications of corner reflectors.
+            - Use Huygens’s principle to explain the law of reflection.
         - Total internal reflection: 
-            - Explain the phenomenon of total internal reflection
-            - Describe the workings and uses of optical fibers
-            - Analyze the reason for the sparkle of diamond
+            - Explain the phenomenon of total internal reflection.
+            - Describe the workings and uses of optical fibers.
+            - Analyze the reason for the sparkle of diamond.
         - Refraction: 
-            - Describe how rays change direction upon entering a medium
-            - Determine the index of refraction, given the speed of light in a medium
-            - Apply the law of refraction in problem solving
-            - Use Huygens’s principle to explain the law of refraction
+            - Describe how rays change direction upon entering a medium.
+            - Determine the index of refraction, given the speed of light in a medium.
+            - Apply the law of refraction in problem solving.
+            - Use Huygens’s principle to explain the law of refraction.
         - Dispersion: 
-            - Explain the cause of dispersion in a prism
-            - Describe the effects of dispersion in producing rainbows
-            - Summarize the advantages and disadvantages of dispersion
+            - Explain the cause of dispersion in a prism.
+            - Describe the effects of dispersion in producing rainbows.
+            - Summarize the advantages and disadvantages of dispersion.
         - Polarization:
-            - Explain the change in intensity as polarized light passes through a polarizing filter
-            - Calculate the effect of polarization by reflection and Brewster’s angle
-            - Describe the effect of polarization by scattering
-            - Explain the use of polarizing materials in devices such as LCDs
+            - Explain the change in intensity as polarized light passes through a polarizing filter.
+            - Calculate the effect of polarization by reflection and Brewster’s angle.
+            - Describe the effect of polarization by scattering.
+            - Explain the use of polarizing materials in devices such as LCDs.
     Interference:
         Subtopic outcome:
-            - Explain the phenomenon of interference
-            - Use Huygens’s principle to explain interference
+            - Use Huygens’s principle to explain interference.
+            - Paste un-numbered outcome here
+            - Paste un-numbered outcome here          
         Double-slit interference:
-            - Define constructive and destructive interference for a double slit
-            - Determine the angles for bright and dark fringes for double slit interference
-            - Calculate the positions of bright fringes on a screen
+            - Define constructive and destructive interference for a double slit.
+            - Determine the angles for bright and dark fringes for double slit interference.
+            - Calculate the positions of bright fringes on a screen.
         Multiple-slit interference:
-            - Describe the locations and intensities of secondary maxima for multiple-slit interference
+            - Describe the locations and intensities of secondary maxima for multiple-slit interference.
             - Paste un-numbered outcome here
         Thin-film interference:
-            - Describe the phase changes that occur upon reflection
-            - Describe fringes established by reflected rays of a common source
-            - Explain the appearance of colors in thin films
+            - Describe the phase changes that occur upon reflection.
+            - Describe fringes established by reflected rays of a common source.
+            - Explain the appearance of colors in thin films.
         Interferometer:
-            - Explain changes in fringes observed with a Michelson interferometer caused by mirror movements
-            - Explain changes in fringes observed with a Michelson interferometer caused by changes in medium
+            - Explain changes in fringes observed with a Michelson interferometer caused by mirror movements.
+            - Explain changes in fringes observed with a Michelson interferometer caused by changes in medium.
     Diffraction:
         Subtopic outcome:
-            - Explain the phenomenon of diffraction and the conditions under which it is observed
-            - Use Huygens’s principle to explain diffraction
+            - Use Huygens’s principle to explain diffraction.
+            - Describe interference and diffraction effects exhibited by X-rays in interaction with atomic-scale structures.
         Single-slit diffraction:
-            - Describe diffraction through a single slit
-            - Calculate the intensity relative to the central maximum of the single-slit diffraction peaks
-            - Calculate the intensity relative to the central maximum of an arbitrary point on the screen
+            - Describe diffraction through a single slit.
+            - Calculate the intensity relative to the central maximum of the single-slit diffraction peaks.
+            - Calculate the intensity relative to the central maximum of an arbitrary point on the screen.
         Double-slit diffraction:
-            - Describe the combined effect of interference and diffraction with two slits, each with finite width
-            - Determine the relative intensities of interference fringes within a diffraction pattern
-            - Identify missing orders, if any
+            - Describe the combined effect of interference and diffraction with two slits, each with finite width.
+            - Determine the relative intensities of interference fringes within a diffraction pattern.
+            - Identify missing orders, if any.
+        Diffraction gratings:
+            - Discuss the pattern obtained from diffraction gratings.
+            - Explain diffraction grating effects.
+        Diffraction limit:
+            - Describe the diffraction limit on resolution.
+            - Describe the diffraction limit on beam propagation.
+        Holography:
+            - Describe how a three-dimensional image is recorded as a hologram.
+            - Describe how a three-dimensional image is formed from a hologram.
+    Geometric optics:
+        Subtopic outcome:
+            - Distinguish between real and virtual images.
+            - Understand the basic physics of how images are formed by the human eye.
+            - Recognize several conditions of impaired vision as well as the optics principles for treating these conditions.
+            - Describe the optics of a camera.
+            - Characterize the image created by a camera.
+            - Understand the optics of a simple magnifier
+            - Characterize the image created by a simple magnifier
+            - Explain the physics behind the operation of microscopes and telescopes
+            - Describe the image created by different instruments and calculate their magnifications
+        Plane mirrors:
+            - Describe how an image is formed by a plane mirror.
+            - Find the location and characterize the orientation of an image created by a plane mirror.
+        Spherical mirrors:
+            - Describe image formation by spherical mirrors.
+            - Use ray diagrams and the mirror equation to calculate the properties of an image in a spherical mirror.
+        Refracting surfaces:
+            - Describe image formation by a single refracting surface.
+            - Determine the location of an image and calculate its properties by using the equation for a single refracting surface.
+        Thin lenses:
+            - Use ray diagrams to locate and describe the image formed by a lens
+            - Employ the thin-lens equation to describe and locate the image formed by a lens
         
+        
+            
 
        
     
