@@ -933,3 +933,271 @@ Optics,Geometric optics,Refracting surfaces,Describe image formation by a single
 Optics,Geometric optics,Refracting surfaces,Determine the location of an image and calculate its properties by using the equation for a single refracting surface.,22.5.4.1
 Optics,Geometric optics,Thin lenses,Use ray diagrams to locate and describe the image formed by a lens,22.5.5.0
 Optics,Geometric optics,Thin lenses,Employ the thin-lens equation to describe and locate the image formed by a lens,22.5.5.1
+Relativity,Topic Outcomes,,Describe the theoretical and experimental issues that Einstein’s theory of special relativity addressed.,23.1.1.0
+Relativity,Topic Outcomes,,State the two postulates of the special theory of relativity.,23.1.1.1
+Relativity,Simultaneity,,Show from Einstein postulates that two events measured as simultaneous in one inertial frame are not necessarily simultaneous in all inertial frames.,23.2.1.0
+Relativity,Simultaneity,,Describe how simultaneity is a relative concept for observers in different inertial frames in relative motion.,23.2.1.1
+Relativity,Time dilation,,Explain how time intervals can be measured differently in different reference frames.,23.3.1.0
+Relativity,Time dilation,,Describe how to distinguish a proper time interval from a dilated time interval.,23.3.1.1
+Relativity,Time dilation,,Describe the significance of the muon experiment.,23.3.1.2
+Relativity,Time dilation,,Explain why the twin paradox is not a contradiction.,23.3.1.3
+Relativity,Time dilation,,Calculate time dilation given the speed of an object in a given frame.,23.3.1.4
+Relativity,Length contraction,,Explain how simultaneity and length contraction are related.,23.4.1.0
+Relativity,Length contraction,,Describe the relation between length contraction and time dilation and use it to derive the length-contraction equation.,23.4.1.1
+Relativity,Lorentz transformation,,"Describe the Galilean transformation of classical mechanics, relating the position, time, velocities, and accelerations measured in different inertial frames.",23.5.1.0
+Relativity,Lorentz transformation,,"Derive the corresponding Lorentz transformation equations, which, in contrast to the Galilean transformation, are consistent with special relativity.",23.5.1.1
+Relativity,Lorentz transformation,,Explain the Lorentz transformation and many of the features of relativity in terms of four-dimensional space-time.,23.5.1.2
+Relativity,Velocity transformation,,Derive the equations consistent with special relativity for transforming velocities in one inertial frame of reference into another.,23.6.1.0
+Relativity,Velocity transformation,,Apply the velocity transformation equations to objects moving at relativistic speeds.,23.6.1.1
+Relativity,Velocity transformation,,Examine how the combined velocities predicted by the relativistic transformation equations compare with those expected classically.,23.6.1.2
+Relativity,Relativistic doppler shift,,Explain the origin of the shift in frequency and wavelength of the observed wavelength when observer and source moved toward or away from each other.,23.7.1.0
+Relativity,Relativistic doppler shift,,Derive an expression for the relativistic Doppler shift.,23.7.1.1
+Relativity,Relativistic doppler shift,,Apply the Doppler shift equations to real-world examples.,23.7.1.2
+Relativity,Relativistic momentum,,=,23.8.1.0
+Relativity,Relativistic momentum,, ,23.8.1.1
+Relativity,Relativistic momentum,,D,23.8.1.2
+Relativity,Relativistic momentum,,e,23.8.1.3
+Relativity,Relativistic momentum,,f,23.8.1.4
+Relativity,Relativistic momentum,,i,23.8.1.5
+Relativity,Relativistic momentum,,n,23.8.1.6
+Relativity,Relativistic momentum,,e,23.8.1.7
+Relativity,Relativistic momentum,, ,23.8.1.8
+Relativity,Relativistic momentum,,r,23.8.1.9
+Relativity,Relativistic momentum,,e,23.8.1.10
+Relativity,Relativistic momentum,,l,23.8.1.11
+Relativity,Relativistic momentum,,a,23.8.1.12
+Relativity,Relativistic momentum,,t,23.8.1.13
+Relativity,Relativistic momentum,,i,23.8.1.14
+Relativity,Relativistic momentum,,v,23.8.1.15
+Relativity,Relativistic momentum,,i,23.8.1.16
+Relativity,Relativistic momentum,,s,23.8.1.17
+Relativity,Relativistic momentum,,t,23.8.1.18
+Relativity,Relativistic momentum,,i,23.8.1.19
+Relativity,Relativistic momentum,,c,23.8.1.20
+Relativity,Relativistic momentum,, ,23.8.1.21
+Relativity,Relativistic momentum,,m,23.8.1.22
+Relativity,Relativistic momentum,,o,23.8.1.23
+Relativity,Relativistic momentum,,m,23.8.1.24
+Relativity,Relativistic momentum,,e,23.8.1.25
+Relativity,Relativistic momentum,,n,23.8.1.26
+Relativity,Relativistic momentum,,t,23.8.1.27
+Relativity,Relativistic momentum,,u,23.8.1.28
+Relativity,Relativistic momentum,,m,23.8.1.29
+Relativity,Relativistic momentum,, ,23.8.1.30
+Relativity,Relativistic momentum,,i,23.8.1.31
+Relativity,Relativistic momentum,,n,23.8.1.32
+Relativity,Relativistic momentum,, ,23.8.1.33
+Relativity,Relativistic momentum,,t,23.8.1.34
+Relativity,Relativistic momentum,,e,23.8.1.35
+Relativity,Relativistic momentum,,r,23.8.1.36
+Relativity,Relativistic momentum,,m,23.8.1.37
+Relativity,Relativistic momentum,,s,23.8.1.38
+Relativity,Relativistic momentum,, ,23.8.1.39
+Relativity,Relativistic momentum,,o,23.8.1.40
+Relativity,Relativistic momentum,,f,23.8.1.41
+Relativity,Relativistic momentum,, ,23.8.1.42
+Relativity,Relativistic momentum,,m,23.8.1.43
+Relativity,Relativistic momentum,,a,23.8.1.44
+Relativity,Relativistic momentum,,s,23.8.1.45
+Relativity,Relativistic momentum,,s,23.8.1.46
+Relativity,Relativistic momentum,, ,23.8.1.47
+Relativity,Relativistic momentum,,a,23.8.1.48
+Relativity,Relativistic momentum,,n,23.8.1.49
+Relativity,Relativistic momentum,,d,23.8.1.50
+Relativity,Relativistic momentum,, ,23.8.1.51
+Relativity,Relativistic momentum,,v,23.8.1.52
+Relativity,Relativistic momentum,,e,23.8.1.53
+Relativity,Relativistic momentum,,l,23.8.1.54
+Relativity,Relativistic momentum,,o,23.8.1.55
+Relativity,Relativistic momentum,,c,23.8.1.56
+Relativity,Relativistic momentum,,i,23.8.1.57
+Relativity,Relativistic momentum,,t,23.8.1.58
+Relativity,Relativistic momentum,,y,23.8.1.59
+Relativity,Relativistic momentum,,.,23.8.1.60
+Relativity,Relativistic momentum,, ,23.8.1.61
+Relativity,Relativistic momentum,,-,23.8.1.62
+Relativity,Relativistic momentum,, ,23.8.1.63
+Relativity,Relativistic momentum,,S,23.8.1.64
+Relativity,Relativistic momentum,,h,23.8.1.65
+Relativity,Relativistic momentum,,o,23.8.1.66
+Relativity,Relativistic momentum,,w,23.8.1.67
+Relativity,Relativistic momentum,, ,23.8.1.68
+Relativity,Relativistic momentum,,h,23.8.1.69
+Relativity,Relativistic momentum,,o,23.8.1.70
+Relativity,Relativistic momentum,,w,23.8.1.71
+Relativity,Relativistic momentum,, ,23.8.1.72
+Relativity,Relativistic momentum,,r,23.8.1.73
+Relativity,Relativistic momentum,,e,23.8.1.74
+Relativity,Relativistic momentum,,l,23.8.1.75
+Relativity,Relativistic momentum,,a,23.8.1.76
+Relativity,Relativistic momentum,,t,23.8.1.77
+Relativity,Relativistic momentum,,i,23.8.1.78
+Relativity,Relativistic momentum,,v,23.8.1.79
+Relativity,Relativistic momentum,,i,23.8.1.80
+Relativity,Relativistic momentum,,s,23.8.1.81
+Relativity,Relativistic momentum,,t,23.8.1.82
+Relativity,Relativistic momentum,,i,23.8.1.83
+Relativity,Relativistic momentum,,c,23.8.1.84
+Relativity,Relativistic momentum,, ,23.8.1.85
+Relativity,Relativistic momentum,,m,23.8.1.86
+Relativity,Relativistic momentum,,o,23.8.1.87
+Relativity,Relativistic momentum,,m,23.8.1.88
+Relativity,Relativistic momentum,,e,23.8.1.89
+Relativity,Relativistic momentum,,n,23.8.1.90
+Relativity,Relativistic momentum,,t,23.8.1.91
+Relativity,Relativistic momentum,,u,23.8.1.92
+Relativity,Relativistic momentum,,m,23.8.1.93
+Relativity,Relativistic momentum,, ,23.8.1.94
+Relativity,Relativistic momentum,,r,23.8.1.95
+Relativity,Relativistic momentum,,e,23.8.1.96
+Relativity,Relativistic momentum,,l,23.8.1.97
+Relativity,Relativistic momentum,,a,23.8.1.98
+Relativity,Relativistic momentum,,t,23.8.1.99
+Relativity,Relativistic momentum,,e,23.8.1.100
+Relativity,Relativistic momentum,,s,23.8.1.101
+Relativity,Relativistic momentum,, ,23.8.1.102
+Relativity,Relativistic momentum,,t,23.8.1.103
+Relativity,Relativistic momentum,,o,23.8.1.104
+Relativity,Relativistic momentum,, ,23.8.1.105
+Relativity,Relativistic momentum,,c,23.8.1.106
+Relativity,Relativistic momentum,,l,23.8.1.107
+Relativity,Relativistic momentum,,a,23.8.1.108
+Relativity,Relativistic momentum,,s,23.8.1.109
+Relativity,Relativistic momentum,,s,23.8.1.110
+Relativity,Relativistic momentum,,i,23.8.1.111
+Relativity,Relativistic momentum,,c,23.8.1.112
+Relativity,Relativistic momentum,,a,23.8.1.113
+Relativity,Relativistic momentum,,l,23.8.1.114
+Relativity,Relativistic momentum,, ,23.8.1.115
+Relativity,Relativistic momentum,,m,23.8.1.116
+Relativity,Relativistic momentum,,o,23.8.1.117
+Relativity,Relativistic momentum,,m,23.8.1.118
+Relativity,Relativistic momentum,,e,23.8.1.119
+Relativity,Relativistic momentum,,n,23.8.1.120
+Relativity,Relativistic momentum,,t,23.8.1.121
+Relativity,Relativistic momentum,,u,23.8.1.122
+Relativity,Relativistic momentum,,m,23.8.1.123
+Relativity,Relativistic momentum,,.,23.8.1.124
+Relativity,Relativistic momentum,, ,23.8.1.125
+Relativity,Relativistic momentum,,-,23.8.1.126
+Relativity,Relativistic momentum,, ,23.8.1.127
+Relativity,Relativistic momentum,,S,23.8.1.128
+Relativity,Relativistic momentum,,h,23.8.1.129
+Relativity,Relativistic momentum,,o,23.8.1.130
+Relativity,Relativistic momentum,,w,23.8.1.131
+Relativity,Relativistic momentum,, ,23.8.1.132
+Relativity,Relativistic momentum,,h,23.8.1.133
+Relativity,Relativistic momentum,,o,23.8.1.134
+Relativity,Relativistic momentum,,w,23.8.1.135
+Relativity,Relativistic momentum,, ,23.8.1.136
+Relativity,Relativistic momentum,,c,23.8.1.137
+Relativity,Relativistic momentum,,o,23.8.1.138
+Relativity,Relativistic momentum,,n,23.8.1.139
+Relativity,Relativistic momentum,,s,23.8.1.140
+Relativity,Relativistic momentum,,e,23.8.1.141
+Relativity,Relativistic momentum,,r,23.8.1.142
+Relativity,Relativistic momentum,,v,23.8.1.143
+Relativity,Relativistic momentum,,a,23.8.1.144
+Relativity,Relativistic momentum,,t,23.8.1.145
+Relativity,Relativistic momentum,,i,23.8.1.146
+Relativity,Relativistic momentum,,o,23.8.1.147
+Relativity,Relativistic momentum,,n,23.8.1.148
+Relativity,Relativistic momentum,, ,23.8.1.149
+Relativity,Relativistic momentum,,o,23.8.1.150
+Relativity,Relativistic momentum,,f,23.8.1.151
+Relativity,Relativistic momentum,, ,23.8.1.152
+Relativity,Relativistic momentum,,r,23.8.1.153
+Relativity,Relativistic momentum,,e,23.8.1.154
+Relativity,Relativistic momentum,,l,23.8.1.155
+Relativity,Relativistic momentum,,a,23.8.1.156
+Relativity,Relativistic momentum,,t,23.8.1.157
+Relativity,Relativistic momentum,,i,23.8.1.158
+Relativity,Relativistic momentum,,v,23.8.1.159
+Relativity,Relativistic momentum,,i,23.8.1.160
+Relativity,Relativistic momentum,,s,23.8.1.161
+Relativity,Relativistic momentum,,t,23.8.1.162
+Relativity,Relativistic momentum,,i,23.8.1.163
+Relativity,Relativistic momentum,,c,23.8.1.164
+Relativity,Relativistic momentum,, ,23.8.1.165
+Relativity,Relativistic momentum,,m,23.8.1.166
+Relativity,Relativistic momentum,,o,23.8.1.167
+Relativity,Relativistic momentum,,m,23.8.1.168
+Relativity,Relativistic momentum,,e,23.8.1.169
+Relativity,Relativistic momentum,,n,23.8.1.170
+Relativity,Relativistic momentum,,t,23.8.1.171
+Relativity,Relativistic momentum,,u,23.8.1.172
+Relativity,Relativistic momentum,,m,23.8.1.173
+Relativity,Relativistic momentum,, ,23.8.1.174
+Relativity,Relativistic momentum,,l,23.8.1.175
+Relativity,Relativistic momentum,,i,23.8.1.176
+Relativity,Relativistic momentum,,m,23.8.1.177
+Relativity,Relativistic momentum,,i,23.8.1.178
+Relativity,Relativistic momentum,,t,23.8.1.179
+Relativity,Relativistic momentum,,s,23.8.1.180
+Relativity,Relativistic momentum,, ,23.8.1.181
+Relativity,Relativistic momentum,,o,23.8.1.182
+Relativity,Relativistic momentum,,b,23.8.1.183
+Relativity,Relativistic momentum,,j,23.8.1.184
+Relativity,Relativistic momentum,,e,23.8.1.185
+Relativity,Relativistic momentum,,c,23.8.1.186
+Relativity,Relativistic momentum,,t,23.8.1.187
+Relativity,Relativistic momentum,,s,23.8.1.188
+Relativity,Relativistic momentum,, ,23.8.1.189
+Relativity,Relativistic momentum,,w,23.8.1.190
+Relativity,Relativistic momentum,,i,23.8.1.191
+Relativity,Relativistic momentum,,t,23.8.1.192
+Relativity,Relativistic momentum,,h,23.8.1.193
+Relativity,Relativistic momentum,, ,23.8.1.194
+Relativity,Relativistic momentum,,m,23.8.1.195
+Relativity,Relativistic momentum,,a,23.8.1.196
+Relativity,Relativistic momentum,,s,23.8.1.197
+Relativity,Relativistic momentum,,s,23.8.1.198
+Relativity,Relativistic momentum,, ,23.8.1.199
+Relativity,Relativistic momentum,,t,23.8.1.200
+Relativity,Relativistic momentum,,o,23.8.1.201
+Relativity,Relativistic momentum,, ,23.8.1.202
+Relativity,Relativistic momentum,,s,23.8.1.203
+Relativity,Relativistic momentum,,p,23.8.1.204
+Relativity,Relativistic momentum,,e,23.8.1.205
+Relativity,Relativistic momentum,,e,23.8.1.206
+Relativity,Relativistic momentum,,d,23.8.1.207
+Relativity,Relativistic momentum,,s,23.8.1.208
+Relativity,Relativistic momentum,, ,23.8.1.209
+Relativity,Relativistic momentum,,l,23.8.1.210
+Relativity,Relativistic momentum,,e,23.8.1.211
+Relativity,Relativistic momentum,,s,23.8.1.212
+Relativity,Relativistic momentum,,s,23.8.1.213
+Relativity,Relativistic momentum,, ,23.8.1.214
+Relativity,Relativistic momentum,,t,23.8.1.215
+Relativity,Relativistic momentum,,h,23.8.1.216
+Relativity,Relativistic momentum,,a,23.8.1.217
+Relativity,Relativistic momentum,,n,23.8.1.218
+Relativity,Relativistic momentum,, ,23.8.1.219
+Relativity,Relativistic momentum,,c,23.8.1.220
+Relativity,Relativistic momentum,,.,23.8.1.221
+Relativity,Relativistic energy,,Explain how the work-energy theorem leads to an expression for the relativistic kinetic energy of an object.,23.9.1.0
+Relativity,Relativistic energy,,"Show how the relativistic energy relates to the classical kinetic energy, and sets a limit on the speed of any object with mass.",23.9.1.1
+Relativity,Relativistic energy,,Describe how the total energy of a particle is related to its mass and velocity.,23.9.1.2
+Relativity,Relativistic energy,,"Explain how relativity relates to energy-mass equivalence, and some of the practical implications of energy-mass equivalence.",23.9.1.3
+Quantum mechanics,Topic outcome,,Paste un-numbered outcome here,24.1.1.0
+Quantum mechanics,Topic outcome,,Paste un-numbered outcome here,24.1.1.1
+Quantum mechanics,Wave function,,Describe the statistical interpretation of the wave function.,24.2.1.0
+Quantum mechanics,Wave function,,Use the wave function to determine probabilities.,24.2.1.1
+Quantum mechanics,Wave function,,"Calculate expectation values of position, momentum, and kinetic energy.",24.2.1.2
+Quantum mechanics,Heisenberg uncertainty principle,,Describe the physical meaning of the position-momentum uncertainty relation.,24.3.1.0
+Quantum mechanics,Heisenberg uncertainty principle,,Explain the origins of the uncertainty principle in quantum theory.,24.3.1.1
+Quantum mechanics,Heisenberg uncertainty principle,,Describe the physical meaning of the energy-time uncertainty relation.,24.3.1.2
+Quantum mechanics,Schrodinger equation,,Describe the role Schrӧdinger’s equation plays in quantum mechanics.,24.4.1.0
+Quantum mechanics,Schrodinger equation,,Explain the difference between time-dependent and -independent Schrӧdinger’s equations.,24.4.1.1
+Quantum mechanics,Schrodinger equation,,Interpret the solutions of Schrӧdinger’s equation.,24.4.1.2
+Quantum mechanics,Stationary states,Subtopic outcome,Describe how to set up a boundary-value problem for the stationary Schrӧdinger equation.,24.5.1.0
+Quantum mechanics,Stationary states,Subtopic outcome,Describe the physical meaning of stationary solutions to Schrӧdinger’s equation and the connection of these solutions with time-dependent quantum states.,24.5.1.1
+Quantum mechanics,Stationary states,Infinite square well,Explain why the energy of a quantum particle in a box is quantized.,24.5.2.0
+Quantum mechanics,Stationary states,Infinite square well,Explain the physical meaning of Bohr’s correspondence principle.,24.5.2.1
+Quantum mechanics,Stationary states,Harmonic oscillator,Describe the model of the quantum harmonic oscillator.,24.5.3.0
+Quantum mechanics,Stationary states,Harmonic oscillator,Identify differences between the classical and quantum models of the harmonic oscillator.,24.5.3.1
+Quantum mechanics,Stationary states,Harmonic oscillator,Explain physical situations where the classical and the quantum models coincide.,24.5.3.2
+Quantum mechanics,Quantum tunneling,,Describe how a quantum particle may tunnel across a potential barrier,24.6.1.0
+Quantum mechanics,Quantum tunneling,,Identify important physical parameters that affect the tunneling probability,24.6.1.1
+Quantum mechanics,Quantum tunneling,,Identify the physical phenomena where quantum tunneling is observed,24.6.1.2
+Quantum mechanics,Quantum tunneling,,Explain how quantum tunneling is utilized in modern technologies,24.6.1.3
