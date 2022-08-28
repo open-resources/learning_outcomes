@@ -825,6 +825,36 @@ Waves:
     The Doppler Effect:
         - Explain the change in observed frequency as a moving source of sound approaches or departs from a stationary observer.{668}
         - Explain the change in observed frequency as an observer moves toward or away from a stationary source of sound.{669} 
+    Photons:
+        Subtopic outcome:
+            - Paste un-numbered outcome here
+            - Paste un-numbered outcome here 
+        Blackbody radiation:
+            - Apply Wien’s and Stefan’s laws to analyze radiation emitted by a blackbody.
+            - Explain Planck’s hypothesis of energy quanta.
+        Photoelectric effect:
+            - Describe physical characteristics of the photoelectric effect.
+            - Explain why the photoelectric effect cannot be explained by classical physics.
+            - Describe how Einstein’s idea of a particle of radiation explains the photoelectric effect.
+        Compton effect:
+            - Describe Compton’s experiment.
+            - Explain the Compton wavelength shift.
+            - Describe how experiments with X-rays confirm the particle nature of radiation.
+        Bohr's atomic model:
+            - Explain the difference between the absorption spectrum and the emission spectrum of radiation emitted by atoms.
+            - Describe the Rutherford gold foil experiment and the discovery of the atomic nucleus.
+            - Explain the atomic structure of hydrogen.
+            - Describe the postulates of the early quantum theory for the hydrogen atom.
+            - Summarize how Bohr’s quantum model of the hydrogen atom explains the radiation spectrum of atomic hydrogen.
+        De Broglie’s matter waves:
+            - Describe de Broglie’s hypothesis of matter waves.
+            - Explain how the de Broglie’s hypothesis gives the rationale for the quantization of angular momentum in Bohr’s quantum theory of the hydrogen atom.
+            - Describe the Davisson–Germer experiment.
+            - Interpret de Broglie’s idea of matter waves and how they account for electron diffraction phenomena.
+        Wave-particle duality:
+            - Identify phenomena in which electromagnetic waves behave like a beam of photons and particles behave like waves.
+            - Describe the physics principles behind electron microscopy.
+            - Summarize the evolution of scientific thought that led to the development of quantum mechanics.
 
 
 # Topic Break
@@ -1400,7 +1430,7 @@ Relativity:
         - Describe the theoretical and experimental issues that Einstein’s theory of special relativity addressed.
         - State the two postulates of the special theory of relativity.
     Simultaneity: 
-        - Show from Einstein postulates that two events measured as simultaneous in one inertial frame are not necessarily simultaneous in all inertial frames.
+        - Show from Einstein's postulates that two events measured as simultaneous in one inertial frame are not necessarily simultaneous in all inertial frames.
         - Describe how simultaneity is a relative concept for observers in different inertial frames in relative motion.
     Time dilation:
         - Explain how time intervals can be measured differently in different reference frames.
@@ -1424,7 +1454,7 @@ Relativity:
         - Derive an expression for the relativistic Doppler shift.
         - Apply the Doppler shift equations to real-world examples.
     Relativistic momentum:
-        = Define relativistic momentum in terms of mass and velocity.
+        - Define relativistic momentum in terms of mass and velocity.
         - Show how relativistic momentum relates to classical momentum.
         - Show how conservation of relativistic momentum limits objects with mass to speeds less than c.
     Relativistic energy:
@@ -1467,7 +1497,21 @@ Quantum mechanics:
         - Identify the physical phenomena where quantum tunneling is observed
         - Explain how quantum tunneling is utilized in modern technologies
         
-
+# Topic Break
+        
+Atomic structure:
+    Topic outcome:
+        - Paste un-numbered outcome here
+        - Paste un-numbered outcome here 
+    Hydrogen atom:
+        - Describe the hydrogen atom in terms of wave function, probability density, total energy, and orbital angular momentum.
+        - Identify the physical significance of each of the quantum numbers (n,l,m) of the hydrogen atom.
+        - Distinguish between the Bohr and Schrödinger models of the atom.
+        - Use quantum numbers to calculate important information about the hydrogen atom.
+    Magnetic dipole moment:
+        - Explain why the hydrogen atom has magnetic properties.
+        - Explain why the energy levels of a hydrogen atom associated with orbital angular momentum are split by an external magnetic field.
+        - Use quantum numbers to calculate the magnitude and direction of the orbital magnetic dipole moment of a hydrogen atom.
 
         
             
