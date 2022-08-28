@@ -1013,3 +1013,48 @@ Atomic structure,Hydrogen atom,,Use quantum numbers to calculate important infor
 Atomic structure,Magnetic dipole moment,,Explain why the hydrogen atom has magnetic properties.,25.3.1.0
 Atomic structure,Magnetic dipole moment,,Explain why the energy levels of a hydrogen atom associated with orbital angular momentum are split by an external magnetic field.,25.3.1.1
 Atomic structure,Magnetic dipole moment,,Use quantum numbers to calculate the magnitude and direction of the orbital magnetic dipole moment of a hydrogen atom.,25.3.1.2
+Atomic structure,Electron spin,,Express the state of an electron in a hydrogen atom in terms of five quantum numbers.,25.4.1.0
+Atomic structure,Electron spin,,Use quantum numbers to calculate the magnitude and direction of the spin and magnetic moment of an electron.,25.4.1.1
+Atomic structure,Electron spin,,Explain the fine and hyperfine structure of the hydrogen spectrum in terms of magnetic interactions inside the hydrogen atom.,25.4.1.2
+Atomic structure,Exclusion principle,,Explain the importance of Pauli’s exclusion principle to an understanding of atomic structure and molecular bonding.,25.5.1.0
+Atomic structure,Periodic table,,"Explain the structure of the periodic table in terms of the total energy, orbital angular momentum, and spin of individual electrons in an atom.",25.6.1.0
+Atomic structure,Periodic table,,Describe the electron configuration of atoms in the periodic table.,25.6.1.1
+Atomic structure,Lasers,,Describe the physical processes necessary to produce laser light.,25.7.1.0
+Atomic structure,Lasers,,Explain the difference between coherent and incoherent light.,25.7.1.1
+Atomic structure,Lasers,,Describe the application of lasers to a CD and Blu-Ray player.,25.7.1.2
+Atomic structure,Atomic spectra,,Describe the absorption and emission of radiation in terms of atomic energy levels and energy differences.,25.8.1.0
+Atomic structure,Atomic spectra,,"Use quantum numbers to estimate the energy, frequency, and wavelength of photons produced by atomic transitions in multi-electron atoms.",25.8.1.1
+Atomic structure,Atomic spectra,,Explain radiation concepts in the context of atomic fluorescence and X-rays.,25.8.1.2
+Condensed matter physics,Topic outcome,,Paste un-numbered outcome here,26.1.1.0
+Condensed matter physics,Topic outcome,,Paste un-numbered outcome here,26.1.1.1
+Condensed matter physics,Molecular bonds,,Distinguish between the different types of molecular bonds.,26.2.1.0
+Condensed matter physics,Molecular bonds,,"Determine the dissociation energy of a molecule using the concepts ionization energy, electron affinity, and Coulomb force.",26.2.1.1
+Condensed matter physics,Molecular bonds,,Describe covalent bonding in terms of exchange symmetry.,26.2.1.2
+Condensed matter physics,Molecular bonds,,Explain the physical structure of a molecule in terms of the concept of hybridization.,26.2.1.3
+Condensed matter physics,Molecular spectra,,Use the concepts of vibrational and rotational energy to describe energy transitions in a diatomic molecule.,26.3.1.0
+Condensed matter physics,Molecular spectra,,Explain key features of a vibrational-rotational energy spectrum of a diatomic molecule.,26.3.1.1
+Condensed matter physics,Molecular spectra,,Estimate allowed energies of a rotating molecule.,26.3.1.2
+Condensed matter physics,Molecular spectra,,Determine the equilibrium separation distance between atoms in a diatomic molecule from the vibrational-rotational absorption spectrum.,26.3.1.3
+Condensed matter physics,Bonding in crystalline solids,,Describe the packing structures of common solids.,26.4.1.0
+Condensed matter physics,Bonding in crystalline solids,,Explain the difference between bonding in a solid and in a molecule.,26.4.1.1
+Condensed matter physics,Bonding in crystalline solids,,Determine the equilibrium separation distance given crystal properties.,26.4.1.2
+Condensed matter physics,Bonding in crystalline solids,,Determine the dissociation energy of a salt given crystal properties.,26.4.1.3
+Condensed matter physics,Free electron model of metals,,Describe the classical free electron model of metals in terms of the concept electron number density.,26.5.1.0
+Condensed matter physics,Free electron model of metals,,Explain the quantum free-electron model of metals in terms of Pauli’s exclusion principle.,26.5.1.1
+Condensed matter physics,Free electron model of metals,,Calculate the energy levels and energy-level spacing of a free electron in a metal.,26.5.1.2
+Condensed matter physics,Band theory of solids,,Describe two main approaches to determining the energy levels of an electron in a crystal.,26.6.1.0
+Condensed matter physics,Band theory of solids,,Explain the presence of energy bands and gaps in the energy structure of a crystal.,26.6.1.1
+Condensed matter physics,Band theory of solids,,Explain why some materials are good conductors and others are good insulators.,26.6.1.2
+Condensed matter physics,Band theory of solids,,Differentiate between an insulator and a semiconductor.,26.6.1.3
+Condensed matter physics,Semiconductors,Subtopic outcome,Distinguish between an n-type and p-type semiconductor.,26.7.1.0
+Condensed matter physics,Semiconductors,Subtopic outcome,Describe the Hall effect and explain its significance.,26.7.1.1
+Condensed matter physics,Semiconductors,Subtopic outcome,"Calculate the charge, drift velocity, and charge carrier number density of a semiconductor using information from a Hall effect experiment.",26.7.1.2
+Condensed matter physics,Semiconductors,Doping,Describe changes to the energy structure of a semiconductor due to doping.,26.7.2.0
+Condensed matter physics,Semiconductors,Semiconductor devices,Describe what occurs when n- and p-type materials are joined together using the concept of diffusion and drift current (zero applied voltage).,26.7.3.0
+Condensed matter physics,Semiconductors,Semiconductor devices,Explain the response of a p-n junction to a forward and reverse bias voltage.,26.7.3.1
+Condensed matter physics,Semiconductors,Semiconductor devices,Describe the function of a transistor in an electric circuit.,26.7.3.2
+Condensed matter physics,Semiconductors,Semiconductor devices,Use the concept of a p-n junction to explain its applications in audio amplifiers and computers.,26.7.3.3
+Condensed matter physics,Superconductivity,,Describe the main features of a superconductor.,26.8.1.0
+Condensed matter physics,Superconductivity,,Describe the BCS theory of superconductivity.,26.8.1.1
+Condensed matter physics,Superconductivity,,Determine the critical magnetic field for T = 0 K from magnetic field data.,26.8.1.2
+Condensed matter physics,Superconductivity,,Calculate the maximum emf or current for a wire to remain superconducting.,26.8.1.3
