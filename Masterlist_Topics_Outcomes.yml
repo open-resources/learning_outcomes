@@ -1512,12 +1512,68 @@ Atomic structure:
         - Explain why the hydrogen atom has magnetic properties.
         - Explain why the energy levels of a hydrogen atom associated with orbital angular momentum are split by an external magnetic field.
         - Use quantum numbers to calculate the magnitude and direction of the orbital magnetic dipole moment of a hydrogen atom.
-
-        
-            
-
-       
+    Electron spin:
+        - Express the state of an electron in a hydrogen atom in terms of five quantum numbers.
+        - Use quantum numbers to calculate the magnitude and direction of the spin and magnetic moment of an electron.
+        - Explain the fine and hyperfine structure of the hydrogen spectrum in terms of magnetic interactions inside the hydrogen atom.
+    Exclusion principle:
+        - Explain the importance of Pauli’s exclusion principle to an understanding of atomic structure and molecular bonding.
+    Periodic table:
+        - Explain the structure of the periodic table in terms of the total energy, orbital angular momentum, and spin of individual electrons in an atom.
+        - Describe the electron configuration of atoms in the periodic table.
+    Lasers:
+        - Describe the physical processes necessary to produce laser light.
+        - Explain the difference between coherent and incoherent light.
+        - Describe the application of lasers to a CD and Blu-Ray player.
+    Atomic spectra:
+        - Describe the absorption and emission of radiation in terms of atomic energy levels and energy differences.
+        - Use quantum numbers to estimate the energy, frequency, and wavelength of photons produced by atomic transitions in multi-electron atoms.
+        - Explain radiation concepts in the context of atomic fluorescence and X-rays.
     
 
-
-
+# Topic Break
+Condensed matter physics:
+    Topic outcome:
+        - Paste un-numbered outcome here
+        - Paste un-numbered outcome here 
+    Molecular bonds:
+        - Distinguish between the different types of molecular bonds.
+        - Determine the dissociation energy of a molecule using the concepts ionization energy, electron affinity, and Coulomb force.
+        - Describe covalent bonding in terms of exchange symmetry.
+        - Explain the physical structure of a molecule in terms of the concept of hybridization.
+    Molecular spectra:
+        - Use the concepts of vibrational and rotational energy to describe energy transitions in a diatomic molecule.
+        - Explain key features of a vibrational-rotational energy spectrum of a diatomic molecule.
+        - Estimate allowed energies of a rotating molecule.
+        - Determine the equilibrium separation distance between atoms in a diatomic molecule from the vibrational-rotational absorption spectrum.
+    Bonding in crystalline solids:
+        - Describe the packing structures of common solids. 
+        - Explain the difference between bonding in a solid and in a molecule.
+        - Determine the equilibrium separation distance given crystal properties.
+        - Determine the dissociation energy of a salt given crystal properties.
+    Free electron model of metals:
+        - Describe the classical free electron model of metals in terms of the concept electron number density.
+        - Explain the quantum free-electron model of metals in terms of Pauli’s exclusion principle.
+        - Calculate the energy levels and energy-level spacing of a free electron in a metal.
+    Band theory of solids:
+        - Describe two main approaches to determining the energy levels of an electron in a crystal.
+        - Explain the presence of energy bands and gaps in the energy structure of a crystal.
+        - Explain why some materials are good conductors and others are good insulators.
+        - Differentiate between an insulator and a semiconductor.
+    Semiconductors:
+        Subtopic outcome:
+            - Distinguish between an n-type and p-type semiconductor.
+            - Describe the Hall effect and explain its significance.
+            - Calculate the charge, drift velocity, and charge carrier number density of a semiconductor using information from a Hall effect experiment.
+        Doping:
+            - Describe changes to the energy structure of a semiconductor due to doping.
+        Semiconductor devices:
+            - Describe what occurs when n- and p-type materials are joined together using the concept of diffusion and drift current (zero applied voltage).
+            - Explain the response of a p-n junction to a forward and reverse bias voltage.
+            - Describe the function of a transistor in an electric circuit.
+            - Use the concept of a p-n junction to explain its applications in audio amplifiers and computers.
+    Superconductivity:
+        - Describe the main features of a superconductor.
+        - Describe the BCS theory of superconductivity.
+        - Determine the critical magnetic field for T = 0 K from magnetic field data.
+        - Calculate the maximum emf or current for a wire to remain superconducting.
