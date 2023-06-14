@@ -49,5 +49,5 @@ for chapter_name, outcomes in chapter_learning_outcomes.items():
     print(chapter_name)
     print("-" * len(chapter_name))
     for index, outcome in enumerate(outcomes, start=1):
-        print(f"Learning Outcome {index}: {outcome.strip()}")
+        print(f"- {outcome.strip()}")
     print()
