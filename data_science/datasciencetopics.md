@@ -9,7 +9,8 @@
 ### Git and GitHub
 - Cloning Repositories
 - Version Control
-- Branching, pull requests, working with a team
+- Branching & merging
+- Pull requests & working with a team
 
 ### Markdown
 - Intro to basic syntax (i.e. headings, lists, code blocks, embedding links and images)
