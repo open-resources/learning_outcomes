@@ -1,0 +1,204 @@
+Introduction to Data:
+    Topic Outcome:
+        - Identify variables as numerical and categorical.
+        - Define associated variables as variables that show some relationship with one another. Further categorize this relationship as positive or negative association, when possible.
+        - Define variables that are not associated as independent.
+        - Identify the explanatory variable in a pair of variables as the variable suspected of affecting the other. However, note that labeling variables as explanatory and response does not guarantee that the relationship between the two is actually causal, even if there is an association identified between the two variables.
+        - Classify a study as observational or experimental, and determine and explain why whether the study's results can be generalized to the population and whether they suggest correlation or causation between the variables studied.
+        - Question confounding variables and sources of bias in a given study.
+        - Distinguish between simple random, stratified, cluster, and multistage sampling, and recognize the benefits and drawbacks of choosing one sampling scheme over another.
+        - Identify the four principles of experimental design and recognize their purposes control any possible confounders, randomize into treatment and control groups, replicate by using a sufficiently large sample or repeating the experiment, and block any variables that might influence the response.
+        - Identify if single or double blinding has been used in a study.
+
+# Topic Break
+
+Summarizing Data:
+    Topic Outcome:
+        - Use scatterplots for describing the relationship between two numerical variables making sure to note the direction (positive or negative), form (linear or non-linear) and the strength of the relationship as well as any unusual observations that stand out.
+        - When describing the distribution of a numerical variable, mention its shape, center, and spread, as well as any unusual observations.
+        - Note that there are three commonly used measures of center and spread.
+        - Identify the shape of a distribution as symmetric, right skewed, or left skewed, and unimodal, bimodal, multimodal, or uniform.
+        - Use histograms and box plots to visualize the shape, center, and spread of numerical distributions, and intensity maps for visualizing the spatial distribution of the data.
+        - Define a robust statistic (e.g. median, IQR) as measures that are not heavily affected by skewness and extreme outliers, and determine when they are more appropriate measured of center and spread compared to other similar statistics.
+        - Recognize when transformations (e.g. log) can make the distribution of data more symmetric, and hence easier to model.
+        - Use frequency tables and bar plots to describe the distribution of one categorical variable.
+        - Use contingency tables and segmented bar plots or mosaic plots to assess the relationship between two categorical variables.
+        - Use side-by-side box plots for assessing the relationship between a numerical and a categorical variable.
+        - Note that an observed difference in sample statistics suggesting dependence between variables may be due to random chance, and that we need to use hypothesis testing to determine if this difference is too large to be attributed to random chance.
+        - Set up null and alternative hypotheses for testing for independence between variables, and evaluate data's support for these hypotheses using a simulation technique.
+
+# Topic Break
+
+Probability:
+    Topic Outcome:
+        - Define trial, outcome, and sample space.
+        - Explain why the long-run relative frequency of repeated independent events settle down to the true probability as the number of trials increases, i.e. why the law of large numbers holds.
+        - Distinguish disjoint (also called mutually exclusive) and independent events.
+        - Draw Venn diagrams representing events and their probabilities.
+        - Define a probability distribution as a list of the possible outcomes with corresponding probabilities that satisfies three rules; the outcomes listed must be disjoint, each probability must be between 0 and 1, inclusive and the probabilities must total 1.
+        - Define complementary outcomes as mutually exclusive outcomes of the same random process whose probabilities add up to 1.
+        - Distinguish between union of events (A or B) and intersection of events (A and B).
+        - Calculate the probability of union of events using the (general) addition rule.
+        - Distinguish marginal and conditional probabilities.
+        - Calculate the probability of intersection of independent events using the multiplication rule.
+        - Construct tree diagrams to calculate conditional probabilities and probabilities of intersection of non-independent events using Bayes' theorem.
+        - Sampling without replacement from a small population means we no longer have independence between our observations.
+        - A random variable is a random process or variable with a numerical outcome. Modeling a process using a random variable allows us to apply a mathematical framework and statistical principles for better understanding and predicting outcomes in the real world.
+        - We use measures of center and spread to define distributions of random variables.
+        - Expected value and variance of a discrete random variable, X, can be calculated.
+        - Standard deviation is the square root of variance. We use standard deviation also as a measure of the variability of the random variable. Standard deviation is often easier to interpret since it's in the same units of the random variable.
+        - Linear combinations of random variables.
+        - Probability density functions represent the distributions of continuous random variables.
+
+# Topic Break
+
+Distributions of random variables:
+    Topic Outcome:
+        - Define the standardized (Z) score of a data point as the number of standard deviations it is away from the mean.
+        - Use the Z score
+        - Depending on the shape of the distribution determine whether the median would have a negative, positive, or 0 Z score.
+        - Assess whether or not a distribution is nearly normal using the 68-95-99.7\% rule or graphical methods such as a normal probability plot.
+        - If X is a random variable that takes the value 1 with probability of success p and 0 with probability of success 1-p, then X is a Bernoulli random variable.
+        - The geometric distribution is used to describe how many trials it takes to observe a success.
+        - Define the probability of finding the first success in the $n^{th}$ trial as $(1-p)^{n-1}p$.
+        - Determine if a random variable is binomial using the four conditions; the trials are independent, the number of trials n is fixed, each trial outcome can be classified as a success or failure and the probability of a success p is the same for each trial.
+        - Calculate the number of possible scenarios for obtaining $k$ successes in $n$ trials using the choose function ${n \choose k} = \frac{n!}{k!~(n - k)!}$.
+        - Calculate probability of a given number of successes in a given number of trials using the binomial distribution $P(k = K) = \frac{n!}{k!~(n - k)!}~p^k~(1-p)^{(n - k)}$.
+        - Calculate the expected number of successes in a given number of binomial trials $(\mu = np)$ and its standard deviation $(\sigma = \sqrt{np(1-p)})$.
+        - When number of trials is sufficiently large ($np \ge 10$ and $n(1-p) \ge 10$), use normal approximation to calculate binomial probabilities, and explain why this approach works.
+
+# Topic Break
+
+Foundations for inference:
+    Topic Outcome:
+        - Define sample statistic as a point estimate for a population parameter, for example, the sample proportion is used to estimate the population proportion, and note that point estimate and sample statistic are synonymous.
+        - Recognize that point estimates (such as the sample proportion) will vary from one sample to another, and define this variability as sampling variation.
+        - Calculate the sampling variability of the proportion, the standard error, as $SE = \sqrt{\frac{p(1-p)}{n}}$, where $p$ is the population proportion.
+        - Standard error measures the variability in point estimates from different samples of the same size and from the same population, i.e. measures the sampling variability.
+        - Recognize that when the sample size increases we would expect the sampling variability to decrease.
+        - Notice that sampling distributions of point estimates coming from samples that don't meet the required conditions for the CLT (about sample size and independence) will not be normal.
+        - Define a confidence interval as the plausible range of values for a population parameter.
+        - Define the confidence level as the percentage of random samples which yield confidence intervals that capture the true population parameter.
+        - Calculate an approximate 95\% confidence interval by adding and subtracting 2 standard errors to the point estimate; $point~estimate \pm 2 \times SE$.
+        - Recognize that the Central Limit Theorem (CLT) is about the distribution of point estimates, and that given certain conditions, this distribution will be nearly normal.
+        - Recall that independence of observations in a sample is provided by random sampling (in the case of observational studies) or random assignment (in the case of experiments).
+        - Recognize that the nearly normal distribution of the point estimate (as suggested by the CLT) implies that a more precise confidence interval can be calculated as $point~estimate \pm z^{\star} \times SE$, where $z^{\star}$ corresponds to the cutoff points in the standard normal distribution to capture the middle XX\% of the data, where XX\% is the desired confidence level.
+        - Define margin of error as the distance required to travel in either direction away from the point estimate when constructing a confidence interval, i.e. $z^{\star} \times SE$.
+        - Interpret a confidence interval as ``We are XX\% confident that the true population parameter is in this interval", where XX\% is the desired confidence level.
+        - Explain how the hypothesis testing framework resembles a court trial.
+        - Recognize that in hypothesis testing we evaluate two competing claims, the null and alternative hypothesis.
+        - Construction of hypotheses.
+        - Define a p-value as the conditional probability of obtaining a sample statistic at least as extreme as the one observed given that the null hypothesis is true.
+        - Calculate a p-value as the area under the normal curve beyond the observed sample proportion (either in one tail or both, depending on the alternative hypothesis).
+        - Infer that if a confidence interval does not contain the null value the null hypothesis should be rejected in favor of the alternative.
+        - Compare the p-value to the significance level to make a decision between the hypotheses.
+        - Note that the conclusion of a hypothesis test might be erroneous regardless of the decision we make.
+        - Choose a significance level depending on the risks associated with Type 1 and Type 2 errors.
+        - Formulate the framework for statistical inference using hypothesis testing and nearly normal point estimates.
+        - If the conditions necessary for the CLT to hold are not met, note this and do not go forward with the analysis. (We will later learn about methods to use in these situations.)
+        - Distinguish statistical significance vs. practical significance.
+
+# Topic Break
+
+Inference for categorical data:
+    Topic Outcome:
+        - Define population proportion $p$ (parameter) and sample proportion $\hat{p}$ (point estimate).
+        - Calculate the sampling variability of the proportion, the standard error.
+        - Recognize that the Central Limit Theorem (CLT) is about the distribution of point estimates, and that given certain conditions, this distribution will be nearly normal.
+        - Note that if the CLT doesn't apply and the sample proportion is low (close to 0) the sampling distribution will likely be right skewed, if the sample proportion is high (close to 1) the sampling distribution will likely be left skewed.
+        - Remember how confidence intervals and test statistics are calculated.
+        - Note that the standard error calculation for the confidence interval and the hypothesis test are different when dealing with proportions, since in the hypothesis test we need to assume that the null hypothesis is true -- remember; p-value = P(observed or more extreme test statistic $|$ $H_0$ true).
+        - Calculate the required minimum sample size for a given margin of error at a given confidence level, and explain why we use $\hat{p} = 0.5$ if there are no previous studies suggesting a more accurate estimate.
+        - Note that the calculation of the standard error of the distribution of the difference in two independent sample proportions is different for a confidence interval and a hypothesis test.
+        - Note that the reason for the difference in calculations of standard error is the same as in the case of the single proportion; when the null hypothesis claims that the two population proportions are equal, we need to take that into consideration when calculating the standard error for the hypothesis test, and use a common proportion for both samples.
+        - Use a chi-square test of goodness of fit to evaluate if the distribution of levels of a single categorical variable follows a hypothesized distribution.
+        - Calculate the expected counts for a given level (cell) in a one-way table as the sample size times the hypothesized proportion for that level.
+        - Calculate the chi-square test statistic. 
+        - Note that the chi-square distribution is right skewed with one parameter; degrees of freedom. In the case of a goodness of fit test, $df = \# \text{of categories} - 1$.
+        - List the conditions necessary for performing a chi-square test (goodness of fit or independence).
+        - Describe how to use the chi-square table to obtain a p-value.
+        - When evaluating the independence of two categorical variables where at least one has more than two levels, use a chi-square test of independence.
+        - Calculate expected counts in two-way tables.
+        - Calculate the degrees of freedom for chi-square test of independence as $df = (R - 1) \times (C - 1)$, where $R$ is the number of rows in a two-way table, and $C$ is the number of columns.
+        - Note that there is no such thing as a chi-square confidence interval for proportions, since in the case of a categorical variables with many levels, there isn't one parameter to estimate.
+        - Use simulation methods when sample size conditions aren't met for inference for categorical variables.
+        - In hypothesis testing; for one categorical variable, generate simulated samples based on the null hypothesis, and then calculate the number of samples that are at least as extreme as the observed data. For two categorical variables, use a randomization test.
+        - Use bootstrap methods for confidence intervals for categorical variables with at most two levels.
+        
+# Topic Break
+
+Inference for numerical data:
+    Topic Outcome:
+        - Use the $t$-distribution for inference on a single mean, difference of paired (dependent) means, and difference of independent means.
+        - Explain why the $t$-distribution helps make up for the additional variability introduced by using $s$ (sample standard deviation) in calculation of the standard error, in place of $\sigma$ (population standard deviation).
+        - Describe how the $t$-distribution is different from the normal distribution, and what ?heavy tail? means in this context.
+        - Note that the $t$-distribution has a single parameter, degrees of freedom, and as the degrees of freedom increases this distribution approaches the normal distribution.
+        - Use a $t$-statistic, with degrees of freedom $df = n - 1$ for inference for a population mean.
+        - Describe how to obtain a p-value for a $t$-test and a critical $t$-score ($t^\star_{df}$) for a confidence interval.
+        - Define observations as paired if each observation in one dataset has a special correspondence or connection with exactly one observation in the other data set.
+        - Carry out inference for paired data by first subtracting the paired observations from each other, and then treating the set of differences as a new numerical variable on which to do inference (such as a confidence interval or hypothesis test for the average difference).
+        - Calculate the standard error of the difference between means of two paired (dependent) samples as $SE = \frac{s_{diff}}{\sqrt{n_{diff}}}$ and use this standard error in hypothesis testing and confidence intervals comparing means of paired (dependent) groups.
+        - Use a $t$-statistic, with degrees of freedom $df = n_{diff} - 1$ for inference for a population mean.
+        - Recognize that a good interpretation of a confidence interval for the difference between two parameters includes a comparative statement (mentioning which group has the larger parameter).
+        - Recognize that a confidence interval for the difference between two parameters that doesn't include 0 is in agreement with a hypothesis test where the null hypothesis that sets the two parameters equal to each other is rejected.
+        - Calculate the standard error of the difference between means of two independent samples as $SE = \sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}$, and use this standard error in hypothesis testing and confidence intervals comparing means of independent groups.
+        - Use a $t$-statistic, with degrees of freedom $df = min(n_1 - 1, n_2 - 1)$ for inference for a population mean.
+        - Calculate the power of a test for a given effect size and significance level in two steps; (1) Find the cutoff for the sample statistic that will allow the null hypothesis to be rejected at the given significance level, (2) Calculate the probability of obtaining that sample statistic given the effect size.
+        - Explain how power changes for changes in effect size, sample size, significance level, and standard error.
+        - Define analysis of variance (ANOVA) as a statistical inference method that is used to determine if the variability in the sample means is so large that it seems unlikely to be from chance alone by simultaneously considering many groups at once.
+        - Recognize that the null hypothesis in ANOVA sets all means equal to each other, and the alternative hypothesis suggest that at least one mean is different.
+        - List the conditions necessary for performing ANOVA and check if they are met using graphical diagnostics.
+        - Recognize that the test statistic for ANOVA, the F statistic, is calculated as the ratio of the mean square between groups (MSG, variability between groups) and mean square error (MSE, variability within errors), and has two degrees of freedom, one for the numerator ($df_{G} = k - 1$, where $k$ is the number of groups) and one for the denominator ($df_{E} = n - k$, where $n$ is the total sample size).
+        - Describe why calculation of the p-value for ANOVA is always ``one sided".
+        - Describe why conducting many $t$-tests for differences between each pair of means leads to an increased Type 1 Error rate, and we use a corrected significance level (Bonferroni correction, $\alpha^\star = \alpha / K$, where $K$ is the e number of comparisons being considered) to combat inflating this error rate.
+        - Describe why it is possible to reject the null hypothesis in ANOVA but not find significant differences between groups as a result of pairwise comparisons.
+
+# Topic Break
+
+Introduction to linear regression:
+    Topic Outcome:
+        - Define the explanatory variable as the independent variable (predictor), and the response variable as the dependent variable (predicted).
+        - Plot the explanatory variable ($x$) on the x-axis and the response variable ($y$) on the y-axis, and fit a linear regression model.
+        - When describing the association between two numerical variables, evaluate direction, form and strength. 
+        - Define correlation as the linear association between two numerical variables.
+        - Note the correlation coefficient ($r$, also called Pearson's $r$) and its following properties.
+        - Recall that correlation does not imply causation.
+        - Define residual ($e$) as the difference between the observed ($y$) and predicted ($\hat{y}$) values of the response variable.
+        - Define the least squares line as the line that minimizes the sum of the squared residuals, and list conditions necessary for fitting such line; linearity, nearly normal residuals and constant variability.
+        - Define an indicator variable as a binary explanatory variable (with two levels).
+        - Calculate the estimate for the slope ($b_1$).
+        - Interpret the slope.
+        - Note that the least squares line always passes through the average of the response and explanatory variables ($\bar{x},\bar{y}$).
+        - Use the above property to calculate the estimate for the slope ($b_0$) as $b_0 = \bar{y} - b_1 \bar{x}$, where $b_1$ is the slope, $\bar{y}$ is the average of the response variable, and $\bar{x}$ is the average of explanatory variable.
+        - Interpret the intercept. 
+        - Predict the value of the response variable for a given value of the explanatory variable, $x^\star$, by plugging in $x^\star$ in the linear model.
+        - Define $R^2$ as the percentage of the variability in the response variable explained by the the explanatory variable.
+        - Define a leverage point as a point that lies away from the center of the data in the horizontal direction.
+        - Define an influential point as a point that influences (changes) the slope of the regression line.
+        - Do not remove outliers from an analysis without good reason.
+        - Be cautious about using a categorical explanatory variable when one of the levels has very few observations, as these may act as influential points.
+        - Determine whether an explanatory variable is a significant predictor for the response variable using the $t$-test and the associated p-value in the regression output.
+        - Set the null hypothesis testing for the significance of the predictor as $H_0:\beta_1 = 0$, and recognize that the standard software output yields the p-value for the two-sided alternative hypothesis.
+        - Calculate the T score for the hypothesis test.
+        - Note that a hypothesis test for the intercept is often irrelevant since it's usually out of the range of the data, and hence it is usually an extrapolation.
+        - Calculate a confidence interval for the slope.
+
+# Topic Break
+
+Multiple and logistic regression:
+    Topic Outcome:
+        - Define the multiple linear regression model.
+        - Interpret the estimate for the intercept ($b_0$) as the expected value of $y$ when all predictors are equal to 0, on average.
+        - Interpret the estimate for a slope (say $b_1$) as ``All else held constant, for each unit increase in $x_1$, we would expect $y$ to increase/decrease on average by $b_1$."
+        - Define collinearity as a high correlation between two independent variables such that the two variables contribute redundant information to the model -- which is something we want to avoid in multiple linear regression.
+        - Note that $R^2$ will increase with each explanatory variable added to the model, regardless of whether or not the added variables is a meaningful predictor of the response variable. Therefore we use adjusted $R^2$, which applies a penalty for the number of predictors included in the model, to better assess the strength of a multiple linear regression model.
+        - Define model selection as identifying the best model for predicting a given response variable.
+        - Note that we usually prefer simpler (parsimonious) models over more complicated ones.
+        - Define the full model as the model with all explanatory variables included as predictors.
+        - Note that the p-values associated with each predictor are conditional on other variables being included in the model, so they can be used to assess if a given predictor is significant, given that all others are in the model.
+        - Stepwise model selection (backward or forward) can be done based based on adjusted $R^2$ (choose the model with higher adjusted $R^2$).
+        - The general idea behind backward-selection is to start with the full model and eliminate one variable at a time until the ideal model is reached.
+        - The general idea behind forward-selection is to start with only one variable and adding one variable at a time until the ideal model is reached.
+        - Adjusted $R^2$ method is more computationally intensive, but it is more reliable, since it doesn't depend on an arbitrary significant level.
+        - List the conditions for multiple linear regression as; (1) linear relationship between each (numerical) explanatory variable and the response - checked using scatterplots of $y$ vs. each $x$, and residuals plots of $residuals$ vs. each $x$, (2) nearly normal residuals with mean 0 - checked using a normal probability plot and histogram of residuals, (3) constant variability of residuals - checked using residuals plots of $residuals$ vs. $\hat{y}$, and $residuals$ vs. each $x$, (4) independence of residuals (and hence observations) - checked using a scatterplot of $residuals$ vs. order of data collection (will reveal non-independence if data have time series structure).
+        - Note that no model is perfect, but even imperfect models can be useful.
