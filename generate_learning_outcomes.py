@@ -4,18 +4,17 @@ import re
 # GitHub repository URL
 repo_url = "https://github.com/OpenIntroStat/openintro-statistics-learn-obj"
 
-# Directory numbers from 00 to 09 along with their corresponding chapter names
+# Directory numbers from 01 to 09 along with their corresponding chapter names
 directories = {
-    "00": "OpenIntro: Statistics",
-    "01": "Chapter 1: Introduction to Data",
-    "02": "Chapter 2: Summarizing Data",
-    "03": "Chapter 3: Probability",
-    "04": "Chapter 4: Distributions of random variables",
-    "05": "Chapter 5: Foundations for inference",
-    "06": "Chapter 6: Inference for categorical data",
-    "07": "Chapter 7: Inference for numerical data",
-    "08": "Chapter 8: Introduction to linear regression",
-    "09": "Chapter 9: Multiple and logistic regression"
+    "01": "Introduction to Data:",
+    "02": "Summarizing Data:",
+    "03": "Probability:",
+    "04": "Distributions of random variables:",
+    "05": "Foundations for inference:",
+    "06": "Inference for categorical data:",
+    "07": "Inference for numerical data:",
+    "08": "Introduction to linear regression:",
+    "09": "Multiple and logistic regression:"
 }
 
 # Regular expression pattern to extract learning outcomes
@@ -36,18 +35,28 @@ for directory, chapter_name in directories.items():
         # Extract learning outcomes using regular expression
         matches = re.findall(pattern, content)
         
+        # Exclude specific learning outcomes
+        filtered_outcomes = [outcome.strip() for outcome in matches if not (
+            outcome.startswith("[") or 
+            outcome.startswith("Test yourself:") or 
+            outcome.startswith("Reading:") or 
+            outcome.startswith("Article:")
+        )]
+        
         # Store chapter learning outcomes
-        chapter_learning_outcomes[chapter_name] = matches
+        chapter_learning_outcomes[chapter_name] = filtered_outcomes
     except urllib.error.HTTPError as e:
         print(f"Failed to retrieve file from URL: {file_url}")
         print(f"HTTP Error {e.code}: {e.reason}")
         print()
         continue
 
-# Print the extracted learning outcomes by chapter
+# Print the extracted learning outcomes by chapter in YAML-like format
 for chapter_name, outcomes in chapter_learning_outcomes.items():
-    print(chapter_name)
-    print("-" * len(chapter_name))
-    for index, outcome in enumerate(outcomes, start=1):
-        print(f"- {outcome.strip()}")
+    print(f"{chapter_name}")
+    print(f"  Topic Outcome:")
+    for outcome in outcomes:
+        if not (outcome.startswith("Test yourself:") or outcome.startswith("Reading:")):
+            print(f"    - {outcome}")
     print()
+
