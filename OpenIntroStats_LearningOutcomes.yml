@@ -1,4 +1,4 @@
-01 Introduction to Data:
+Introduction to Data:
     Topic Outcome:
         - Identify variables as numerical and categorical.
         - Define associated variables as variables that show some relationship with one another. Further categorize this relationship as positive or negative association, when possible.
@@ -12,7 +12,7 @@
 
 # Topic Break
 
-02 Summarizing Data:
+Summarizing Data:
     Topic Outcome:
         - Use scatterplots for describing the relationship between two numerical variables making sure to note the direction (positive or negative), form (linear or non-linear) and the strength of the relationship as well as any unusual observations that stand out.
         - When describing the distribution of a numerical variable, mention its shape, center, and spread, as well as any unusual observations.
@@ -29,7 +29,7 @@
 
 # Topic Break
 
-03 Probability:
+Probability:
     Topic Outcome:
         - Define trial, outcome, and sample space.
         - Explain why the long-run relative frequency of repeated independent events settle down to the true probability as the number of trials increases, i.e. why the law of large numbers holds.
@@ -52,7 +52,7 @@
 
 # Topic Break
 
-04 Distributions of random variables:
+Distributions of random variables:
     Topic Outcome:
         - Define the standardized (Z) score of a data point as the number of standard deviations it is away from the mean.
         - Use the Z score
@@ -69,7 +69,7 @@
 
 # Topic Break
 
-05 Foundations for inference:
+Foundations for inference:
     Topic Outcome:
         - Define sample statistic as a point estimate for a population parameter, for example, the sample proportion is used to estimate the population proportion, and note that point estimate and sample statistic are synonymous.
         - Recognize that point estimates (such as the sample proportion) will vary from one sample to another, and define this variability as sampling variation.
@@ -100,7 +100,7 @@
 
 # Topic Break
 
-06 Inference for categorical data:
+Inference for categorical data:
     Topic Outcome:
         - Define population proportion $p$ (parameter) and sample proportion $\hat{p}$ (point estimate).
         - Calculate the sampling variability of the proportion, the standard error.
@@ -127,7 +127,7 @@
         
 # Topic Break
 
-07 Inference for numerical data:
+Inference for numerical data:
     Topic Outcome:
         - Use the $t$-distribution for inference on a single mean, difference of paired (dependent) means, and difference of independent means.
         - Explain why the $t$-distribution helps make up for the additional variability introduced by using $s$ (sample standard deviation) in calculation of the standard error, in place of $\sigma$ (population standard deviation).
@@ -155,7 +155,7 @@
 
 # Topic Break
 
-08 Introduction to linear regression:
+Introduction to linear regression:
     Topic Outcome:
         - Define the explanatory variable as the independent variable (predictor), and the response variable as the dependent variable (predicted).
         - Plot the explanatory variable ($x$) on the x-axis and the response variable ($y$) on the y-axis, and fit a linear regression model.
@@ -185,7 +185,7 @@
 
 # Topic Break
 
-09 Multiple and logistic regression:
+Multiple and logistic regression:
     Topic Outcome:
         - Define the multiple linear regression model.
         - Interpret the estimate for the intercept ($b_0$) as the expected value of $y$ when all predictors are equal to 0, on average.
