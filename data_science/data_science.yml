@@ -1,56 +1,113 @@
-Terminal:
+File Systems:
+    Topic Outcome:
+        - Paste un-numbered outcome here
     Directories:
         - Paste un-numbered outcome here
-    Terminal commands:
+    Relative Paths:
+        - Paste un-numbered outcome here
+    Absolute Paths:
+        - Paste un-numbered outcome here
+    Converting between Relative and Absolute Paths:
+        - Paste un-numbered outcome here
+
+Terminal:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Commands:
         - Paste un-numbered outcome here
     Installation and setup:
         - Paste un-numbered outcome here
     Jupyter notebook:
         - Paste un-numbered outcome here
 
-Git and GitHub:
-    Cloning Repositories:
+Version Control:
+    Topic Outcome:
         - Paste un-numbered outcome here
-    Version Control:
+    Git:
         - Paste un-numbered outcome here
-    Branching & merging:
+    Repositories:
         - Paste un-numbered outcome here
-    Pull requests & working with a team:
+    Cloning:
+        - Paste un-numbered outcome here
+    GitHub:
+        - Paste un-numbered outcome here
+    Forking:
+        - Paste un-numbered outcome here
+    Branching:
+        - Paste un-numbered outcome here
+    Rebasing:
+        - Paste un-numbered outcome here
+    Pull requests:
+        - Paste un-numbered outcome here
+    Collaboration:
         - Paste un-numbered outcome here
 
 Markdown:
-    Intro to basic syntax (i.e. headings, lists, code blocks, embedding links and images):
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Formatting:
+        Headings:
+            - Paste un-numbered outcome here
+        Bold:
+            - Paste un-numbered outcome here
+        Italics:
+            - Paste un-numbered outcome here
+        Lists:
+            - Paste un-numbered outcome here
+        Code Blocks:
+            - Paste un-numbered outcome here
+        Code Fences:
+            - Paste un-numbered outcome here
+        Links:
+            - Paste un-numbered outcome here
+        Images:
+            - Paste un-numbered outcome here
+    Debugging:
         - Paste un-numbered outcome here
 
-Programming Concepts:
+## Start here
+
+Programming:
+    Topic Outcome:
+        - Paste un-numbered outcome here
     Iteration:
         - Paste un-numbered outcome here
-    Conditional Statements:
+    Conditionals:
         - Paste un-numbered outcome here
-    Sequences (Array, List):
+    Sequences:
         - Paste un-numbered outcome here
-    Data Types (Strings, numbers, logical):
+    Data Types:
         - Paste un-numbered outcome here
-
-Python 1 Intro to Python:
-    Integrating programming concepts:
+    Assignment:
         - Paste un-numbered outcome here
-    Dictionaries:
+    Variables:
         - Paste un-numbered outcome here
-    Lists:
+    Python: 
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Dictionaries:
+            - Paste un-numbered outcome here
+        Lists:
+            - Paste un-numbered outcome here
+        Arithmetic Operators:
+            - Paste un-numbered outcome here
+        Unary Operators:
+            - Paste un-numbered outcome here
+        Logical Operators:
+            - Paste un-numbered outcome here
+        Integrating python concepts:
+            - Paste un-numbered outcome here
+Functions:
+    Subtopic Outcome:
         - Paste un-numbered outcome here
-    Tables:
-        - Paste un-numbered outcome here
-    Operational and Logical Operands:
-        - Paste un-numbered outcome here
-
-Python 2 Functions:
     Writing functions:
         - Paste un-numbered outcome here
     Exception Handling:
         - Paste un-numbered outcome here
 
 Pandas and Seaborn:
+    Topic Outcome:
+        - Paste un-numbered outcome here
     Dataframes ( creation i.e. importing and starting from scratch, manipulation, merging, etc.):
         - Paste un-numbered outcome here
     Graph types and capabilities:
@@ -58,23 +115,43 @@ Pandas and Seaborn:
     Graph properties (i.e. data point size, colour, x and y labels, title, subheading, font size):
         - Paste un-numbered outcome here
 
+Data Analysis:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Pandas:
+        - Paste un-numbered outcome here
+    Exploratory Data Analysis:
+        - Paste un-numbered outcome here
 Excel:
+    Topic Outcome:
+        - Paste un-numbered outcome here
     Excel commands and functions:
         - Paste un-numbered outcome here
 
-Tableau:
-    Tableau capabilities:
+Data Visualization:
+    Tableau:
+    Topic Outcome:
         - Paste un-numbered outcome here
-    Creating effective dashboards:
-        - Paste un-numbered outcome here
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Tableau capabilities:
+            - Paste un-numbered outcome here
+        Creating effective dashboards:
+            - Paste un-numbered outcome here
+
+
+
 
 Data Visualization and Data Analysis:
-    Exploratory Data Analysis:
+    Topic Outcome:
         - Paste un-numbered outcome here
+
     Graph Types and uses for each one:
         - Paste un-numbered outcome here
 
 Statistics and Probability:
+    Topic Outcome:
+        - Paste un-numbered outcome here
     Estimation and Confidence Intervals:
         - Paste un-numbered outcome here
     Simulations:
@@ -93,6 +170,8 @@ Statistics and Probability:
         - Paste un-numbered outcome here
 
 R:
+    Topic Outcome:
+        - Paste un-numbered outcome here
     Lists:
         - Paste un-numbered outcome here
     Tables (Creating and manipulating rows/columns):
