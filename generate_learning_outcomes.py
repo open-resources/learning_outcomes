@@ -40,7 +40,10 @@ for directory, chapter_name in directories.items():
             outcome.startswith("[") or 
             outcome.startswith("Test yourself:") or 
             outcome.startswith("Reading:") or 
-            outcome.startswith("Article:")
+            outcome.startswith("Article:") or 
+            outcome.startswith("True/False") or 
+            outcome.startswith("True / False") or 
+            outcome.startswith("True/ False")
         )]
         
         # Store chapter learning outcomes
