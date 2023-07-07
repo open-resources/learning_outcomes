@@ -389,6 +389,7 @@ Rotational Motion,Rotational Energy,Moment of Inertia,"Calculate the moment of i
 Rotational Motion,Rotational Energy,Moment of Inertia,Calculate the moment of inertia for compound objects.{368},10.5.2.3
 Rotational Motion,Rotational Energy,Parallel-Axis Theorem,Apply the parallel axis theorem to find the moment of inertia about any axis parallel to one already known.{367},10.5.3.0
 Rotational Motion,Rotational Energy,Parallel-Axis Theorem,Paste un-numbered outcome here,10.5.3.1
+Rotational Motion,Center of Gravity,,Calculate the center of gravity of a given system.,10.6.1.0
 Rotational Dynamics,Topic Outcome,,Paste un-numbered outcome here,11.1.1.0
 Rotational Dynamics,Topic Outcome,,Paste un-numbered outcome here,11.1.1.1
 Rotational Dynamics,Newton's Second Law for Rotational Motion,,Calculate the torques on rotating systems about a fixed axis to find the angular acceleration.{378},11.2.1.0
