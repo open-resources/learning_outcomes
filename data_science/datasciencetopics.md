@@ -30,7 +30,7 @@
 
 ### Python 2 - Functions
 - Writing functions
-- Try-catch
+- Exception Handling
 
 ### Pandas and Seaborn
 - Dataframes ( creation i.e. importing and starting from scratch, manipulation, merging, etc.)
