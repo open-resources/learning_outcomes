@@ -1,0 +1,222 @@
+## Topic Break
+
+File Systems:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Directories:
+        - Paste un-numbered outcome here
+    Relative Paths:
+        - Paste un-numbered outcome here
+    Absolute Paths:
+        - Paste un-numbered outcome here
+    Converting between Relative and Absolute Paths:
+        - Paste un-numbered outcome here
+
+## Topic Break
+
+Ecosystems:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Jupyter:
+        - Paste un-numbered outcome here
+    Quarto:
+        - Paste un-numbered outcome here
+    RStudio:
+        - Paste un-numbered outcome here
+    Visual Studio Code:
+        - Paste un-numbered outcome here
+
+## Topic Break
+
+Terminal:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Commands:
+        - Paste un-numbered outcome here
+
+## Topic Break
+
+Version Control:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Git:
+        - Paste un-numbered outcome here
+    Repositories:
+        - Paste un-numbered outcome here
+    Cloning:
+        - Paste un-numbered outcome here
+    GitHub:
+        - Paste un-numbered outcome here
+    Forking:
+        - Paste un-numbered outcome here
+    Branching:
+        - Paste un-numbered outcome here
+    Rebasing:
+        - Paste un-numbered outcome here
+    Pull requests:
+        - Paste un-numbered outcome here
+    Collaboration:
+        - Paste un-numbered outcome here
+
+## Topic Break
+
+Markdown:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Formatting:
+        Headings:
+            - Paste un-numbered outcome here
+        Bold:
+            - Paste un-numbered outcome here
+        Italics:
+            - Paste un-numbered outcome here
+        Lists:
+            - Paste un-numbered outcome here
+        Code Blocks:
+            - Paste un-numbered outcome here
+        Code Fences:
+            - Paste un-numbered outcome here
+        Links:
+            - Paste un-numbered outcome here
+        Images:
+            - Paste un-numbered outcome here
+    Debugging:
+        - Paste un-numbered outcome here
+
+## Topic Break
+
+Programming:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Control Flow:
+        - Paste un-numbered outcome here
+    Assignment:
+        - Paste un-numbered outcome here
+    Python: 
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Variables:
+            - Paste un-numbered outcome here
+        Operators:
+            - Paste un-numbered outcome here
+        Arithmetic Operators:
+            - Paste un-numbered outcome here
+        Unary Operators:
+            - Paste un-numbered outcome here
+        Logical Operators:
+            - Paste un-numbered outcome here
+        Data Types:
+            - Paste un-numbered outcome here
+        Control Flow:
+            - if/else statements
+            - case/match statements
+            - for loops
+            - while loops
+            - do while loops
+            - Paste un-numbered outcome here
+            - Paste un-numbered outcome here
+        Dictionaries:
+            - Paste un-numbered outcome here
+        Lists:
+            - Paste un-numbered outcome here
+        Functions:
+            - Paste un-numbered outcome here
+        Integrating python concepts:
+            - Paste un-numbered outcome here
+        Debugging:
+            - Paste un-numbered outcome here
+    R:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Variables:
+            - Paste un-numbered outcome here
+        Operators:
+            - Paste un-numbered outcome here
+        Arithmetic Operators:
+            - Paste un-numbered outcome here
+        Unary Operators:
+            - Paste un-numbered outcome here
+        Logical Operators:
+            - Paste un-numbered outcome here
+        Data Types:
+            - Paste un-numbered outcome here
+        Control Flow:
+            - Paste un-numbered outcome here
+        Functions:
+            - Paste un-numbered outcome here
+        Exception Handling:
+            - Paste un-numbered outcome here
+        Integrating R concepts:
+            - Paste un-numbered outcome here
+        Debugging:
+            - Paste un-numbered outcome here
+    Julia:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Variables:
+            - Paste un-numbered outcome here
+        Operators:
+            - Paste un-numbered outcome here
+        Arithmetic Operators:
+            - Paste un-numbered outcome here
+        Unary Operators:
+            - Paste un-numbered outcome here
+        Logical Operators:
+            - Paste un-numbered outcome here
+        Data Types:
+            - Paste un-numbered outcome here
+        Control Flow:
+            - Paste un-numbered outcome here
+        Functions:
+            - Paste un-numbered outcome here
+        Exception Handling:
+            - Paste un-numbered outcome here
+        Integrating Julia concepts:
+            - Paste un-numbered outcome here
+        Debugging:
+            - Paste un-numbered outcome here
+
+## Topic Break
+
+Data Analysis:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Exploratory Data Analysis:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+    Pandas:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Data frames:
+            - Loading
+            - Creating
+            - Merging
+            - Appending
+            - Index
+            - Multi Index
+    Numpy:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+    Tidyverse:
+        Topic Outcome:
+            - Paste un-numbered outcome here
+    Excel:
+        Topic Outcome:
+            - Paste un-numbered outcome here
+        Excel functions:
+            - Paste un-numbered outcome here
+
+## Topic Break
+
+Data Visualization:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Effective visualizations:
+        - Paste un-numbered outcome here
+    Effective dashboards:
+        - Paste un-numbered outcome here
+    Tableau:
+        Topic Outcome:
+            - Paste un-numbered outcome here
+        Interactivity:
+            - Paste un-numbered outcome here
