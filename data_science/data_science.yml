@@ -1,3 +1,5 @@
+## Topic Break
+
 File Systems:
     Topic Outcome:
         - Paste un-numbered outcome here
@@ -10,15 +12,29 @@ File Systems:
     Converting between Relative and Absolute Paths:
         - Paste un-numbered outcome here
 
+## Topic Break
+
+Ecosystems:
+    Topic Outcome:
+        - Paste un-numbered outcome here
+    Jupyter:
+        - Paste un-numbered outcome here
+    Quarto:
+        - Paste un-numbered outcome here
+    RStudio:
+        - Paste un-numbered outcome here
+    Visual Studio Code:
+        - Paste un-numbered outcome here
+
+## Topic Break
+
 Terminal:
     Topic Outcome:
         - Paste un-numbered outcome here
     Commands:
         - Paste un-numbered outcome here
-    Installation and setup:
-        - Paste un-numbered outcome here
-    Jupyter notebook:
-        - Paste un-numbered outcome here
+
+## Topic Break
 
 Version Control:
     Topic Outcome:
@@ -41,6 +57,8 @@ Version Control:
         - Paste un-numbered outcome here
     Collaboration:
         - Paste un-numbered outcome here
+
+## Topic Break
 
 Markdown:
     Topic Outcome:
@@ -65,29 +83,21 @@ Markdown:
     Debugging:
         - Paste un-numbered outcome here
 
-## Start here
+## Topic Break
 
 Programming:
     Topic Outcome:
         - Paste un-numbered outcome here
-    Iteration:
-        - Paste un-numbered outcome here
-    Conditionals:
-        - Paste un-numbered outcome here
-    Sequences:
-        - Paste un-numbered outcome here
-    Data Types:
+    Control Flow:
         - Paste un-numbered outcome here
     Assignment:
-        - Paste un-numbered outcome here
-    Variables:
         - Paste un-numbered outcome here
     Python: 
         Subtopic Outcome:
             - Paste un-numbered outcome here
-        Dictionaries:
+        Variables:
             - Paste un-numbered outcome here
-        Lists:
+        Operators:
             - Paste un-numbered outcome here
         Arithmetic Operators:
             - Paste un-numbered outcome here
@@ -95,89 +105,118 @@ Programming:
             - Paste un-numbered outcome here
         Logical Operators:
             - Paste un-numbered outcome here
+        Data Types:
+            - Paste un-numbered outcome here
+        Control Flow:
+            - if/else statements
+            - case/match statements
+            - for loops
+            - while loops
+            - do while loops
+            - Paste un-numbered outcome here
+            - Paste un-numbered outcome here
+        Dictionaries:
+            - Paste un-numbered outcome here
+        Lists:
+            - Paste un-numbered outcome here
+        Functions:
+            - Paste un-numbered outcome here
         Integrating python concepts:
             - Paste un-numbered outcome here
-Functions:
-    Subtopic Outcome:
-        - Paste un-numbered outcome here
-    Writing functions:
-        - Paste un-numbered outcome here
-    Exception Handling:
-        - Paste un-numbered outcome here
+        Debugging:
+            - Paste un-numbered outcome here
+    R:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Variables:
+            - Paste un-numbered outcome here
+        Operators:
+            - Paste un-numbered outcome here
+        Arithmetic Operators:
+            - Paste un-numbered outcome here
+        Unary Operators:
+            - Paste un-numbered outcome here
+        Logical Operators:
+            - Paste un-numbered outcome here
+        Data Types:
+            - Paste un-numbered outcome here
+        Control Flow:
+            - Paste un-numbered outcome here
+        Functions:
+            - Paste un-numbered outcome here
+        Exception Handling:
+            - Paste un-numbered outcome here
+        Integrating R concepts:
+            - Paste un-numbered outcome here
+        Debugging:
+            - Paste un-numbered outcome here
+    Julia:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+        Variables:
+            - Paste un-numbered outcome here
+        Operators:
+            - Paste un-numbered outcome here
+        Arithmetic Operators:
+            - Paste un-numbered outcome here
+        Unary Operators:
+            - Paste un-numbered outcome here
+        Logical Operators:
+            - Paste un-numbered outcome here
+        Data Types:
+            - Paste un-numbered outcome here
+        Control Flow:
+            - Paste un-numbered outcome here
+        Functions:
+            - Paste un-numbered outcome here
+        Exception Handling:
+            - Paste un-numbered outcome here
+        Integrating Julia concepts:
+            - Paste un-numbered outcome here
+        Debugging:
+            - Paste un-numbered outcome here
 
-Pandas and Seaborn:
-    Topic Outcome:
-        - Paste un-numbered outcome here
-    Dataframes ( creation i.e. importing and starting from scratch, manipulation, merging, etc.):
-        - Paste un-numbered outcome here
-    Graph types and capabilities:
-        - Paste un-numbered outcome here
-    Graph properties (i.e. data point size, colour, x and y labels, title, subheading, font size):
-        - Paste un-numbered outcome here
+## Topic Break
 
 Data Analysis:
     Topic Outcome:
         - Paste un-numbered outcome here
-    Pandas:
-        - Paste un-numbered outcome here
     Exploratory Data Analysis:
-        - Paste un-numbered outcome here
-Excel:
-    Topic Outcome:
-        - Paste un-numbered outcome here
-    Excel commands and functions:
-        - Paste un-numbered outcome here
-
-Data Visualization:
-    Tableau:
-    Topic Outcome:
-        - Paste un-numbered outcome here
         Subtopic Outcome:
             - Paste un-numbered outcome here
-        Tableau capabilities:
+    Pandas:
+        Subtopic Outcome:
             - Paste un-numbered outcome here
-        Creating effective dashboards:
+        Data frames:
+            - Loading
+            - Creating
+            - Merging
+            - Appending
+            - Index
+            - Multi Index
+    Numpy:
+        Subtopic Outcome:
+            - Paste un-numbered outcome here
+    Tidyverse:
+        Topic Outcome:
+            - Paste un-numbered outcome here
+    Excel:
+        Topic Outcome:
+            - Paste un-numbered outcome here
+        Excel functions:
             - Paste un-numbered outcome here
 
+## Topic Break
 
-
-
-Data Visualization and Data Analysis:
+Data Visualization:
     Topic Outcome:
         - Paste un-numbered outcome here
-
-    Graph Types and uses for each one:
+    Effective visualizations:
         - Paste un-numbered outcome here
-
-Statistics and Probability:
-    Topic Outcome:
+    Effective dashboards:
         - Paste un-numbered outcome here
-    Estimation and Confidence Intervals:
-        - Paste un-numbered outcome here
-    Simulations:
-        - Paste un-numbered outcome here
-    Distribution (i.e. standard, normal):
-        - Paste un-numbered outcome here
-    Central Limit Theorem:
-        - Paste un-numbered outcome here
-    Standard Deviation:
-        - Paste un-numbered outcome here
-    Sampling:
-        - Paste un-numbered outcome here
-    Randomness:
-        - Paste un-numbered outcome here
-    Prediction:
-        - Paste un-numbered outcome here
-
-R:
-    Topic Outcome:
-        - Paste un-numbered outcome here
-    Lists:
-        - Paste un-numbered outcome here
-    Tables (Creating and manipulating rows/columns):
-        - Paste un-numbered outcome here
-    Sampling:
-        - Paste un-numbered outcome here
-    Graphs:
-        - Paste un-numbered outcome here
-
+    Tableau:
+        Topic Outcome:
+            - Paste un-numbered outcome here
+        Interactivity:
+            - Paste un-numbered outcome here
