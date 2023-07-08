@@ -21,20 +21,20 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           token: ${{ secrets.API_TOKEN_GITHUB }}
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
-          python-version: 3.8
+          python-version: 3.9
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
         
       - name: execute script
         run: |
-          python process_outcomes.py Masterlist_Topics_Outcomes.yml
+          python scripts/process_outcomes.py
           
       - uses: EndBug/add-and-commit@v7
         with:
