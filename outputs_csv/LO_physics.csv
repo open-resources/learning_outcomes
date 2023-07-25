@@ -520,7 +520,8 @@ Waves,Topic Outcome,,Show how the velocity of the medium differs from the wave v
 Waves,Topic Outcome,,Determine the factors that affect the speed of a wave on a string.{608},16.1.1.6
 Waves,Topic Outcome,,Write a mathematical expression for the speed of a wave on a string and generalize these concepts for other media.{609},16.1.1.7
 Waves,Traveling Waves,,"Explain the difference between longitudinal and transverse waves, and give examples of each type.{597}",16.2.1.0
-Waves,Traveling Waves,,Paste un-numbered outcome here,16.2.1.1
+Waves,Traveling Waves,,Explain how the displacement of particles in different waveforms changes over time.,16.2.1.1
+Waves,Traveling Waves,,Paste un-numbered outcome here.,16.2.1.2
 Waves,Standing Waves,,Describe standing waves and explain how they are produced.{624},16.3.1.0
 Waves,Standing Waves,,Describe the modes of a standing wave on a string.{625},16.3.1.1
 Waves,Standing Waves,,Provide examples of standing waves beyond the waves on a string.{626},16.3.1.2
@@ -533,6 +534,9 @@ Waves,Power of a Wave,,Paste un-numbered outcome here,16.5.1.1
 Waves,Interference,,Explain how mechanical waves are reflected and transmitted at the boundaries of a medium.{618},16.6.1.0
 Waves,Interference,,Define the terms interference and superposition.{619},16.6.1.1
 Waves,Interference,,Find the resultant wave of two identical sinusoidal waves that differ only by a phase shift.{620},16.6.1.2
+Waves,Interference,,Understanding of nodal/antinodal lines and their significance in wave interference patterns.,16.6.1.3
+Waves,Interference,,Analyze the alignment of troughs along antinodal lines and the impact on the intensity of the resulting wave.,16.6.1.4
+Waves,Interference,,Compare the intensity of the wave resulting from interference to the intensity of the individual source waves.,16.6.1.5
 Waves,Sound,Subtopic Outcome,Explain the difference between sound and hearing.{632},16.7.1.0
 Waves,Sound,Subtopic Outcome,Describe sound as a wave.{633},16.7.1.1
 Waves,Sound,Subtopic Outcome,List the equations used to model sound waves.{634},16.7.1.2
