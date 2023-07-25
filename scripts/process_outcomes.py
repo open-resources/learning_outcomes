@@ -42,12 +42,12 @@ def main():
                 try:
                     for k3,v3 in v2.items():
                         for i,lo in enumerate(v3):
-                            rows.append([k1,k2,k3,lo,'{0}.{1}.{2}.{3}'.format(topic_counter,subtopic_counter,subsubtopic_counter,i)])
+                            rows.append([k1,k2,k3,lo,f"{topic_counter}.{subtopic_counter}.{subsubtopic_counter}.{i}" ])
                             #print(k1+','+k2+',',k3,',',v,',','{0}.{1}.{2}.{3}'.format(topic_counter,subtopic_counter,subsubtopic_counter,i))
                         subsubtopic_counter += 1
                 except AttributeError:
                     for i,lo in enumerate(v2):
-                        rows.append([k1,k2,'',lo,'{0}.{1}.{2}.{3}'.format(topic_counter,subtopic_counter,subsubtopic_counter,i)])
+                        rows.append([k1,k2,'',lo,f"{topic_counter}.{subtopic_counter}.{subsubtopic_counter}.{i}" ])
                         #print(k1+','+k2+',','',',',v,',','{0}.{1}.{2}.{3}'.format(topic_counter,subtopic_counter,subsubtopic_counter,i))
                 subtopic_counter += 1
             topic_counter += 1
