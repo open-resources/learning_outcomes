@@ -412,6 +412,9 @@ Numbered Topic,Topic,Subtopic,Subsubtopic,Learning Outcome,Code
 012.Gravitation,Gravitation,Topic Outcome,,List the significant milestones in the history of gravitation.{445},12.1.1.0
 012.Gravitation,Gravitation,Topic Outcome,,Determine the mass of an astronomical body from free-fall acceleration at its surface.{452},12.1.1.1
 012.Gravitation,Gravitation,Topic Outcome,,Describe how the value of g varies due to location and Earth's rotation.{453},12.1.1.2
+012.Gravitation,Gravitation,Topic Outcome,,Understanding the concept of gravitational force and its role in determining the motion of celestial bodies.,12.1.1.3
+012.Gravitation,Gravitation,Topic Outcome,,Apply the inverse square law of gravitation to explain how the gravitational force between the Sun and planets varies with distance.,12.1.1.4
+012.Gravitation,Gravitation,Topic Outcome,,"Relate the gravitation and celestial mechanics concepts to explain the interaction between the Sun, planets, and moons.",12.1.1.5
 012.Gravitation,Gravitation,Newton's Law of Gravity,,Calculate the gravitational force between two point masses.{446},12.2.1.0
 012.Gravitation,Gravitation,Newton's Law of Gravity,,Estimate the gravitational force between collections of mass.{447},12.2.1.1
 012.Gravitation,Gravitation,Newton's Law of Gravity,,Explain the connection between the constants G and g.{451},12.2.1.2
