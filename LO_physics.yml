@@ -1136,11 +1136,15 @@ Magnetism:
             - Determine the induced emf in a loop at any time interval, rotating at a constant rate in a magnetic field.{1159}
             - Show that rotating coils have an induced emf; in motors this is called back emf because it opposes the emf input to the motor.{1160} 
         Induced Currents:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Explain the concept of induced currents resulting from changes in magnetic flux.
+            - Predict the direction of induced currents in conductive materials based on the changing magnetic flux.
+            - Calculate the magnitude of induced currents in conductors when exposed to changing magnetic fields.
+            - Identify practical applications of induced currents, such as electromagnetic braking, induction heating, and metal detection.
         Induced Fields:
-            - Paste un-numbered outcome here
-            - Paste un-numbered outcome here
+            - Predict the direction and magnitude of induced magnetic fields when there are changes in magnetic flux.
+            - Calculate the magnitude of induced magnetic fields around a current-carrying conductor when the current changes.
+            - Apply the right-hand rule to determine the direction of induced magnetic fields in relation to current changes.
+            - Identify real-world applications of induced magnetic fields, such as in transformers, solenoids, and magnetic sensors.
         Motional EMF:
             - Determine the magnitude of an induced emf in a wire moving at a constant speed through a magnetic field.{1143}
             - Discuss examples that use motional emf, such as a rail gun and a tethered satellite.{1144} 
@@ -1148,11 +1152,15 @@ Magnetism:
             - Explain how eddy currents are created in metals.{1153}
             - Describe situations where eddy currents are beneficial and where they are not helpful.{1154} 
         Faraday's Law:
+            - Define Faraday’s law and explain its fundamental principle in the context of electromagnetic induction.
             - Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop.{1134} 
             - Connect the relationship between an induced emf from Faraday’s law to an electric field, thereby showing that a changing magnetic flux creates an electric field.{1148}
+            - Analyze practical scenarios where  Faraday’s laws are applied, such as generators, transformers, and induction cooktops.
         Lenz's Law:
-            - Use Lenz’s law to determine the direction of induced emf whenever a magnetic flux changes.{1138}
-            - Paste un-numbered outcome here
+            - Use Lenz’s law to determine the direction and polarity of induced emf whenever a magnetic flux changes.{1138}
+            - Define Lenz’s law and explain its fundamental principle in the context of electromagnetic induction and describe how Lenz’s law is a consequence of the law of conservation of energy.
+            - Apply Lenz’s law to predict the direction of induced currents in conductors when exposed to changing magnetic fields.
+            - Analyze how Lenz’s law applies to real-world situations involving changing magnetic fields.
 
 # Topic Break
 
