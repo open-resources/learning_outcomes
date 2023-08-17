@@ -779,18 +779,26 @@ Numbered Topic,Topic,Subtopic,Subsubtopic,Learning Outcome,Code
 019.Magnetism,Magnetism,Electromagnetic Induction,Subtopic Outcome,Explain how an electric generator works.{1158},19.8.1.3
 019.Magnetism,Magnetism,Electromagnetic Induction,Subtopic Outcome,"Determine the induced emf in a loop at any time interval, rotating at a constant rate in a magnetic field.{1159}",19.8.1.4
 019.Magnetism,Magnetism,Electromagnetic Induction,Subtopic Outcome,Show that rotating coils have an induced emf; in motors this is called back emf because it opposes the emf input to the motor.{1160},19.8.1.5
-019.Magnetism,Magnetism,Electromagnetic Induction,Induced Currents,Paste un-numbered outcome here,19.8.2.0
-019.Magnetism,Magnetism,Electromagnetic Induction,Induced Currents,Paste un-numbered outcome here,19.8.2.1
-019.Magnetism,Magnetism,Electromagnetic Induction,Induced Fields,Paste un-numbered outcome here,19.8.3.0
-019.Magnetism,Magnetism,Electromagnetic Induction,Induced Fields,Paste un-numbered outcome here,19.8.3.1
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Currents,Explain the concept of induced currents resulting from changes in magnetic flux.,19.8.2.0
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Currents,Predict the direction of induced currents in conductive materials based on the changing magnetic flux.,19.8.2.1
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Currents,Calculate the magnitude of induced currents in conductors when exposed to changing magnetic fields.,19.8.2.2
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Currents,"Identify practical applications of induced currents, such as electromagnetic braking, induction heating, and metal detection.",19.8.2.3
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Fields,Predict the direction and magnitude of induced magnetic fields when there are changes in magnetic flux.,19.8.3.0
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Fields,Calculate the magnitude of induced magnetic fields around a current-carrying conductor when the current changes.,19.8.3.1
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Fields,Apply the right-hand rule to determine the direction of induced magnetic fields in relation to current changes.,19.8.3.2
+019.Magnetism,Magnetism,Electromagnetic Induction,Induced Fields,"Identify real-world applications of induced magnetic fields, such as in transformers, solenoids, and magnetic sensors.",19.8.3.3
 019.Magnetism,Magnetism,Electromagnetic Induction,Motional EMF,Determine the magnitude of an induced emf in a wire moving at a constant speed through a magnetic field.{1143},19.8.4.0
 019.Magnetism,Magnetism,Electromagnetic Induction,Motional EMF,"Discuss examples that use motional emf, such as a rail gun and a tethered satellite.{1144}",19.8.4.1
 019.Magnetism,Magnetism,Electromagnetic Induction,Eddy Currents,Explain how eddy currents are created in metals.{1153},19.8.5.0
 019.Magnetism,Magnetism,Electromagnetic Induction,Eddy Currents,Describe situations where eddy currents are beneficial and where they are not helpful.{1154},19.8.5.1
-019.Magnetism,Magnetism,Electromagnetic Induction,Faraday's Law,Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop.{1134},19.8.6.0
-019.Magnetism,Magnetism,Electromagnetic Induction,Faraday's Law,"Connect the relationship between an induced emf from Faraday’s law to an electric field, thereby showing that a changing magnetic flux creates an electric field.{1148}",19.8.6.1
-019.Magnetism,Magnetism,Electromagnetic Induction,Lenz's Law,Use Lenz’s law to determine the direction of induced emf whenever a magnetic flux changes.{1138},19.8.7.0
-019.Magnetism,Magnetism,Electromagnetic Induction,Lenz's Law,Paste un-numbered outcome here,19.8.7.1
+019.Magnetism,Magnetism,Electromagnetic Induction,Faraday's Law,Define Faraday’s law and explain its fundamental principle in the context of electromagnetic induction.,19.8.6.0
+019.Magnetism,Magnetism,Electromagnetic Induction,Faraday's Law,Use Faraday’s law to determine the magnitude of induced emf in a closed loop due to changing magnetic flux through the loop.{1134},19.8.6.1
+019.Magnetism,Magnetism,Electromagnetic Induction,Faraday's Law,"Connect the relationship between an induced emf from Faraday’s law to an electric field, thereby showing that a changing magnetic flux creates an electric field.{1148}",19.8.6.2
+019.Magnetism,Magnetism,Electromagnetic Induction,Faraday's Law,"Analyze practical scenarios where  Faraday’s laws are applied, such as generators, transformers, and induction cooktops.",19.8.6.3
+019.Magnetism,Magnetism,Electromagnetic Induction,Lenz's Law,Use Lenz’s law to determine the direction and polarity of induced emf whenever a magnetic flux changes.{1138},19.8.7.0
+019.Magnetism,Magnetism,Electromagnetic Induction,Lenz's Law,Define Lenz’s law and explain its fundamental principle in the context of electromagnetic induction and describe how Lenz’s law is a consequence of the law of conservation of energy.,19.8.7.1
+019.Magnetism,Magnetism,Electromagnetic Induction,Lenz's Law,Apply Lenz’s law to predict the direction of induced currents in conductors when exposed to changing magnetic fields.,19.8.7.2
+019.Magnetism,Magnetism,Electromagnetic Induction,Lenz's Law,Analyze how Lenz’s law applies to real-world situations involving changing magnetic fields.,19.8.7.3
 020.Electromagnetic Waves,Electromagnetic Waves,Topic Outcome,,Describe how electromagnetic waves are produced and detected.{1252},20.1.1.0
 020.Electromagnetic Waves,Electromagnetic Waves,Topic Outcome,,Calculate the relative magnitude of the electric and magnetic fields in an electromagnetic plane wave.{1251},20.1.1.1
 020.Electromagnetic Waves,Electromagnetic Waves,Topic Outcome,,Express the time-averaged energy density of electromagnetic waves in terms of their electric and magnetic field amplitudes.{1256},20.1.1.2
