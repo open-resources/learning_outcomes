@@ -66,6 +66,7 @@ Distributions of random variables:
         - Calculate probability of a given number of successes in a given number of trials using the binomial distribution $P(k = K) = \frac{n!}{k!~(n - k)!}~p^k~(1-p)^{(n - k)}$.
         - Calculate the expected number of successes in a given number of binomial trials $(\mu = np)$ and its standard deviation $(\sigma = \sqrt{np(1-p)})$.
         - When number of trials is sufficiently large ($np \ge 10$ and $n(1-p) \ge 10$), use normal approximation to calculate binomial probabilities, and explain why this approach works.
+        - Cumulative density function and probability mass functions.
 
 # Topic Break
 
@@ -113,7 +114,7 @@ Inference for categorical data:
         - Note that the reason for the difference in calculations of standard error is the same as in the case of the single proportion; when the null hypothesis claims that the two population proportions are equal, we need to take that into consideration when calculating the standard error for the hypothesis test, and use a common proportion for both samples.
         - Use a chi-square test of goodness of fit to evaluate if the distribution of levels of a single categorical variable follows a hypothesized distribution.
         - Calculate the expected counts for a given level (cell) in a one-way table as the sample size times the hypothesized proportion for that level.
-        - Calculate the chi-square test statistic. 
+        - Calculate the chi-square test statistic.
         - Note that the chi-square distribution is right skewed with one parameter; degrees of freedom. In the case of a goodness of fit test, $df = \# \text{of categories} - 1$.
         - List the conditions necessary for performing a chi-square test (goodness of fit or independence).
         - Describe how to use the chi-square table to obtain a p-value.
@@ -124,7 +125,7 @@ Inference for categorical data:
         - Use simulation methods when sample size conditions aren't met for inference for categorical variables.
         - In hypothesis testing; for one categorical variable, generate simulated samples based on the null hypothesis, and then calculate the number of samples that are at least as extreme as the observed data. For two categorical variables, use a randomization test.
         - Use bootstrap methods for confidence intervals for categorical variables with at most two levels.
-        
+
 # Topic Break
 
 Inference for numerical data:
@@ -159,7 +160,7 @@ Introduction to linear regression:
     Topic Outcome:
         - Define the explanatory variable as the independent variable (predictor), and the response variable as the dependent variable (predicted).
         - Plot the explanatory variable ($x$) on the x-axis and the response variable ($y$) on the y-axis, and fit a linear regression model.
-        - When describing the association between two numerical variables, evaluate direction, form and strength. 
+        - When describing the association between two numerical variables, evaluate direction, form and strength.
         - Define correlation as the linear association between two numerical variables.
         - Note the correlation coefficient ($r$, also called Pearson's $r$) and its following properties.
         - Recall that correlation does not imply causation.
@@ -170,7 +171,7 @@ Introduction to linear regression:
         - Interpret the slope.
         - Note that the least squares line always passes through the average of the response and explanatory variables ($\bar{x},\bar{y}$).
         - Use the above property to calculate the estimate for the slope ($b_0$) as $b_0 = \bar{y} - b_1 \bar{x}$, where $b_1$ is the slope, $\bar{y}$ is the average of the response variable, and $\bar{x}$ is the average of explanatory variable.
-        - Interpret the intercept. 
+        - Interpret the intercept.
         - Predict the value of the response variable for a given value of the explanatory variable, $x^\star$, by plugging in $x^\star$ in the linear model.
         - Define $R^2$ as the percentage of the variability in the response variable explained by the the explanatory variable.
         - Define a leverage point as a point that lies away from the center of the data in the horizontal direction.
