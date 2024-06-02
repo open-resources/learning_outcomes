@@ -203,3 +203,31 @@ Multiple and logistic regression:
         - Adjusted $R^2$ method is more computationally intensive, but it is more reliable, since it doesn't depend on an arbitrary significant level.
         - List the conditions for multiple linear regression as; (1) linear relationship between each (numerical) explanatory variable and the response - checked using scatterplots of $y$ vs. each $x$, and residuals plots of $residuals$ vs. each $x$, (2) nearly normal residuals with mean 0 - checked using a normal probability plot and histogram of residuals, (3) constant variability of residuals - checked using residuals plots of $residuals$ vs. $\hat{y}$, and $residuals$ vs. each $x$, (4) independence of residuals (and hence observations) - checked using a scatterplot of $residuals$ vs. order of data collection (will reveal non-independence if data have time series structure).
         - Note that no model is perfect, but even imperfect models can be useful.
+
+# Topic Break
+
+Sampling and Design
+    Topic Outcome:
+        - Explain the purpose and importance of sampling in statistics.
+        - Assess the representativeness of a sample and identify and avoid sources of sampling bias and nonsampling errors.
+        - Critically evaluate statistical studies for issues related to sample selection, sample size, and potential biases.
+        - Apply appropriate rounding techniques to data values.
+        - Define and differentiate between the four levels of measurement: nominal, ordinal, interval, and ratio.
+        - Differentiate between descriptive and inferential statistics.
+        - Define and differentiate between key terms such as population, sample, parameter, statistic, variable, and data.
+        - Use appropriate symbols (e.g. $\bar x$) to represent data values.
+        - Design and conduct simple surveys or experiments to collect and analyze data, ensuring ethical considerations.
+        - Distinguish between sampling errors and nonsampling errors.
+        - Discuss the use of graphs in presenting data and the importance of selecting the most informative graph based on the data and context.
+        - Identify the population, sample, experimental units, explanatory variable, response variable, and treatments in a study.
+        - Recognize the importance of proper experimental design to ensure reliable and accurate data.
+        - Define and explain the purpose of randomized experiments.
+        - Define lurking variables and understand their potential impact on experimental results.
+        - Explain how random assignment helps control for lurking variables and ensures that treatment groups are comparable.
+        - Define blinding and double-blinding in the context of experiments.
+        - Understand the role of placebo treatments and control groups in reducing the power of suggestion.
+        - Interpret the results of experiments and identify cause-and-effect relationships between variables.
+        - Recognize and explain unethical behavior in the context of statistical studies.
+        - Design an experiment to test a specific hypothesis, including identifying variables, treatments, and methods for random assignment.
+        - Critically evaluate the design and execution of experiments to identify strengths and weaknesses and determine the validity and reliability of the results.
+        - Explain the key protections mandated by law for research involving human participants, including informed consent and data privacy.
