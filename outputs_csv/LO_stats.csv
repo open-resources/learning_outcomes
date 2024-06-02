@@ -162,3 +162,26 @@ Numbered Topic,Topic,Subtopic,Subsubtopic,Learning Outcome,Code
 009.Multiple and logistic regression,Multiple and logistic regression,Topic Outcome,,"Adjusted $R^2$ method is more computationally intensive, but it is more reliable, since it doesn't depend on an arbitrary significant level.",9.1.1.12
 009.Multiple and logistic regression,Multiple and logistic regression,Topic Outcome,,"List the conditions for multiple linear regression as; (1) linear relationship between each (numerical) explanatory variable and the response - checked using scatterplots of $y$ vs. each $x$, and residuals plots of $residuals$ vs. each $x$, (2) nearly normal residuals with mean 0 - checked using a normal probability plot and histogram of residuals, (3) constant variability of residuals - checked using residuals plots of $residuals$ vs. $\hat{y}$, and $residuals$ vs. each $x$, (4) independence of residuals (and hence observations) - checked using a scatterplot of $residuals$ vs. order of data collection (will reveal non-independence if data have time series structure).",9.1.1.13
 009.Multiple and logistic regression,Multiple and logistic regression,Topic Outcome,,"Note that no model is perfect, but even imperfect models can be useful.",9.1.1.14
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Explain the purpose and importance of sampling in statistics.,10.1.1.0
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Assess the representativeness of a sample and identify and avoid sources of sampling bias and nonsampling errors.,10.1.1.1
+010.Sampling and Design,Sampling and Design,Topic Outcome,,"Critically evaluate statistical studies for issues related to sample selection, sample size, and potential biases.",10.1.1.2
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Apply appropriate rounding techniques to data values.,10.1.1.3
+010.Sampling and Design,Sampling and Design,Topic Outcome,,"{'Define and differentiate between the four levels of measurement': 'nominal, ordinal, interval, and ratio.'}",10.1.1.4
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Differentiate between descriptive and inferential statistics.,10.1.1.5
+010.Sampling and Design,Sampling and Design,Topic Outcome,,"Define and differentiate between key terms such as population, sample, parameter, statistic, variable, and data.",10.1.1.6
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Use appropriate symbols (e.g. $\bar x$) to represent data values.,10.1.1.7
+010.Sampling and Design,Sampling and Design,Topic Outcome,,"Design and conduct simple surveys or experiments to collect and analyze data, ensuring ethical considerations.",10.1.1.8
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Distinguish between sampling errors and nonsampling errors.,10.1.1.9
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Discuss the use of graphs in presenting data and the importance of selecting the most informative graph based on the data and context.,10.1.1.10
+010.Sampling and Design,Sampling and Design,Topic Outcome,,"Identify the population, sample, experimental units, explanatory variable, response variable, and treatments in a study.",10.1.1.11
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Recognize the importance of proper experimental design to ensure reliable and accurate data.,10.1.1.12
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Define and explain the purpose of randomized experiments.,10.1.1.13
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Define lurking variables and understand their potential impact on experimental results.,10.1.1.14
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Explain how random assignment helps control for lurking variables and ensures that treatment groups are comparable.,10.1.1.15
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Define blinding and double-blinding in the context of experiments.,10.1.1.16
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Understand the role of placebo treatments and control groups in reducing the power of suggestion.,10.1.1.17
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Interpret the results of experiments and identify cause-and-effect relationships between variables.,10.1.1.18
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Recognize and explain unethical behavior in the context of statistical studies.,10.1.1.19
+010.Sampling and Design,Sampling and Design,Topic Outcome,,"Design an experiment to test a specific hypothesis, including identifying variables, treatments, and methods for random assignment.",10.1.1.20
+010.Sampling and Design,Sampling and Design,Topic Outcome,,Critically evaluate the design and execution of experiments to identify strengths and weaknesses and determine the validity and reliability of the results.,10.1.1.21
+010.Sampling and Design,Sampling and Design,Topic Outcome,,"Explain the key protections mandated by law for research involving human participants, including informed consent and data privacy.",10.1.1.22
